@@ -25,7 +25,9 @@ function extractStringLiteral(quickInfo: string): string | null {
   if (eq < 0) return null;
   const rhs = quickInfo.slice(eq + 1).trim();
   const m = rhs.match(/^"([\s\S]*)"$/);
-  return m ? m[1]! : null;
+  // Unescape the \" and \\ that quick-info adds when rendering a string-literal
+  // type, so a sentence containing quotes (e.g. 라고 quotation) shows correctly.
+  return m ? m[1]!.replace(/\\(["\\])/g, "$1") : null;
 }
 
 /**

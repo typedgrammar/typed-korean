@@ -4,4 +4,6640 @@
 
 import type { ExampleRef } from "./types";
 
-export const REVERSE_INDEX: Record<string, ExampleRef[]> = {};
+export const REVERSE_INDEX: Record<string, ExampleRef[]> = {
+  "가다": [
+    {
+      "chapterId": "a02",
+      "chapterTitleEn": "Reasons: -아서 vs -(으)니까",
+      "chapterTitleZh": "原因：-아서 与 -(으)니까",
+      "pointTitleEn": "-아서/어서 — background cause flowing into a result",
+      "pointTitleZh": "-아서/어서：顺承背景原因",
+      "anchor": "ex-a02-a02-1-0",
+      "jp": "비가 와서 안 가요"
+    },
+    {
+      "chapterId": "a02",
+      "chapterTitleEn": "Reasons: -아서 vs -(으)니까",
+      "chapterTitleZh": "原因：-아서 与 -(으)니까",
+      "pointTitleEn": "-아서/어서 — background cause flowing into a result",
+      "pointTitleZh": "-아서/어서：顺承背景原因",
+      "anchor": "ex-a02-a02-1-1",
+      "jp": "시간이 없어서 빨리 가요"
+    },
+    {
+      "chapterId": "a02",
+      "chapterTitleEn": "Reasons: -아서 vs -(으)니까",
+      "chapterTitleZh": "原因：-아서 与 -(으)니까",
+      "pointTitleEn": "-(으)니까 — assertive explanation and 받침 allomorphs",
+      "pointTitleZh": "-(으)니까：断言性解释与收音异形体",
+      "anchor": "ex-a02-a02-2-0",
+      "jp": "시간이 없으니까 빨리 가요"
+    },
+    {
+      "chapterId": "a02",
+      "chapterTitleEn": "Reasons: -아서 vs -(으)니까",
+      "chapterTitleZh": "原因：-아서 与 -(으)니까",
+      "pointTitleEn": "Side-by-side contrast and the formal 합니다체 register",
+      "pointTitleZh": "对比总结与正式语体 합니다체",
+      "anchor": "ex-a02-a02-4-0",
+      "jp": "비가 와서 안 갑니다"
+    },
+    {
+      "chapterId": "a02",
+      "chapterTitleEn": "Reasons: -아서 vs -(으)니까",
+      "chapterTitleZh": "原因：-아서 与 -(으)니까",
+      "pointTitleEn": "Side-by-side contrast and the formal 합니다체 register",
+      "pointTitleZh": "对比总结与正式语体 합니다체",
+      "anchor": "ex-a02-a02-4-1",
+      "jp": "시간이 없으니까 빨리 갑니다"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-고: sequential 'and then'",
+      "pointTitleZh": "-고：顺序'然后'",
+      "anchor": "ex-a06-a06-1-0",
+      "jp": "저는 밥을 먹고 학교에 가요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-고: sequential 'and then'",
+      "pointTitleZh": "-고：顺序'然后'",
+      "anchor": "ex-a06-a06-1-2",
+      "jp": "저는 한국어를 공부하고 집에 가요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-아서/-어서: causal and sequential 'and so / and then'",
+      "pointTitleZh": "-아서/-어서：因果与紧接顺序的'因此/然后'",
+      "anchor": "ex-a06-a06-2-0",
+      "jp": "저는 매일 학교에 가서 한국어를 공부해요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-(으)면: the conditional 'if'",
+      "pointTitleZh": "-(으)면：条件'如果'",
+      "anchor": "ex-a06-a06-3-2",
+      "jp": "날씨가 좋으면 학교에 가요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "Putting it all together: multi-clause chains",
+      "pointTitleZh": "综合：多分句连锁句",
+      "anchor": "ex-a06-a06-4-0",
+      "jp": "저는 매일 학교에 가서 한국어를 공부하고 집에 와요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "Putting it all together: multi-clause chains",
+      "pointTitleZh": "综合：多分句连锁句",
+      "anchor": "ex-a06-a06-4-2",
+      "jp": "저는 매일 밥을 먹고 학교에 가서 한국어를 배워요"
+    },
+    {
+      "chapterId": "e02",
+      "chapterTitleEn": "Topic and subject: 은/는 and 이/가",
+      "chapterTitleZh": "主题与主格：은/는、이/가",
+      "pointTitleEn": "Subject marker 이/가",
+      "pointTitleZh": "主格助词 이/가",
+      "anchor": "ex-e02-e02-2-2",
+      "jp": "누나가 가요"
+    },
+    {
+      "chapterId": "e04",
+      "chapterTitleEn": "해요체: the polite present (verbs)",
+      "chapterTitleZh": "해요체：动词的非格式体现在时",
+      "pointTitleEn": "The 해요체 rule: inf + 요",
+      "pointTitleZh": "해요체 规则：连用形 + 요",
+      "anchor": "ex-e04-e04-1-0",
+      "jp": "저는 가요"
+    },
+    {
+      "chapterId": "e04",
+      "chapterTitleEn": "해요체: the polite present (verbs)",
+      "chapterTitleZh": "해요체：动词的非格式体现在时",
+      "pointTitleEn": "해요체 vs 합니다체: choosing your register",
+      "pointTitleZh": "해요체 与 합니다체：选择语体",
+      "anchor": "ex-e04-e04-4-1",
+      "jp": "갑니다"
+    },
+    {
+      "chapterId": "e05",
+      "chapterTitleEn": "합니다체: the formal style and questions",
+      "chapterTitleZh": "합니다체：格式体与疑问",
+      "pointTitleEn": "Declarative: Verb + 합니다 / 습니다",
+      "pointTitleZh": "陈述句：动词 + 합니다 / 습니다",
+      "anchor": "ex-e05-e05-1-0",
+      "jp": "저는 갑니다"
+    },
+    {
+      "chapterId": "e05",
+      "chapterTitleEn": "합니다체: the formal style and questions",
+      "chapterTitleZh": "합니다체：格式体与疑问",
+      "pointTitleEn": "Questions: Verb + 합니까 / 습니까?",
+      "pointTitleZh": "疑问句：动词 + 합니까 / 습니까？",
+      "anchor": "ex-e05-e05-2-1",
+      "jp": "어디에 갑니까?"
+    },
+    {
+      "chapterId": "e07",
+      "chapterTitleEn": "Place particles: 에 vs 에서",
+      "chapterTitleZh": "处所助词：에 与 에서",
+      "pointTitleEn": "에 = destination (direction of movement)",
+      "pointTitleZh": "에 表示目的地（移动方向）",
+      "anchor": "ex-e07-e07-1-0",
+      "jp": "학교에 가요"
+    },
+    {
+      "chapterId": "e07",
+      "chapterTitleEn": "Place particles: 에 vs 에서",
+      "chapterTitleZh": "处所助词：에 与 에서",
+      "pointTitleEn": "에 = destination (direction of movement)",
+      "pointTitleZh": "에 表示目的地（移动方向）",
+      "anchor": "ex-e07-e07-1-2",
+      "jp": "도서관에 갑니다"
+    },
+    {
+      "chapterId": "e08",
+      "chapterTitleEn": "Past tense: 았/었어요",
+      "chapterTitleZh": "过去时：았/었어요",
+      "pointTitleEn": "Verb past tense — 해요체 (았/었어요)",
+      "pointTitleZh": "动词过去时 — 해요체（았/었어요）",
+      "anchor": "ex-e08-e08-1-1",
+      "jp": "어제 갔어요"
+    },
+    {
+      "chapterId": "e09",
+      "chapterTitleEn": "Negation: 안 and -지 않다",
+      "chapterTitleZh": "否定：안 与 -지 않다",
+      "pointTitleEn": "Short negation: 안 before a verb",
+      "pointTitleZh": "短否定：안 放在动词前",
+      "anchor": "ex-e09-e09-1-0",
+      "jp": "안 가요"
+    },
+    {
+      "chapterId": "e09",
+      "chapterTitleEn": "Negation: 안 and -지 않다",
+      "chapterTitleZh": "否定：안 与 -지 않다",
+      "pointTitleEn": "Short negation: 안 before a verb",
+      "pointTitleZh": "短否定：안 放在动词前",
+      "anchor": "ex-e09-e09-1-1",
+      "jp": "저는 학교에 안 가요"
+    },
+    {
+      "chapterId": "e09",
+      "chapterTitleEn": "Negation: 안 and -지 않다",
+      "chapterTitleZh": "否定：안 与 -지 않다",
+      "pointTitleEn": "Long negation: -지 않아요",
+      "pointTitleZh": "长否定：-지 않아요",
+      "anchor": "ex-e09-e09-3-0",
+      "jp": "가지 않아요"
+    },
+    {
+      "chapterId": "e09",
+      "chapterTitleEn": "Negation: 안 and -지 않다",
+      "chapterTitleZh": "否定：안 与 -지 않다",
+      "pointTitleEn": "Long negation: -지 않아요",
+      "pointTitleZh": "长否定：-지 않아요",
+      "anchor": "ex-e09-e09-3-1",
+      "jp": "저는 학교에 가지 않아요"
+    },
+    {
+      "chapterId": "e11",
+      "chapterTitleEn": "and / with / also / only: 와·과·하고, 도, 만",
+      "chapterTitleZh": "并列与助词：와·과·하고、도、만",
+      "pointTitleEn": "도 — \"also / too\"",
+      "pointTitleZh": "도 — \"也\"",
+      "anchor": "ex-e11-e11-2-0",
+      "jp": "저도 가요"
+    },
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-고 with verbs: listing and sequence",
+      "pointTitleZh": "-고 接动词：并列与顺序",
+      "anchor": "ex-e12-e12-1-0",
+      "jp": "밥을 먹고 가요"
+    },
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-아서/어서 with verbs: reason and close sequence",
+      "pointTitleZh": "-아서/어서 接动词：原因与紧密序列",
+      "anchor": "ex-e12-e12-3-2",
+      "jp": "학교에 가서 공부해요"
+    },
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-아서/어서 with adjectives: giving a reason",
+      "pointTitleZh": "-아서/어서 接形容词：表示原因",
+      "anchor": "ex-e12-e12-4-0",
+      "jp": "날씨가 좋아서 산에 가요"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Vowel-stem verbs: attach -면 directly",
+      "pointTitleZh": "元音词干动词：直接接 -면",
+      "anchor": "ex-i01-i01-1-1",
+      "jp": "가면 친구를 만나요"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Vowel-stem verbs: attach -면 directly",
+      "pointTitleZh": "元音词干动词：直接接 -면",
+      "anchor": "ex-i01-i01-1-2",
+      "jp": "학교에 가면 공부해요"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Consonant-stem verbs: attach -으면",
+      "pointTitleZh": "辅音词干动词：接 -으면",
+      "anchor": "ex-i01-i01-2-0",
+      "jp": "시간이 있으면 가요"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Adjective conditionals",
+      "pointTitleZh": "形容词条件句",
+      "anchor": "ex-i01-i01-3-0",
+      "jp": "날씨가 좋으면 산에 가요"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Richer conditional sentences",
+      "pointTitleZh": "更丰富的条件句",
+      "anchor": "ex-i01-i01-4-2",
+      "jp": "돈이 있으면 여행을 가요"
+    },
+    {
+      "chapterId": "i02",
+      "chapterTitleEn": "Desire and progressive: -고 싶다, -고 있다",
+      "chapterTitleZh": "愿望与进行：-고 싶다、-고 있다",
+      "pointTitleEn": "-고 싶어요 with subjects, objects, and destinations",
+      "pointTitleZh": "-고 싶어요 与主语、宾语、目的地",
+      "anchor": "ex-i02-i02-2-0",
+      "jp": "한국에 가고 싶어요"
+    },
+    {
+      "chapterId": "i03",
+      "chapterTitleEn": "Ability: -(으)ㄹ 수 있다/없다",
+      "chapterTitleZh": "能力：-(으)ㄹ 수 있다/없다",
+      "pointTitleEn": "Vowel-stem verbs: -ㄹ 수 있어요",
+      "pointTitleZh": "元音词干动词：-ㄹ 수 있어요",
+      "anchor": "ex-i03-i03-1-0",
+      "jp": "갈 수 있어요"
+    },
+    {
+      "chapterId": "i04",
+      "chapterTitleEn": "Future and intention: -(으)ㄹ 거예요",
+      "chapterTitleZh": "将来与意图：-(으)ㄹ 거예요",
+      "pointTitleEn": "-ㄹ 거예요 with vowel-final stems",
+      "pointTitleZh": "元音结尾词干后接 -ㄹ 거예요",
+      "anchor": "ex-i04-i04-1-0",
+      "jp": "내일 갈 거예요"
+    },
+    {
+      "chapterId": "i05",
+      "chapterTitleEn": "Honorific requests: -(으)세요",
+      "chapterTitleZh": "尊敬与请求：-(으)세요",
+      "pointTitleEn": "The -(으)세요 allomorph rule",
+      "pointTitleZh": "-(으)세요 的语音变化规则",
+      "anchor": "ex-i05-i05-1-0",
+      "jp": "가세요"
+    },
+    {
+      "chapterId": "i05",
+      "chapterTitleEn": "Honorific requests: -(으)세요",
+      "chapterTitleZh": "尊敬与请求：-(으)세요",
+      "pointTitleEn": "Set phrases and 합니다체 comparison",
+      "pointTitleZh": "固定表达与합니다체对比",
+      "anchor": "ex-i05-i05-4-0",
+      "jp": "안녕히 가세요"
+    },
+    {
+      "chapterId": "i06",
+      "chapterTitleEn": "Suggestions: -(으)ㄹ까요?",
+      "chapterTitleZh": "提议：-(으)ㄹ까요?",
+      "pointTitleEn": "Core pattern: -(으)ㄹ까요? with common verbs",
+      "pointTitleZh": "核心句型：常见动词 + -(으)ㄹ까요?",
+      "anchor": "ex-i06-i06-1-0",
+      "jp": "같이 갈까요?"
+    }
+  ],
+  "가르치다": [
+    {
+      "chapterId": "i08",
+      "chapterTitleEn": "Comparison: 보다, 처럼, 제일",
+      "chapterTitleZh": "比较：보다、처럼、제일",
+      "pointTitleEn": "처럼 — 'like / as' (resemblance particle)",
+      "pointTitleZh": "처럼 — 类比助词（像……一样）",
+      "anchor": "ex-i08-i08-2-1",
+      "jp": "선생님처럼 가르쳐요"
+    }
+  ],
+  "가방": [
+    {
+      "chapterId": "i08",
+      "chapterTitleEn": "Comparison: 보다, 처럼, 제일",
+      "chapterTitleZh": "比较：보다、처럼、제일",
+      "pointTitleEn": "Combining comparison constructs",
+      "pointTitleZh": "综合运用比较句型",
+      "anchor": "ex-i08-i08-4-0",
+      "jp": "이 가방이 저 가방보다 더 비싸요"
+    }
+  ],
+  "가수": [
+    {
+      "chapterId": "e01",
+      "chapterTitleEn": "Noun sentences: the copula 이다",
+      "chapterTitleZh": "名词谓语句：이다",
+      "pointTitleEn": "해요체 copula after a vowel-final noun: 예요",
+      "pointTitleZh": "해요체系动词接无收音名词：예요",
+      "anchor": "ex-e01-e01-3-1",
+      "jp": "그는 가수예요"
+    },
+    {
+      "chapterId": "e01",
+      "chapterTitleEn": "Noun sentences: the copula 이다",
+      "chapterTitleZh": "名词谓语句：이다",
+      "pointTitleEn": "합니다체: the formal copula 입니다",
+      "pointTitleZh": "합니다체：正式系动词 입니다",
+      "anchor": "ex-e01-e01-4-1",
+      "jp": "그는 가수입니다"
+    },
+    {
+      "chapterId": "i08",
+      "chapterTitleEn": "Comparison: 보다, 처럼, 제일",
+      "chapterTitleZh": "比较：보다、처럼、제일",
+      "pointTitleEn": "처럼 — 'like / as' (resemblance particle)",
+      "pointTitleZh": "처럼 — 类比助词（像……一样）",
+      "anchor": "ex-i08-i08-2-0",
+      "jp": "가수처럼 노래해요"
+    }
+  ],
+  "같이": [
+    {
+      "chapterId": "a04",
+      "chapterTitleEn": "Commands and propositives in context",
+      "chapterTitleZh": "命令与提议的实际运用",
+      "pointTitleEn": "Propositive -(으)ㄹ까요? (shall we…?)",
+      "pointTitleZh": "提议句 -(으)ㄹ까요?（我们……好吗？）",
+      "anchor": "ex-a04-a04-3-0",
+      "jp": "같이 공부할까요?"
+    },
+    {
+      "chapterId": "a04",
+      "chapterTitleEn": "Commands and propositives in context",
+      "chapterTitleZh": "命令与提议的实际运用",
+      "pointTitleEn": "Propositive -(으)ㄹ까요? (shall we…?)",
+      "pointTitleZh": "提议句 -(으)ㄹ까요?（我们……好吗？）",
+      "anchor": "ex-a04-a04-3-2",
+      "jp": "우리 같이 밥을 먹을까요?"
+    },
+    {
+      "chapterId": "a04",
+      "chapterTitleEn": "Commands and propositives in context",
+      "chapterTitleZh": "命令与提议的实际运用",
+      "pointTitleEn": "Register contrast in dialogue",
+      "pointTitleZh": "对话中的语域对比",
+      "anchor": "ex-a04-a04-4-2",
+      "jp": "같이 시작할까요?"
+    },
+    {
+      "chapterId": "i06",
+      "chapterTitleEn": "Suggestions: -(으)ㄹ까요?",
+      "chapterTitleZh": "提议：-(으)ㄹ까요?",
+      "pointTitleEn": "Core pattern: -(으)ㄹ까요? with common verbs",
+      "pointTitleZh": "核心句型：常见动词 + -(으)ㄹ까요?",
+      "anchor": "ex-i06-i06-1-0",
+      "jp": "같이 갈까요?"
+    },
+    {
+      "chapterId": "i06",
+      "chapterTitleEn": "Suggestions: -(으)ㄹ까요?",
+      "chapterTitleZh": "提议：-(으)ㄹ까요?",
+      "pointTitleEn": "받침 allomorphs: -ㄹ까요 vs -을까요",
+      "pointTitleZh": "받침 变体：-ㄹ까요 与 -을까요",
+      "anchor": "ex-i06-i06-2-1",
+      "jp": "같이 공부할까요?"
+    },
+    {
+      "chapterId": "i06",
+      "chapterTitleEn": "Suggestions: -(으)ㄹ까요?",
+      "chapterTitleZh": "提议：-(으)ㄹ까요?",
+      "pointTitleEn": "Adding a subject or adverb: 우리, 같이, 내일",
+      "pointTitleZh": "添加主语或副词：우리、같이、내일",
+      "anchor": "ex-i06-i06-3-1",
+      "jp": "우리 같이 영화를 볼까요?"
+    },
+    {
+      "chapterId": "i06",
+      "chapterTitleEn": "Suggestions: -(으)ㄹ까요?",
+      "chapterTitleZh": "提议：-(으)ㄹ까요?",
+      "pointTitleEn": "Propositive with place: 에서 + -(으)ㄹ까요?",
+      "pointTitleZh": "加地点的提议句：에서 + -(으)ㄹ까요?",
+      "anchor": "ex-i06-i06-4-1",
+      "jp": "도서관에서 같이 공부할까요?"
+    },
+    {
+      "chapterId": "i06",
+      "chapterTitleEn": "Suggestions: -(으)ㄹ까요?",
+      "chapterTitleZh": "提议：-(으)ㄹ까요?",
+      "pointTitleEn": "Propositive with place: 에서 + -(으)ㄹ까요?",
+      "pointTitleZh": "加地点的提议句：에서 + -(으)ㄹ까요?",
+      "anchor": "ex-i06-i06-4-2",
+      "jp": "집에서 같이 밥을 먹을까요?"
+    }
+  ],
+  "걷다": [
+    {
+      "chapterId": "i07",
+      "chapterTitleEn": "Irregular verbs: ㄷ, ㅂ, 으",
+      "chapterTitleZh": "不规则动词：ㄷ、ㅂ、으",
+      "pointTitleEn": "ㄷ-irregular verbs: ㄷ → ㄹ before vowels",
+      "pointTitleZh": "ㄷ 不规则动词：元音前 ㄷ → ㄹ",
+      "anchor": "ex-i07-i07-1-2",
+      "jp": "공원에서 걸어요"
+    }
+  ],
+  "것": [
+    {
+      "chapterId": "i08",
+      "chapterTitleEn": "Comparison: 보다, 처럼, 제일",
+      "chapterTitleZh": "比较：보다、처럼、제일",
+      "pointTitleEn": "제일 / 가장 — superlative adverbs ('the most')",
+      "pointTitleZh": "제일 / 가장 — 最高级副词（最……）",
+      "anchor": "ex-i08-i08-3-2",
+      "jp": "가장 비싼 것을 주세요"
+    }
+  ],
+  "고기": [
+    {
+      "chapterId": "i03",
+      "chapterTitleEn": "Ability: -(으)ㄹ 수 있다/없다",
+      "chapterTitleZh": "能力：-(으)ㄹ 수 있다/없다",
+      "pointTitleEn": "Negation: -(으)ㄹ 수 없어요",
+      "pointTitleZh": "否定：-(으)ㄹ 수 없어요",
+      "anchor": "ex-i03-i03-3-1",
+      "jp": "저는 고기를 먹을 수 없어요"
+    }
+  ],
+  "공부": [
+    {
+      "chapterId": "e09",
+      "chapterTitleEn": "Negation: 안 and -지 않다",
+      "chapterTitleZh": "否定：안 与 -지 않다",
+      "pointTitleEn": "Short negation 안 with an object noun",
+      "pointTitleZh": "短否定 안 与宾语名词",
+      "anchor": "ex-e09-e09-2-2",
+      "jp": "오늘은 공부를 안 해요"
+    }
+  ],
+  "공부하다": [
+    {
+      "chapterId": "a02",
+      "chapterTitleEn": "Reasons: -아서 vs -(으)니까",
+      "chapterTitleZh": "原因：-아서 与 -(으)니까",
+      "pointTitleEn": "-(으)니까 — assertive explanation and 받침 allomorphs",
+      "pointTitleZh": "-(으)니까：断言性解释与收音异形体",
+      "anchor": "ex-a02-a02-2-2",
+      "jp": "한국어가 어려우니까 많이 공부해요"
+    },
+    {
+      "chapterId": "a04",
+      "chapterTitleEn": "Commands and propositives in context",
+      "chapterTitleZh": "命令与提议的实际运用",
+      "pointTitleEn": "Propositive -(으)ㄹ까요? (shall we…?)",
+      "pointTitleZh": "提议句 -(으)ㄹ까요?（我们……好吗？）",
+      "anchor": "ex-a04-a04-3-0",
+      "jp": "같이 공부할까요?"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-고: sequential 'and then'",
+      "pointTitleZh": "-고：顺序'然后'",
+      "anchor": "ex-a06-a06-1-2",
+      "jp": "저는 한국어를 공부하고 집에 가요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-아서/-어서: causal and sequential 'and so / and then'",
+      "pointTitleZh": "-아서/-어서：因果与紧接顺序的'因此/然后'",
+      "anchor": "ex-a06-a06-2-0",
+      "jp": "저는 매일 학교에 가서 한국어를 공부해요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-(으)면: the conditional 'if'",
+      "pointTitleZh": "-(으)면：条件'如果'",
+      "anchor": "ex-a06-a06-3-0",
+      "jp": "시간이 있으면 공부해요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "Putting it all together: multi-clause chains",
+      "pointTitleZh": "综合：多分句连锁句",
+      "anchor": "ex-a06-a06-4-0",
+      "jp": "저는 매일 학교에 가서 한국어를 공부하고 집에 와요"
+    },
+    {
+      "chapterId": "e04",
+      "chapterTitleEn": "해요체: the polite present (verbs)",
+      "chapterTitleZh": "해요체：动词的非格式体现在时",
+      "pointTitleEn": "하다 verbs: noun + 해요",
+      "pointTitleZh": "하다 动词：名词 + 해요",
+      "anchor": "ex-e04-e04-3-0",
+      "jp": "매일 공부해요"
+    },
+    {
+      "chapterId": "e04",
+      "chapterTitleEn": "해요체: the polite present (verbs)",
+      "chapterTitleZh": "해요체：动词的非格式体现在时",
+      "pointTitleEn": "하다 verbs: noun + 해요",
+      "pointTitleZh": "하다 动词：名词 + 해요",
+      "anchor": "ex-e04-e04-3-1",
+      "jp": "저는 매일 한국어를 공부해요"
+    },
+    {
+      "chapterId": "e04",
+      "chapterTitleEn": "해요체: the polite present (verbs)",
+      "chapterTitleZh": "해요체：动词的非格式体现在时",
+      "pointTitleEn": "해요체 vs 합니다체: choosing your register",
+      "pointTitleZh": "해요체 与 합니다체：选择语体",
+      "anchor": "ex-e04-e04-4-2",
+      "jp": "공부합니다"
+    },
+    {
+      "chapterId": "e05",
+      "chapterTitleEn": "합니다체: the formal style and questions",
+      "chapterTitleZh": "합니다체：格式体与疑问",
+      "pointTitleEn": "The ㅂ니다 vs 습니다 allomorph rule",
+      "pointTitleZh": "ㅂ니다 与 습니다 的变体规则",
+      "anchor": "ex-e05-e05-3-2",
+      "jp": "한국어를 공부합니다"
+    },
+    {
+      "chapterId": "e06",
+      "chapterTitleEn": "The object particle 을/를 and SOV order",
+      "chapterTitleZh": "宾格助词 을/를 与 SOV 语序",
+      "pointTitleEn": "Richer SOV sentences with adverbs",
+      "pointTitleZh": "含副词的丰富 SOV 句型",
+      "anchor": "ex-e06-e06-4-1",
+      "jp": "저는 한국어를 공부해요"
+    },
+    {
+      "chapterId": "e07",
+      "chapterTitleEn": "Place particles: 에 vs 에서",
+      "chapterTitleZh": "处所助词：에 与 에서",
+      "pointTitleEn": "에서 = location of an action",
+      "pointTitleZh": "에서 表示动作发生的地点",
+      "anchor": "ex-e07-e07-3-0",
+      "jp": "저는 도서관에서 공부해요"
+    },
+    {
+      "chapterId": "e08",
+      "chapterTitleEn": "Past tense: 았/었어요",
+      "chapterTitleZh": "过去时：았/었어요",
+      "pointTitleEn": "Verb past tense — 합니다체 (았/었습니다)",
+      "pointTitleZh": "动词过去时 — 합니다체（았/었습니다）",
+      "anchor": "ex-e08-e08-2-1",
+      "jp": "어제 공부했습니다"
+    },
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-고 with verbs: listing and sequence",
+      "pointTitleZh": "-고 接动词：并列与顺序",
+      "anchor": "ex-e12-e12-1-1",
+      "jp": "음악을 듣고 공부해요"
+    },
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-아서/어서 with verbs: reason and close sequence",
+      "pointTitleZh": "-아서/어서 接动词：原因与紧密序列",
+      "anchor": "ex-e12-e12-3-2",
+      "jp": "학교에 가서 공부해요"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Vowel-stem verbs: attach -면 directly",
+      "pointTitleZh": "元音词干动词：直接接 -면",
+      "anchor": "ex-i01-i01-1-2",
+      "jp": "학교에 가면 공부해요"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Richer conditional sentences",
+      "pointTitleZh": "更丰富的条件句",
+      "anchor": "ex-i01-i01-4-1",
+      "jp": "공부하면 시험이 쉬워요"
+    },
+    {
+      "chapterId": "i04",
+      "chapterTitleEn": "Future and intention: -(으)ㄹ 거예요",
+      "chapterTitleZh": "将来与意图：-(으)ㄹ 거예요",
+      "pointTitleEn": "하다 verbs in -(으)ㄹ 거예요",
+      "pointTitleZh": "하다 动词的将来形 -(으)ㄹ 거예요",
+      "anchor": "ex-i04-i04-3-0",
+      "jp": "저는 공부할 거예요"
+    },
+    {
+      "chapterId": "i04",
+      "chapterTitleEn": "Future and intention: -(으)ㄹ 거예요",
+      "chapterTitleZh": "将来与意图：-(으)ㄹ 거예요",
+      "pointTitleEn": "하다 verbs in -(으)ㄹ 거예요",
+      "pointTitleZh": "하다 动词的将来形 -(으)ㄹ 거예요",
+      "anchor": "ex-i04-i04-3-1",
+      "jp": "저는 한국어를 공부할 거예요"
+    },
+    {
+      "chapterId": "i05",
+      "chapterTitleEn": "Honorific requests: -(으)세요",
+      "chapterTitleZh": "尊敬与请求：-(으)세요",
+      "pointTitleEn": "The -(으)세요 allomorph rule",
+      "pointTitleZh": "-(으)세요 的语音变化规则",
+      "anchor": "ex-i05-i05-1-2",
+      "jp": "한국어를 공부하세요"
+    },
+    {
+      "chapterId": "i06",
+      "chapterTitleEn": "Suggestions: -(으)ㄹ까요?",
+      "chapterTitleZh": "提议：-(으)ㄹ까요?",
+      "pointTitleEn": "받침 allomorphs: -ㄹ까요 vs -을까요",
+      "pointTitleZh": "받침 变体：-ㄹ까요 与 -을까요",
+      "anchor": "ex-i06-i06-2-1",
+      "jp": "같이 공부할까요?"
+    },
+    {
+      "chapterId": "i06",
+      "chapterTitleEn": "Suggestions: -(으)ㄹ까요?",
+      "chapterTitleZh": "提议：-(으)ㄹ까요?",
+      "pointTitleEn": "Propositive with place: 에서 + -(으)ㄹ까요?",
+      "pointTitleZh": "加地点的提议句：에서 + -(으)ㄹ까요?",
+      "anchor": "ex-i06-i06-4-1",
+      "jp": "도서관에서 같이 공부할까요?"
+    }
+  ],
+  "공원": [
+    {
+      "chapterId": "i07",
+      "chapterTitleEn": "Irregular verbs: ㄷ, ㅂ, 으",
+      "chapterTitleZh": "不规则动词：ㄷ、ㅂ、으",
+      "pointTitleEn": "ㄷ-irregular verbs: ㄷ → ㄹ before vowels",
+      "pointTitleZh": "ㄷ 不规则动词：元音前 ㄷ → ㄹ",
+      "anchor": "ex-i07-i07-1-2",
+      "jp": "공원에서 걸어요"
+    }
+  ],
+  "그": [
+    {
+      "chapterId": "e01",
+      "chapterTitleEn": "Noun sentences: the copula 이다",
+      "chapterTitleZh": "名词谓语句：이다",
+      "pointTitleEn": "The topic particle 은/는",
+      "pointTitleZh": "主题助词 은/는",
+      "anchor": "ex-e01-e01-1-2",
+      "jp": "그는 친구예요"
+    },
+    {
+      "chapterId": "e01",
+      "chapterTitleEn": "Noun sentences: the copula 이다",
+      "chapterTitleZh": "名词谓语句：이다",
+      "pointTitleEn": "해요체 copula after a vowel-final noun: 예요",
+      "pointTitleZh": "해요체系动词接无收音名词：예요",
+      "anchor": "ex-e01-e01-3-1",
+      "jp": "그는 가수예요"
+    },
+    {
+      "chapterId": "e01",
+      "chapterTitleEn": "Noun sentences: the copula 이다",
+      "chapterTitleZh": "名词谓语句：이다",
+      "pointTitleEn": "합니다체: the formal copula 입니다",
+      "pointTitleZh": "합니다체：正式系动词 입니다",
+      "anchor": "ex-e01-e01-4-1",
+      "jp": "그는 가수입니다"
+    }
+  ],
+  "기다리다": [
+    {
+      "chapterId": "a04",
+      "chapterTitleEn": "Commands and propositives in context",
+      "chapterTitleZh": "命令与提议的实际运用",
+      "pointTitleEn": "Honorific imperative -세요 (polite requests)",
+      "pointTitleZh": "尊称命令句 -세요（礼貌请求）",
+      "anchor": "ex-a04-a04-2-2",
+      "jp": "잠깐 기다리세요."
+    },
+    {
+      "chapterId": "a04",
+      "chapterTitleEn": "Commands and propositives in context",
+      "chapterTitleZh": "命令与提议的实际运用",
+      "pointTitleEn": "Propositive -(으)ㄹ까요? (shall we…?)",
+      "pointTitleZh": "提议句 -(으)ㄹ까요?（我们……好吗？）",
+      "anchor": "ex-a04-a04-3-1",
+      "jp": "여기에서 기다릴까요?"
+    },
+    {
+      "chapterId": "e06",
+      "chapterTitleEn": "The object particle 을/를 and SOV order",
+      "chapterTitleZh": "宾格助词 을/를 与 SOV 语序",
+      "pointTitleEn": "Richer SOV sentences with adverbs",
+      "pointTitleZh": "含副词的丰富 SOV 句型",
+      "anchor": "ex-e06-e06-4-2",
+      "jp": "저는 친구를 기다려요"
+    },
+    {
+      "chapterId": "i02",
+      "chapterTitleEn": "Desire and progressive: -고 싶다, -고 있다",
+      "chapterTitleZh": "愿望与进行：-고 싶다、-고 있다",
+      "pointTitleEn": "Richer progressives and the formal register -고 있습니다",
+      "pointTitleZh": "更丰富的进行体以及正式语体 -고 있습니다",
+      "anchor": "ex-i02-i02-4-1",
+      "jp": "친구를 기다리고 있어요"
+    },
+    {
+      "chapterId": "i05",
+      "chapterTitleEn": "Honorific requests: -(으)세요",
+      "chapterTitleZh": "尊敬与请求：-(으)세요",
+      "pointTitleEn": "Polite requests in context",
+      "pointTitleZh": "语境中的礼貌请求",
+      "anchor": "ex-i05-i05-2-2",
+      "jp": "잠깐 기다리세요"
+    }
+  ],
+  "기분": [
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Consonant-stem verbs: attach -으면",
+      "pointTitleZh": "辅音词干动词：接 -으면",
+      "anchor": "ex-i01-i01-2-1",
+      "jp": "밥을 먹으면 기분이 좋아요"
+    },
+    {
+      "chapterId": "i07",
+      "chapterTitleEn": "Irregular verbs: ㄷ, ㅂ, 으",
+      "chapterTitleZh": "不规则动词：ㄷ、ㅂ、으",
+      "pointTitleEn": "Irregular stems in longer sentences",
+      "pointTitleZh": "不规则词干在更长句子中的应用",
+      "anchor": "ex-i07-i07-4-0",
+      "jp": "음악을 들으면 기분이 좋아요"
+    }
+  ],
+  "꽃": [
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Irregular adjective attributives (으-irregular and ㅂ-irregular)",
+      "pointTitleZh": "不规则形容词冠形词形（으 不规则、ㅂ 不规则）",
+      "anchor": "ex-a01-a01-3-1",
+      "jp": "예쁜 꽃을 샀어요"
+    }
+  ],
+  "나중": [
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Adjective conditionals",
+      "pointTitleZh": "形容词条件句",
+      "anchor": "ex-i01-i01-3-2",
+      "jp": "바쁘면 나중에 해요"
+    }
+  ],
+  "날씨": [
+    {
+      "chapterId": "a03",
+      "chapterTitleEn": "Contrast: -지만 and -는데",
+      "chapterTitleZh": "转折：-지만 与 -는데",
+      "pointTitleEn": "-ㄴ데/은데 with adjectives: the allomorph rule",
+      "pointTitleZh": "-ㄴ데/은데 接形容词：异形词规则",
+      "anchor": "ex-a03-a03-4-2",
+      "jp": "날씨가 좋은데 집에 있어요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-(으)면: the conditional 'if'",
+      "pointTitleZh": "-(으)면：条件'如果'",
+      "anchor": "ex-a06-a06-3-2",
+      "jp": "날씨가 좋으면 학교에 가요"
+    },
+    {
+      "chapterId": "e02",
+      "chapterTitleEn": "Topic and subject: 은/는 and 이/가",
+      "chapterTitleZh": "主题与主格：은/는、이/가",
+      "pointTitleEn": "Topic vs Subject — different focus",
+      "pointTitleZh": "话题与主格的语义对比",
+      "anchor": "ex-e02-e02-3-2",
+      "jp": "오늘은 날씨가 좋아요"
+    },
+    {
+      "chapterId": "e05",
+      "chapterTitleEn": "합니다체: the formal style and questions",
+      "chapterTitleZh": "합니다체：格式体与疑问",
+      "pointTitleEn": "Formal adjectives and contrasting 해요체 vs 합니다체",
+      "pointTitleZh": "正式体形容词及해요체与합니다체的对比",
+      "anchor": "ex-e05-e05-4-0",
+      "jp": "날씨가 좋습니다"
+    },
+    {
+      "chapterId": "e08",
+      "chapterTitleEn": "Past tense: 았/었어요",
+      "chapterTitleZh": "过去时：았/었어요",
+      "pointTitleEn": "Adjective past tense — 았/었어요",
+      "pointTitleZh": "形容词过去时 — 았/었어요",
+      "anchor": "ex-e08-e08-4-0",
+      "jp": "날씨가 좋았어요"
+    },
+    {
+      "chapterId": "e09",
+      "chapterTitleEn": "Negation: 안 and -지 않다",
+      "chapterTitleZh": "否定：안 与 -지 않다",
+      "pointTitleEn": "Negating adjectives with -지 않아요",
+      "pointTitleZh": "用 -지 않아요 否定形容词",
+      "anchor": "ex-e09-e09-4-2",
+      "jp": "날씨가 춥지 않습니다"
+    },
+    {
+      "chapterId": "e10",
+      "chapterTitleEn": "Adjectives (형용사)",
+      "chapterTitleZh": "形容词",
+      "pointTitleEn": "Plain present = dictionary form",
+      "pointTitleZh": "基本现在时 = 词典形",
+      "anchor": "ex-e10-e10-1-0",
+      "jp": "날씨가 좋다"
+    },
+    {
+      "chapterId": "e10",
+      "chapterTitleEn": "Adjectives (형용사)",
+      "chapterTitleZh": "形容词",
+      "pointTitleEn": "Haeyo polite present — ConjugateAdjective<A, \"Haeyo\">",
+      "pointTitleZh": "해요체礼貌现在时 — ConjugateAdjective<A, \"Haeyo\">",
+      "anchor": "ex-e10-e10-2-0",
+      "jp": "날씨가 좋아요"
+    },
+    {
+      "chapterId": "e10",
+      "chapterTitleEn": "Adjectives (형용사)",
+      "chapterTitleZh": "形容词",
+      "pointTitleEn": "Hamnida formal polite — 해요체 vs 합니다체",
+      "pointTitleZh": "합니다체正式礼貌体 —— 해요체 vs 합니다체",
+      "anchor": "ex-e10-e10-4-0",
+      "jp": "날씨가 좋습니다"
+    },
+    {
+      "chapterId": "e10",
+      "chapterTitleEn": "Adjectives (형용사)",
+      "chapterTitleZh": "形容词",
+      "pointTitleEn": "Hamnida formal polite — 해요체 vs 합니다체",
+      "pointTitleZh": "합니다체正式礼貌体 —— 해요체 vs 합니다체",
+      "anchor": "ex-e10-e10-4-2",
+      "jp": "날씨가 춥습니다"
+    },
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-아서/어서 with adjectives: giving a reason",
+      "pointTitleZh": "-아서/어서 接形容词：表示原因",
+      "anchor": "ex-e12-e12-4-0",
+      "jp": "날씨가 좋아서 산에 가요"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Adjective conditionals",
+      "pointTitleZh": "形容词条件句",
+      "anchor": "ex-i01-i01-3-0",
+      "jp": "날씨가 좋으면 산에 가요"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Adjective conditionals",
+      "pointTitleZh": "形容词条件句",
+      "anchor": "ex-i01-i01-3-1",
+      "jp": "날씨가 추우면 집에 있어요"
+    },
+    {
+      "chapterId": "i07",
+      "chapterTitleEn": "Irregular verbs: ㄷ, ㅂ, 으",
+      "chapterTitleZh": "不规则动词：ㄷ、ㅂ、으",
+      "pointTitleEn": "ㅂ-irregular adjectives: ㅂ → 우 before vowels",
+      "pointTitleZh": "ㅂ 不规则形容词：元音前 ㅂ → 우",
+      "anchor": "ex-i07-i07-2-0",
+      "jp": "날씨가 추워요"
+    },
+    {
+      "chapterId": "i07",
+      "chapterTitleEn": "Irregular verbs: ㄷ, ㅂ, 으",
+      "chapterTitleZh": "不规则动词：ㄷ、ㅂ、으",
+      "pointTitleEn": "Irregular stems in longer sentences",
+      "pointTitleZh": "不规则词干在更长句子中的应用",
+      "anchor": "ex-i07-i07-4-1",
+      "jp": "어제 날씨가 추웠어요"
+    }
+  ],
+  "내일": [
+    {
+      "chapterId": "i06",
+      "chapterTitleEn": "Suggestions: -(으)ㄹ까요?",
+      "chapterTitleZh": "提议：-(으)ㄹ까요?",
+      "pointTitleEn": "Adding a subject or adverb: 우리, 같이, 내일",
+      "pointTitleZh": "添加主语或副词：우리、같이、내일",
+      "anchor": "ex-i06-i06-3-0",
+      "jp": "우리 내일 만날까요?"
+    },
+    {
+      "chapterId": "i06",
+      "chapterTitleEn": "Suggestions: -(으)ㄹ까요?",
+      "chapterTitleZh": "提议：-(으)ㄹ까요?",
+      "pointTitleEn": "Adding a subject or adverb: 우리, 같이, 내일",
+      "pointTitleZh": "添加主语或副词：우리、같이、내일",
+      "anchor": "ex-i06-i06-3-2",
+      "jp": "우리 내일 밥을 먹을까요?"
+    }
+  ],
+  "노래": [
+    {
+      "chapterId": "e08",
+      "chapterTitleEn": "Past tense: 았/었어요",
+      "chapterTitleZh": "过去时：았/었어요",
+      "pointTitleEn": "Vowel harmony is already baked in",
+      "pointTitleZh": "元音和谐已内嵌于词基",
+      "anchor": "ex-e08-e08-3-2",
+      "jp": "노래를 들었어요"
+    }
+  ],
+  "노래하다": [
+    {
+      "chapterId": "i08",
+      "chapterTitleEn": "Comparison: 보다, 처럼, 제일",
+      "chapterTitleZh": "比较：보다、처럼、제일",
+      "pointTitleEn": "처럼 — 'like / as' (resemblance particle)",
+      "pointTitleZh": "처럼 — 类比助词（像……一样）",
+      "anchor": "ex-i08-i08-2-0",
+      "jp": "가수처럼 노래해요"
+    }
+  ],
+  "누나": [
+    {
+      "chapterId": "e02",
+      "chapterTitleEn": "Topic and subject: 은/는 and 이/가",
+      "chapterTitleZh": "主题与主格：은/는、이/가",
+      "pointTitleEn": "Subject marker 이/가",
+      "pointTitleZh": "主格助词 이/가",
+      "anchor": "ex-e02-e02-2-2",
+      "jp": "누나가 가요"
+    }
+  ],
+  "덥다": [
+    {
+      "chapterId": "i07",
+      "chapterTitleEn": "Irregular verbs: ㄷ, ㅂ, 으",
+      "chapterTitleZh": "不规则动词：ㄷ、ㅂ、으",
+      "pointTitleEn": "ㅂ-irregular adjectives: ㅂ → 우 before vowels",
+      "pointTitleZh": "ㅂ 不规则形容词：元音前 ㅂ → 우",
+      "anchor": "ex-i07-i07-2-1",
+      "jp": "여름이 더워요"
+    }
+  ],
+  "도서관": [
+    {
+      "chapterId": "e07",
+      "chapterTitleEn": "Place particles: 에 vs 에서",
+      "chapterTitleZh": "处所助词：에 与 에서",
+      "pointTitleEn": "에 = destination (direction of movement)",
+      "pointTitleZh": "에 表示目的地（移动方向）",
+      "anchor": "ex-e07-e07-1-2",
+      "jp": "도서관에 갑니다"
+    },
+    {
+      "chapterId": "e07",
+      "chapterTitleEn": "Place particles: 에 vs 에서",
+      "chapterTitleZh": "处所助词：에 与 에서",
+      "pointTitleEn": "에서 = location of an action",
+      "pointTitleZh": "에서 表示动作发生的地点",
+      "anchor": "ex-e07-e07-3-0",
+      "jp": "저는 도서관에서 공부해요"
+    },
+    {
+      "chapterId": "i06",
+      "chapterTitleEn": "Suggestions: -(으)ㄹ까요?",
+      "chapterTitleZh": "提议：-(으)ㄹ까요?",
+      "pointTitleEn": "Propositive with place: 에서 + -(으)ㄹ까요?",
+      "pointTitleZh": "加地点的提议句：에서 + -(으)ㄹ까요?",
+      "anchor": "ex-i06-i06-4-1",
+      "jp": "도서관에서 같이 공부할까요?"
+    }
+  ],
+  "돈": [
+    {
+      "chapterId": "a03",
+      "chapterTitleEn": "Contrast: -지만 and -는데",
+      "chapterTitleZh": "转折：-지만 与 -는데",
+      "pointTitleEn": "-지만 with verbs and richer sentences",
+      "pointTitleZh": "-지만 接动词与更丰富的句子",
+      "anchor": "ex-a03-a03-2-1",
+      "jp": "일하지만 돈이 없어요"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Richer conditional sentences",
+      "pointTitleZh": "更丰富的条件句",
+      "anchor": "ex-i01-i01-4-2",
+      "jp": "돈이 있으면 여행을 가요"
+    }
+  ],
+  "듣다": [
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Noun-modifying clauses in full sentences",
+      "pointTitleZh": "在完整句子中使用定语从句",
+      "anchor": "ex-a01-a01-4-1",
+      "jp": "좋아하는 음악을 들어요"
+    },
+    {
+      "chapterId": "e08",
+      "chapterTitleEn": "Past tense: 았/었어요",
+      "chapterTitleZh": "过去时：았/었어요",
+      "pointTitleEn": "Vowel harmony is already baked in",
+      "pointTitleZh": "元音和谐已内嵌于词基",
+      "anchor": "ex-e08-e08-3-2",
+      "jp": "노래를 들었어요"
+    },
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-고 with verbs: listing and sequence",
+      "pointTitleZh": "-고 接动词：并列与顺序",
+      "anchor": "ex-e12-e12-1-1",
+      "jp": "음악을 듣고 공부해요"
+    },
+    {
+      "chapterId": "i03",
+      "chapterTitleEn": "Ability: -(으)ㄹ 수 있다/없다",
+      "chapterTitleZh": "能力：-(으)ㄹ 수 있다/없다",
+      "pointTitleEn": "Consonant-stem verbs: -을 수 있어요",
+      "pointTitleZh": "辅音词干动词：-을 수 있어요",
+      "anchor": "ex-i03-i03-2-2",
+      "jp": "음악을 들을 수 있어요"
+    },
+    {
+      "chapterId": "i06",
+      "chapterTitleEn": "Suggestions: -(으)ㄹ까요?",
+      "chapterTitleZh": "提议：-(으)ㄹ까요?",
+      "pointTitleEn": "받침 allomorphs: -ㄹ까요 vs -을까요",
+      "pointTitleZh": "받침 变体：-ㄹ까요 与 -을까요",
+      "anchor": "ex-i06-i06-2-2",
+      "jp": "음악을 들을까요?"
+    },
+    {
+      "chapterId": "i07",
+      "chapterTitleEn": "Irregular verbs: ㄷ, ㅂ, 으",
+      "chapterTitleZh": "不规则动词：ㄷ、ㅂ、으",
+      "pointTitleEn": "ㄷ-irregular verbs: ㄷ → ㄹ before vowels",
+      "pointTitleZh": "ㄷ 不规则动词：元音前 ㄷ → ㄹ",
+      "anchor": "ex-i07-i07-1-0",
+      "jp": "음악을 들어요"
+    },
+    {
+      "chapterId": "i07",
+      "chapterTitleEn": "Irregular verbs: ㄷ, ㅂ, 으",
+      "chapterTitleZh": "不规则动词：ㄷ、ㅂ、으",
+      "pointTitleEn": "ㄷ-irregular verbs: ㄷ → ㄹ before vowels",
+      "pointTitleZh": "ㄷ 不规则动词：元音前 ㄷ → ㄹ",
+      "anchor": "ex-i07-i07-1-1",
+      "jp": "음악을 들었어요"
+    },
+    {
+      "chapterId": "i07",
+      "chapterTitleEn": "Irregular verbs: ㄷ, ㅂ, 으",
+      "chapterTitleZh": "不规则动词：ㄷ、ㅂ、으",
+      "pointTitleEn": "Irregular stems in longer sentences",
+      "pointTitleZh": "不规则词干在更长句子中的应用",
+      "anchor": "ex-i07-i07-4-0",
+      "jp": "음악을 들으면 기분이 좋아요"
+    }
+  ],
+  "마시다": [
+    {
+      "chapterId": "e04",
+      "chapterTitleEn": "해요체: the polite present (verbs)",
+      "chapterTitleZh": "해요체：动词的非格式体现在时",
+      "pointTitleEn": "The 해요체 rule: inf + 요",
+      "pointTitleZh": "해요체 规则：连用形 + 요",
+      "anchor": "ex-e04-e04-1-2",
+      "jp": "저는 커피를 마셔요"
+    },
+    {
+      "chapterId": "e06",
+      "chapterTitleEn": "The object particle 을/를 and SOV order",
+      "chapterTitleZh": "宾格助词 을/를 与 SOV 语序",
+      "pointTitleEn": "를 after vowel-final nouns",
+      "pointTitleZh": "元音结尾的名词后接 를",
+      "anchor": "ex-e06-e06-2-0",
+      "jp": "저는 커피를 마셔요"
+    },
+    {
+      "chapterId": "e08",
+      "chapterTitleEn": "Past tense: 았/었어요",
+      "chapterTitleZh": "过去时：았/었어요",
+      "pointTitleEn": "Vowel harmony is already baked in",
+      "pointTitleZh": "元音和谐已内嵌于词基",
+      "anchor": "ex-e08-e08-3-0",
+      "jp": "커피를 마셨어요"
+    },
+    {
+      "chapterId": "e09",
+      "chapterTitleEn": "Negation: 안 and -지 않다",
+      "chapterTitleZh": "否定：안 与 -지 않다",
+      "pointTitleEn": "Short negation 안 with an object noun",
+      "pointTitleZh": "短否定 안 与宾语名词",
+      "anchor": "ex-e09-e09-2-1",
+      "jp": "커피를 안 마셔요"
+    },
+    {
+      "chapterId": "e11",
+      "chapterTitleEn": "and / with / also / only: 와·과·하고, 도, 만",
+      "chapterTitleZh": "并列与助词：와·과·하고、도、만",
+      "pointTitleEn": "와/과/하고 — connecting nouns: \"and / with\"",
+      "pointTitleZh": "와/과/하고 — 名词连接：\"和/跟\"",
+      "anchor": "ex-e11-e11-1-1",
+      "jp": "커피와 차를 마셔요"
+    },
+    {
+      "chapterId": "e11",
+      "chapterTitleEn": "and / with / also / only: 와·과·하고, 도, 만",
+      "chapterTitleZh": "并列与助词：와·과·하고、도、만",
+      "pointTitleEn": "만 — \"only\"",
+      "pointTitleZh": "만 — \"只/仅\"",
+      "anchor": "ex-e11-e11-3-0",
+      "jp": "물만 마셔요"
+    },
+    {
+      "chapterId": "e11",
+      "chapterTitleEn": "and / with / also / only: 와·과·하고, 도, 만",
+      "chapterTitleZh": "并列与助词：와·과·하고、도、만",
+      "pointTitleEn": "Combining particles in richer sentences",
+      "pointTitleZh": "在更丰富的句子中组合助词",
+      "anchor": "ex-e11-e11-4-1",
+      "jp": "물만 마시고 밥은 안 먹어요"
+    },
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-아서/어서 with adjectives: giving a reason",
+      "pointTitleZh": "-아서/어서 接形容词：表示原因",
+      "anchor": "ex-e12-e12-4-1",
+      "jp": "커피가 맛있어서 마셔요"
+    },
+    {
+      "chapterId": "i02",
+      "chapterTitleEn": "Desire and progressive: -고 싶다, -고 있다",
+      "chapterTitleZh": "愿望与进行：-고 싶다、-고 있다",
+      "pointTitleEn": "Wanting to do something: -고 싶어요",
+      "pointTitleZh": "想做某事：-고 싶어요",
+      "anchor": "ex-i02-i02-1-1",
+      "jp": "물을 마시고 싶어요"
+    },
+    {
+      "chapterId": "i05",
+      "chapterTitleEn": "Honorific requests: -(으)세요",
+      "chapterTitleZh": "尊敬与请求：-(으)세요",
+      "pointTitleEn": "Polite requests in context",
+      "pointTitleZh": "语境中的礼貌请求",
+      "anchor": "ex-i05-i05-2-1",
+      "jp": "물을 마시세요"
+    },
+    {
+      "chapterId": "i06",
+      "chapterTitleEn": "Suggestions: -(으)ㄹ까요?",
+      "chapterTitleZh": "提议：-(으)ㄹ까요?",
+      "pointTitleEn": "받침 allomorphs: -ㄹ까요 vs -을까요",
+      "pointTitleZh": "받침 变体：-ㄹ까요 与 -을까요",
+      "anchor": "ex-i06-i06-2-0",
+      "jp": "커피를 마실까요?"
+    },
+    {
+      "chapterId": "i06",
+      "chapterTitleEn": "Suggestions: -(으)ㄹ까요?",
+      "chapterTitleZh": "提议：-(으)ㄹ까요?",
+      "pointTitleEn": "Propositive with place: 에서 + -(으)ㄹ까요?",
+      "pointTitleZh": "加地点的提议句：에서 + -(으)ㄹ까요?",
+      "anchor": "ex-i06-i06-4-0",
+      "jp": "카페에서 커피를 마실까요?"
+    }
+  ],
+  "만나다": [
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Noun-modifying clauses in full sentences",
+      "pointTitleZh": "在完整句子中使用定语从句",
+      "anchor": "ex-a01-a01-4-2",
+      "jp": "바쁜 친구를 만나요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-고: sequential 'and then'",
+      "pointTitleZh": "-고：顺序'然后'",
+      "anchor": "ex-a06-a06-1-1",
+      "jp": "저는 친구를 만나고 영화를 봐요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-아서/-어서: causal and sequential 'and so / and then'",
+      "pointTitleZh": "-아서/-어서：因果与紧接顺序的'因此/然后'",
+      "anchor": "ex-a06-a06-2-1",
+      "jp": "친구를 만나서 영화를 봐요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-(으)면: the conditional 'if'",
+      "pointTitleZh": "-(으)면：条件'如果'",
+      "anchor": "ex-a06-a06-3-1",
+      "jp": "시간이 있으면 친구를 만나요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "Putting it all together: multi-clause chains",
+      "pointTitleZh": "综合：多分句连锁句",
+      "anchor": "ex-a06-a06-4-1",
+      "jp": "시간이 있으면 친구를 만나서 영화를 봐요"
+    },
+    {
+      "chapterId": "e06",
+      "chapterTitleEn": "The object particle 을/를 and SOV order",
+      "chapterTitleZh": "宾格助词 을/를 与 SOV 语序",
+      "pointTitleEn": "를 after vowel-final nouns",
+      "pointTitleZh": "元音结尾的名词后接 를",
+      "anchor": "ex-e06-e06-2-1",
+      "jp": "저는 친구를 만나요"
+    },
+    {
+      "chapterId": "e08",
+      "chapterTitleEn": "Past tense: 았/었어요",
+      "chapterTitleZh": "过去时：았/었어요",
+      "pointTitleEn": "Verb past tense — 합니다체 (았/었습니다)",
+      "pointTitleZh": "动词过去时 — 합니다체（았/었습니다）",
+      "anchor": "ex-e08-e08-2-2",
+      "jp": "친구를 만났습니다"
+    },
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-고 with verbs: listing and sequence",
+      "pointTitleZh": "-고 接动词：并列与顺序",
+      "anchor": "ex-e12-e12-1-2",
+      "jp": "친구를 만나고 영화를 봐요"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Vowel-stem verbs: attach -면 directly",
+      "pointTitleZh": "元音词干动词：直接接 -면",
+      "anchor": "ex-i01-i01-1-1",
+      "jp": "가면 친구를 만나요"
+    },
+    {
+      "chapterId": "i02",
+      "chapterTitleEn": "Desire and progressive: -고 싶다, -고 있다",
+      "chapterTitleZh": "愿望与进行：-고 싶다、-고 있다",
+      "pointTitleEn": "-고 싶어요 with subjects, objects, and destinations",
+      "pointTitleZh": "-고 싶어요 与主语、宾语、目的地",
+      "anchor": "ex-i02-i02-2-2",
+      "jp": "저는 친구를 만나고 싶어요"
+    },
+    {
+      "chapterId": "i06",
+      "chapterTitleEn": "Suggestions: -(으)ㄹ까요?",
+      "chapterTitleZh": "提议：-(으)ㄹ까요?",
+      "pointTitleEn": "Adding a subject or adverb: 우리, 같이, 내일",
+      "pointTitleZh": "添加主语或副词：우리、같이、내일",
+      "anchor": "ex-i06-i06-3-0",
+      "jp": "우리 내일 만날까요?"
+    }
+  ],
+  "많다": [
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Irregular adjective attributives (으-irregular and ㅂ-irregular)",
+      "pointTitleZh": "不规则形容词冠形词形（으 不规则、ㅂ 不规则）",
+      "anchor": "ex-a01-a01-3-2",
+      "jp": "어려운 책이 많아요"
+    },
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Noun-modifying clauses in full sentences",
+      "pointTitleZh": "在完整句子中使用定语从句",
+      "anchor": "ex-a01-a01-4-0",
+      "jp": "책을 읽는 사람은 많아요"
+    },
+    {
+      "chapterId": "e10",
+      "chapterTitleEn": "Adjectives (형용사)",
+      "chapterTitleZh": "形容词",
+      "pointTitleEn": "Plain present = dictionary form",
+      "pointTitleZh": "基本现在时 = 词典形",
+      "anchor": "ex-e10-e10-1-1",
+      "jp": "음식이 많다"
+    }
+  ],
+  "말하다": [
+    {
+      "chapterId": "i05",
+      "chapterTitleEn": "Honorific requests: -(으)세요",
+      "chapterTitleZh": "尊敬与请求：-(으)세요",
+      "pointTitleEn": "Set phrases and 합니다체 comparison",
+      "pointTitleZh": "固定表达与합니다체对比",
+      "anchor": "ex-i05-i05-4-2",
+      "jp": "천천히 말하세요"
+    },
+    {
+      "chapterId": "i08",
+      "chapterTitleEn": "Comparison: 보다, 처럼, 제일",
+      "chapterTitleZh": "比较：보다、처럼、제일",
+      "pointTitleEn": "처럼 — 'like / as' (resemblance particle)",
+      "pointTitleZh": "처럼 — 类比助词（像……一样）",
+      "anchor": "ex-i08-i08-2-2",
+      "jp": "친구처럼 말해요"
+    }
+  ],
+  "맛있다": [
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Adjective attributive -(으)ㄴ (regular and 있다-type)",
+      "pointTitleZh": "形容词冠形词形 -(으)ㄴ（规则及 있다 型）",
+      "anchor": "ex-a01-a01-2-1",
+      "jp": "맛있는 음식을 먹어요"
+    },
+    {
+      "chapterId": "e02",
+      "chapterTitleEn": "Topic and subject: 은/는 and 이/가",
+      "chapterTitleZh": "主题与主格：은/는、이/가",
+      "pointTitleEn": "Topic marker 은/는",
+      "pointTitleZh": "主题助词 은/는",
+      "anchor": "ex-e02-e02-1-2",
+      "jp": "커피는 맛있어요"
+    },
+    {
+      "chapterId": "e10",
+      "chapterTitleEn": "Adjectives (형용사)",
+      "chapterTitleZh": "形容词",
+      "pointTitleEn": "Haeyo polite present — ConjugateAdjective<A, \"Haeyo\">",
+      "pointTitleZh": "해요체礼貌现在时 — ConjugateAdjective<A, \"Haeyo\">",
+      "anchor": "ex-e10-e10-2-1",
+      "jp": "음식이 맛있어요"
+    },
+    {
+      "chapterId": "e10",
+      "chapterTitleEn": "Adjectives (형용사)",
+      "chapterTitleZh": "形容词",
+      "pointTitleEn": "Attributive -(으)ㄴ — adjective before a noun",
+      "pointTitleZh": "定语形 -(으)ㄴ —— 形容词修饰名词",
+      "anchor": "ex-e10-e10-3-1",
+      "jp": "맛있는 음식"
+    },
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-고 with adjectives: listing properties",
+      "pointTitleZh": "-고 接形容词：并列描述",
+      "anchor": "ex-e12-e12-2-2",
+      "jp": "커피가 싸고 맛있어요"
+    },
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-아서/어서 with adjectives: giving a reason",
+      "pointTitleZh": "-아서/어서 接形容词：表示原因",
+      "anchor": "ex-e12-e12-4-1",
+      "jp": "커피가 맛있어서 마셔요"
+    },
+    {
+      "chapterId": "i08",
+      "chapterTitleEn": "Comparison: 보다, 처럼, 제일",
+      "chapterTitleZh": "比较：보다、처럼、제일",
+      "pointTitleEn": "제일 / 가장 — superlative adverbs ('the most')",
+      "pointTitleZh": "제일 / 가장 — 最高级副词（最……）",
+      "anchor": "ex-i08-i08-3-1",
+      "jp": "한국 음식이 제일 맛있어요"
+    }
+  ],
+  "매일": [
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-아서/-어서: causal and sequential 'and so / and then'",
+      "pointTitleZh": "-아서/-어서：因果与紧接顺序的'因此/然后'",
+      "anchor": "ex-a06-a06-2-0",
+      "jp": "저는 매일 학교에 가서 한국어를 공부해요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "Putting it all together: multi-clause chains",
+      "pointTitleZh": "综合：多分句连锁句",
+      "anchor": "ex-a06-a06-4-0",
+      "jp": "저는 매일 학교에 가서 한국어를 공부하고 집에 와요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "Putting it all together: multi-clause chains",
+      "pointTitleZh": "综合：多分句连锁句",
+      "anchor": "ex-a06-a06-4-2",
+      "jp": "저는 매일 밥을 먹고 학교에 가서 한국어를 배워요"
+    }
+  ],
+  "먹다": [
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Verb attributive -는 (present action)",
+      "pointTitleZh": "动词冠形词形 -는（现在进行/习惯动作）",
+      "anchor": "ex-a01-a01-1-1",
+      "jp": "밥을 먹는 사람을 봐요"
+    },
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Adjective attributive -(으)ㄴ (regular and 있다-type)",
+      "pointTitleZh": "形容词冠形词形 -(으)ㄴ（规则及 있다 型）",
+      "anchor": "ex-a01-a01-2-1",
+      "jp": "맛있는 음식을 먹어요"
+    },
+    {
+      "chapterId": "a02",
+      "chapterTitleEn": "Reasons: -아서 vs -(으)니까",
+      "chapterTitleZh": "原因：-아서 与 -(으)니까",
+      "pointTitleEn": "-(으)니까 before imperatives and proposals — where -아서 is blocked",
+      "pointTitleZh": "-(으)니까 接命令句与建议句——-아서 被禁止的场合",
+      "anchor": "ex-a02-a02-3-2",
+      "jp": "친구가 오니까 같이 먹어요"
+    },
+    {
+      "chapterId": "a04",
+      "chapterTitleEn": "Commands and propositives in context",
+      "chapterTitleZh": "命令与提议的实际运用",
+      "pointTitleEn": "Plain imperative -아/어라 (반말 commands)",
+      "pointTitleZh": "반말命令句 -아/어라",
+      "anchor": "ex-a04-a04-1-1",
+      "jp": "빨리 먹어라."
+    },
+    {
+      "chapterId": "a04",
+      "chapterTitleEn": "Commands and propositives in context",
+      "chapterTitleZh": "命令与提议的实际运用",
+      "pointTitleEn": "Propositive -(으)ㄹ까요? (shall we…?)",
+      "pointTitleZh": "提议句 -(으)ㄹ까요?（我们……好吗？）",
+      "anchor": "ex-a04-a04-3-2",
+      "jp": "우리 같이 밥을 먹을까요?"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-고: sequential 'and then'",
+      "pointTitleZh": "-고：顺序'然后'",
+      "anchor": "ex-a06-a06-1-0",
+      "jp": "저는 밥을 먹고 학교에 가요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-아서/-어서: causal and sequential 'and so / and then'",
+      "pointTitleZh": "-아서/-어서：因果与紧接顺序的'因此/然后'",
+      "anchor": "ex-a06-a06-2-2",
+      "jp": "저는 집에 와서 밥을 먹어요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "Putting it all together: multi-clause chains",
+      "pointTitleZh": "综合：多分句连锁句",
+      "anchor": "ex-a06-a06-4-2",
+      "jp": "저는 매일 밥을 먹고 학교에 가서 한국어를 배워요"
+    },
+    {
+      "chapterId": "e04",
+      "chapterTitleEn": "해요체: the polite present (verbs)",
+      "chapterTitleZh": "해요체：动词的非格式体现在时",
+      "pointTitleEn": "The 해요체 rule: inf + 요",
+      "pointTitleZh": "해요체 规则：连用形 + 요",
+      "anchor": "ex-e04-e04-1-1",
+      "jp": "저는 밥을 먹어요"
+    },
+    {
+      "chapterId": "e04",
+      "chapterTitleEn": "해요체: the polite present (verbs)",
+      "chapterTitleZh": "해요체：动词的非格式体现在时",
+      "pointTitleEn": "해요체 vs 합니다체: choosing your register",
+      "pointTitleZh": "해요체 与 합니다체：选择语体",
+      "anchor": "ex-e04-e04-4-0",
+      "jp": "먹어요"
+    },
+    {
+      "chapterId": "e05",
+      "chapterTitleEn": "합니다체: the formal style and questions",
+      "chapterTitleZh": "합니다체：格式体与疑问",
+      "pointTitleEn": "The ㅂ니다 vs 습니다 allomorph rule",
+      "pointTitleZh": "ㅂ니다 与 습니다 的变体规则",
+      "anchor": "ex-e05-e05-3-1",
+      "jp": "밥을 먹습니다"
+    },
+    {
+      "chapterId": "e06",
+      "chapterTitleEn": "The object particle 을/를 and SOV order",
+      "chapterTitleZh": "宾格助词 을/를 与 SOV 语序",
+      "pointTitleEn": "을 after consonant-final nouns",
+      "pointTitleZh": "받침结尾的名词后接 을",
+      "anchor": "ex-e06-e06-1-0",
+      "jp": "저는 밥을 먹어요"
+    },
+    {
+      "chapterId": "e06",
+      "chapterTitleEn": "The object particle 을/를 and SOV order",
+      "chapterTitleZh": "宾格助词 을/를 与 SOV 语序",
+      "pointTitleEn": "Object particle in 합니다체 (formal style)",
+      "pointTitleZh": "합니다체（正式体）中的宾格助词",
+      "anchor": "ex-e06-e06-3-0",
+      "jp": "밥을 먹습니다"
+    },
+    {
+      "chapterId": "e08",
+      "chapterTitleEn": "Past tense: 았/었어요",
+      "chapterTitleZh": "过去时：았/었어요",
+      "pointTitleEn": "Verb past tense — 해요체 (았/었어요)",
+      "pointTitleZh": "动词过去时 — 해요체（았/었어요）",
+      "anchor": "ex-e08-e08-1-0",
+      "jp": "밥을 먹었어요"
+    },
+    {
+      "chapterId": "e09",
+      "chapterTitleEn": "Negation: 안 and -지 않다",
+      "chapterTitleZh": "否定：안 与 -지 않다",
+      "pointTitleEn": "Short negation 안 with an object noun",
+      "pointTitleZh": "短否定 안 与宾语名词",
+      "anchor": "ex-e09-e09-2-0",
+      "jp": "밥을 안 먹어요"
+    },
+    {
+      "chapterId": "e09",
+      "chapterTitleEn": "Negation: 안 and -지 않다",
+      "chapterTitleZh": "否定：안 与 -지 않다",
+      "pointTitleEn": "Long negation: -지 않아요",
+      "pointTitleZh": "长否定：-지 않아요",
+      "anchor": "ex-e09-e09-3-2",
+      "jp": "밥을 먹지 않아요"
+    },
+    {
+      "chapterId": "e11",
+      "chapterTitleEn": "and / with / also / only: 와·과·하고, 도, 만",
+      "chapterTitleZh": "并列与助词：와·과·하고、도、만",
+      "pointTitleEn": "Combining particles in richer sentences",
+      "pointTitleZh": "在更丰富的句子中组合助词",
+      "anchor": "ex-e11-e11-4-0",
+      "jp": "저도 커피하고 빵을 먹어요"
+    },
+    {
+      "chapterId": "e11",
+      "chapterTitleEn": "and / with / also / only: 와·과·하고, 도, 만",
+      "chapterTitleZh": "并列与助词：와·과·하고、도、만",
+      "pointTitleEn": "Combining particles in richer sentences",
+      "pointTitleZh": "在更丰富的句子中组合助词",
+      "anchor": "ex-e11-e11-4-1",
+      "jp": "물만 마시고 밥은 안 먹어요"
+    },
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-고 with verbs: listing and sequence",
+      "pointTitleZh": "-고 接动词：并列与顺序",
+      "anchor": "ex-e12-e12-1-0",
+      "jp": "밥을 먹고 가요"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Consonant-stem verbs: attach -으면",
+      "pointTitleZh": "辅音词干动词：接 -으면",
+      "anchor": "ex-i01-i01-2-1",
+      "jp": "밥을 먹으면 기분이 좋아요"
+    },
+    {
+      "chapterId": "i02",
+      "chapterTitleEn": "Desire and progressive: -고 싶다, -고 있다",
+      "chapterTitleZh": "愿望与进行：-고 싶다、-고 있다",
+      "pointTitleEn": "Wanting to do something: -고 싶어요",
+      "pointTitleZh": "想做某事：-고 싶어요",
+      "anchor": "ex-i02-i02-1-0",
+      "jp": "밥을 먹고 싶어요"
+    },
+    {
+      "chapterId": "i02",
+      "chapterTitleEn": "Desire and progressive: -고 싶다, -고 있다",
+      "chapterTitleZh": "愿望与进行：-고 싶다、-고 있다",
+      "pointTitleEn": "Expressing an ongoing action: -고 있어요",
+      "pointTitleZh": "表达正在进行的动作：-고 있어요",
+      "anchor": "ex-i02-i02-3-1",
+      "jp": "밥을 먹고 있어요"
+    },
+    {
+      "chapterId": "i03",
+      "chapterTitleEn": "Ability: -(으)ㄹ 수 있다/없다",
+      "chapterTitleZh": "能力：-(으)ㄹ 수 있다/없다",
+      "pointTitleEn": "Consonant-stem verbs: -을 수 있어요",
+      "pointTitleZh": "辅音词干动词：-을 수 있어요",
+      "anchor": "ex-i03-i03-2-0",
+      "jp": "먹을 수 있어요"
+    },
+    {
+      "chapterId": "i04",
+      "chapterTitleEn": "Future and intention: -(으)ㄹ 거예요",
+      "chapterTitleZh": "将来与意图：-(으)ㄹ 거예요",
+      "pointTitleEn": "-을 거예요 with consonant-final stems (받침)",
+      "pointTitleZh": "辅音结尾词干（받침）后接 -을 거예요",
+      "anchor": "ex-i04-i04-2-1",
+      "jp": "저는 밥을 먹을 거예요"
+    },
+    {
+      "chapterId": "i06",
+      "chapterTitleEn": "Suggestions: -(으)ㄹ까요?",
+      "chapterTitleZh": "提议：-(으)ㄹ까요?",
+      "pointTitleEn": "Core pattern: -(으)ㄹ까요? with common verbs",
+      "pointTitleZh": "核心句型：常见动词 + -(으)ㄹ까요?",
+      "anchor": "ex-i06-i06-1-2",
+      "jp": "밥을 먹을까요?"
+    },
+    {
+      "chapterId": "i06",
+      "chapterTitleEn": "Suggestions: -(으)ㄹ까요?",
+      "chapterTitleZh": "提议：-(으)ㄹ까요?",
+      "pointTitleEn": "Adding a subject or adverb: 우리, 같이, 내일",
+      "pointTitleZh": "添加主语或副词：우리、같이、내일",
+      "anchor": "ex-i06-i06-3-2",
+      "jp": "우리 내일 밥을 먹을까요?"
+    },
+    {
+      "chapterId": "i06",
+      "chapterTitleEn": "Suggestions: -(으)ㄹ까요?",
+      "chapterTitleZh": "提议：-(으)ㄹ까요?",
+      "pointTitleEn": "Propositive with place: 에서 + -(으)ㄹ까요?",
+      "pointTitleZh": "加地点的提议句：에서 + -(으)ㄹ까요?",
+      "anchor": "ex-i06-i06-4-2",
+      "jp": "집에서 같이 밥을 먹을까요?"
+    }
+  ],
+  "물": [
+    {
+      "chapterId": "e11",
+      "chapterTitleEn": "and / with / also / only: 와·과·하고, 도, 만",
+      "chapterTitleZh": "并列与助词：와·과·하고、도、만",
+      "pointTitleEn": "만 — \"only\"",
+      "pointTitleZh": "만 — \"只/仅\"",
+      "anchor": "ex-e11-e11-3-0",
+      "jp": "물만 마셔요"
+    },
+    {
+      "chapterId": "e11",
+      "chapterTitleEn": "and / with / also / only: 와·과·하고, 도, 만",
+      "chapterTitleZh": "并列与助词：와·과·하고、도、만",
+      "pointTitleEn": "Combining particles in richer sentences",
+      "pointTitleZh": "在更丰富的句子中组合助词",
+      "anchor": "ex-e11-e11-4-1",
+      "jp": "물만 마시고 밥은 안 먹어요"
+    },
+    {
+      "chapterId": "i02",
+      "chapterTitleEn": "Desire and progressive: -고 싶다, -고 있다",
+      "chapterTitleZh": "愿望与进行：-고 싶다、-고 있다",
+      "pointTitleEn": "Wanting to do something: -고 싶어요",
+      "pointTitleZh": "想做某事：-고 싶어요",
+      "anchor": "ex-i02-i02-1-1",
+      "jp": "물을 마시고 싶어요"
+    },
+    {
+      "chapterId": "i05",
+      "chapterTitleEn": "Honorific requests: -(으)세요",
+      "chapterTitleZh": "尊敬与请求：-(으)세요",
+      "pointTitleEn": "Polite requests in context",
+      "pointTitleZh": "语境中的礼貌请求",
+      "anchor": "ex-i05-i05-2-1",
+      "jp": "물을 마시세요"
+    }
+  ],
+  "미국": [
+    {
+      "chapterId": "e07",
+      "chapterTitleEn": "Place particles: 에 vs 에서",
+      "chapterTitleZh": "处所助词：에 与 에서",
+      "pointTitleEn": "에서 = from (origin or starting point)",
+      "pointTitleZh": "에서 表示出发地（来源或起点）",
+      "anchor": "ex-e07-e07-4-2",
+      "jp": "친구가 미국에서 왔어요"
+    }
+  ],
+  "바쁘다": [
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Noun-modifying clauses in full sentences",
+      "pointTitleZh": "在完整句子中使用定语从句",
+      "anchor": "ex-a01-a01-4-2",
+      "jp": "바쁜 친구를 만나요"
+    },
+    {
+      "chapterId": "a02",
+      "chapterTitleEn": "Reasons: -아서 vs -(으)니까",
+      "chapterTitleZh": "原因：-아서 与 -(으)니까",
+      "pointTitleEn": "-아서/어서 — background cause flowing into a result",
+      "pointTitleZh": "-아서/어서：顺承背景原因",
+      "anchor": "ex-a02-a02-1-2",
+      "jp": "바빠서 못 왔어요"
+    },
+    {
+      "chapterId": "e08",
+      "chapterTitleEn": "Past tense: 았/었어요",
+      "chapterTitleZh": "过去时：았/었어요",
+      "pointTitleEn": "Adjective past tense — 았/었어요",
+      "pointTitleZh": "形容词过去时 — 았/었어요",
+      "anchor": "ex-e08-e08-4-1",
+      "jp": "어제 바빴어요"
+    },
+    {
+      "chapterId": "e09",
+      "chapterTitleEn": "Negation: 안 and -지 않다",
+      "chapterTitleZh": "否定：안 与 -지 않다",
+      "pointTitleEn": "Negating adjectives with -지 않아요",
+      "pointTitleZh": "用 -지 않아요 否定形容词",
+      "anchor": "ex-e09-e09-4-1",
+      "jp": "오늘은 바쁘지 않아요"
+    },
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-아서/어서 with adjectives: giving a reason",
+      "pointTitleZh": "-아서/어서 接形容词：表示原因",
+      "anchor": "ex-e12-e12-4-2",
+      "jp": "바빠서 일해요"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Adjective conditionals",
+      "pointTitleZh": "形容词条件句",
+      "anchor": "ex-i01-i01-3-2",
+      "jp": "바쁘면 나중에 해요"
+    }
+  ],
+  "받다": [
+    {
+      "chapterId": "e08",
+      "chapterTitleEn": "Past tense: 았/었어요",
+      "chapterTitleZh": "过去时：았/었어요",
+      "pointTitleEn": "Vowel harmony is already baked in",
+      "pointTitleZh": "元音和谐已内嵌于词基",
+      "anchor": "ex-e08-e08-3-1",
+      "jp": "책을 받았어요"
+    },
+    {
+      "chapterId": "i04",
+      "chapterTitleEn": "Future and intention: -(으)ㄹ 거예요",
+      "chapterTitleZh": "将来与意图：-(으)ㄹ 거예요",
+      "pointTitleEn": "-을 거예요 with consonant-final stems (받침)",
+      "pointTitleZh": "辅音结尾词干（받침）后接 -을 거예요",
+      "anchor": "ex-i04-i04-2-2",
+      "jp": "선물을 받을 거예요"
+    }
+  ],
+  "밥": [
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Verb attributive -는 (present action)",
+      "pointTitleZh": "动词冠形词形 -는（现在进行/习惯动作）",
+      "anchor": "ex-a01-a01-1-1",
+      "jp": "밥을 먹는 사람을 봐요"
+    },
+    {
+      "chapterId": "a03",
+      "chapterTitleEn": "Contrast: -지만 and -는데",
+      "chapterTitleZh": "转折：-지만 与 -는데",
+      "pointTitleEn": "-는데 with verbs: background contrast",
+      "pointTitleZh": "-는데 接动词：背景式转折",
+      "anchor": "ex-a03-a03-3-0",
+      "jp": "밥을 먹었는데 배가 고파요"
+    },
+    {
+      "chapterId": "a04",
+      "chapterTitleEn": "Commands and propositives in context",
+      "chapterTitleZh": "命令与提议的实际运用",
+      "pointTitleEn": "Propositive -(으)ㄹ까요? (shall we…?)",
+      "pointTitleZh": "提议句 -(으)ㄹ까요?（我们……好吗？）",
+      "anchor": "ex-a04-a04-3-2",
+      "jp": "우리 같이 밥을 먹을까요?"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-고: sequential 'and then'",
+      "pointTitleZh": "-고：顺序'然后'",
+      "anchor": "ex-a06-a06-1-0",
+      "jp": "저는 밥을 먹고 학교에 가요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-아서/-어서: causal and sequential 'and so / and then'",
+      "pointTitleZh": "-아서/-어서：因果与紧接顺序的'因此/然后'",
+      "anchor": "ex-a06-a06-2-2",
+      "jp": "저는 집에 와서 밥을 먹어요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "Putting it all together: multi-clause chains",
+      "pointTitleZh": "综合：多分句连锁句",
+      "anchor": "ex-a06-a06-4-2",
+      "jp": "저는 매일 밥을 먹고 학교에 가서 한국어를 배워요"
+    },
+    {
+      "chapterId": "e04",
+      "chapterTitleEn": "해요체: the polite present (verbs)",
+      "chapterTitleZh": "해요체：动词的非格式体现在时",
+      "pointTitleEn": "The 해요체 rule: inf + 요",
+      "pointTitleZh": "해요체 规则：连用形 + 요",
+      "anchor": "ex-e04-e04-1-1",
+      "jp": "저는 밥을 먹어요"
+    },
+    {
+      "chapterId": "e05",
+      "chapterTitleEn": "합니다체: the formal style and questions",
+      "chapterTitleZh": "합니다체：格式体与疑问",
+      "pointTitleEn": "The ㅂ니다 vs 습니다 allomorph rule",
+      "pointTitleZh": "ㅂ니다 与 습니다 的变体规则",
+      "anchor": "ex-e05-e05-3-1",
+      "jp": "밥을 먹습니다"
+    },
+    {
+      "chapterId": "e06",
+      "chapterTitleEn": "The object particle 을/를 and SOV order",
+      "chapterTitleZh": "宾格助词 을/를 与 SOV 语序",
+      "pointTitleEn": "을 after consonant-final nouns",
+      "pointTitleZh": "받침结尾的名词后接 을",
+      "anchor": "ex-e06-e06-1-0",
+      "jp": "저는 밥을 먹어요"
+    },
+    {
+      "chapterId": "e06",
+      "chapterTitleEn": "The object particle 을/를 and SOV order",
+      "chapterTitleZh": "宾格助词 을/를 与 SOV 语序",
+      "pointTitleEn": "Object particle in 합니다체 (formal style)",
+      "pointTitleZh": "합니다체（正式体）中的宾格助词",
+      "anchor": "ex-e06-e06-3-0",
+      "jp": "밥을 먹습니다"
+    },
+    {
+      "chapterId": "e08",
+      "chapterTitleEn": "Past tense: 았/었어요",
+      "chapterTitleZh": "过去时：았/었어요",
+      "pointTitleEn": "Verb past tense — 해요체 (았/었어요)",
+      "pointTitleZh": "动词过去时 — 해요체（았/었어요）",
+      "anchor": "ex-e08-e08-1-0",
+      "jp": "밥을 먹었어요"
+    },
+    {
+      "chapterId": "e09",
+      "chapterTitleEn": "Negation: 안 and -지 않다",
+      "chapterTitleZh": "否定：안 与 -지 않다",
+      "pointTitleEn": "Short negation 안 with an object noun",
+      "pointTitleZh": "短否定 안 与宾语名词",
+      "anchor": "ex-e09-e09-2-0",
+      "jp": "밥을 안 먹어요"
+    },
+    {
+      "chapterId": "e09",
+      "chapterTitleEn": "Negation: 안 and -지 않다",
+      "chapterTitleZh": "否定：안 与 -지 않다",
+      "pointTitleEn": "Long negation: -지 않아요",
+      "pointTitleZh": "长否定：-지 않아요",
+      "anchor": "ex-e09-e09-3-2",
+      "jp": "밥을 먹지 않아요"
+    },
+    {
+      "chapterId": "e11",
+      "chapterTitleEn": "and / with / also / only: 와·과·하고, 도, 만",
+      "chapterTitleZh": "并列与助词：와·과·하고、도、만",
+      "pointTitleEn": "Combining particles in richer sentences",
+      "pointTitleZh": "在更丰富的句子中组合助词",
+      "anchor": "ex-e11-e11-4-1",
+      "jp": "물만 마시고 밥은 안 먹어요"
+    },
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-고 with verbs: listing and sequence",
+      "pointTitleZh": "-고 接动词：并列与顺序",
+      "anchor": "ex-e12-e12-1-0",
+      "jp": "밥을 먹고 가요"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Consonant-stem verbs: attach -으면",
+      "pointTitleZh": "辅音词干动词：接 -으면",
+      "anchor": "ex-i01-i01-2-1",
+      "jp": "밥을 먹으면 기분이 좋아요"
+    },
+    {
+      "chapterId": "i02",
+      "chapterTitleEn": "Desire and progressive: -고 싶다, -고 있다",
+      "chapterTitleZh": "愿望与进行：-고 싶다、-고 있다",
+      "pointTitleEn": "Wanting to do something: -고 싶어요",
+      "pointTitleZh": "想做某事：-고 싶어요",
+      "anchor": "ex-i02-i02-1-0",
+      "jp": "밥을 먹고 싶어요"
+    },
+    {
+      "chapterId": "i02",
+      "chapterTitleEn": "Desire and progressive: -고 싶다, -고 있다",
+      "chapterTitleZh": "愿望与进行：-고 싶다、-고 있다",
+      "pointTitleEn": "Expressing an ongoing action: -고 있어요",
+      "pointTitleZh": "表达正在进行的动作：-고 있어요",
+      "anchor": "ex-i02-i02-3-1",
+      "jp": "밥을 먹고 있어요"
+    },
+    {
+      "chapterId": "i04",
+      "chapterTitleEn": "Future and intention: -(으)ㄹ 거예요",
+      "chapterTitleZh": "将来与意图：-(으)ㄹ 거예요",
+      "pointTitleEn": "-을 거예요 with consonant-final stems (받침)",
+      "pointTitleZh": "辅音结尾词干（받침）后接 -을 거예요",
+      "anchor": "ex-i04-i04-2-1",
+      "jp": "저는 밥을 먹을 거예요"
+    },
+    {
+      "chapterId": "i06",
+      "chapterTitleEn": "Suggestions: -(으)ㄹ까요?",
+      "chapterTitleZh": "提议：-(으)ㄹ까요?",
+      "pointTitleEn": "Core pattern: -(으)ㄹ까요? with common verbs",
+      "pointTitleZh": "核心句型：常见动词 + -(으)ㄹ까요?",
+      "anchor": "ex-i06-i06-1-2",
+      "jp": "밥을 먹을까요?"
+    },
+    {
+      "chapterId": "i06",
+      "chapterTitleEn": "Suggestions: -(으)ㄹ까요?",
+      "chapterTitleZh": "提议：-(으)ㄹ까요?",
+      "pointTitleEn": "Adding a subject or adverb: 우리, 같이, 내일",
+      "pointTitleZh": "添加主语或副词：우리、같이、내일",
+      "anchor": "ex-i06-i06-3-2",
+      "jp": "우리 내일 밥을 먹을까요?"
+    },
+    {
+      "chapterId": "i06",
+      "chapterTitleEn": "Suggestions: -(으)ㄹ까요?",
+      "chapterTitleZh": "提议：-(으)ㄹ까요?",
+      "pointTitleEn": "Propositive with place: 에서 + -(으)ㄹ까요?",
+      "pointTitleZh": "加地点的提议句：에서 + -(으)ㄹ까요?",
+      "anchor": "ex-i06-i06-4-2",
+      "jp": "집에서 같이 밥을 먹을까요?"
+    }
+  ],
+  "방": [
+    {
+      "chapterId": "e03",
+      "chapterTitleEn": "있다 / 없다 and the Location Particle 에",
+      "chapterTitleZh": "存在与处所：있다/없다、에",
+      "pointTitleEn": "에 — the static location particle",
+      "pointTitleZh": "에 — 静态处所助词",
+      "anchor": "ex-e03-e03-3-2",
+      "jp": "방에 없어요"
+    },
+    {
+      "chapterId": "e07",
+      "chapterTitleEn": "Place particles: 에 vs 에서",
+      "chapterTitleZh": "处所助词：에 与 에서",
+      "pointTitleEn": "에 = static location (where something exists)",
+      "pointTitleZh": "에 表示静态位置（某物存在的地方）",
+      "anchor": "ex-e07-e07-2-1",
+      "jp": "책이 방에 있어요"
+    },
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-고 with adjectives: listing properties",
+      "pointTitleZh": "-고 接形容词：并列描述",
+      "anchor": "ex-e12-e12-2-1",
+      "jp": "방이 크고 좋아요"
+    },
+    {
+      "chapterId": "i07",
+      "chapterTitleEn": "Irregular verbs: ㄷ, ㅂ, 으",
+      "chapterTitleZh": "不规则动词：ㄷ、ㅂ、으",
+      "pointTitleEn": "으-irregular verbs and adjectives: 으 drops before vowels",
+      "pointTitleZh": "으 不规则动词和形容词：元音前 으 脱落",
+      "anchor": "ex-i07-i07-3-2",
+      "jp": "방이 커요"
+    }
+  ],
+  "배": [
+    {
+      "chapterId": "a03",
+      "chapterTitleEn": "Contrast: -지만 and -는데",
+      "chapterTitleZh": "转折：-지만 与 -는데",
+      "pointTitleEn": "-는데 with verbs: background contrast",
+      "pointTitleZh": "-는데 接动词：背景式转折",
+      "anchor": "ex-a03-a03-3-0",
+      "jp": "밥을 먹었는데 배가 고파요"
+    }
+  ],
+  "배우다": [
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Verb attributive -는 (present action)",
+      "pointTitleZh": "动词冠形词形 -는（现在进行/习惯动作）",
+      "anchor": "ex-a01-a01-1-2",
+      "jp": "한국어를 배우는 친구가 있어요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "Putting it all together: multi-clause chains",
+      "pointTitleZh": "综合：多分句连锁句",
+      "anchor": "ex-a06-a06-4-2",
+      "jp": "저는 매일 밥을 먹고 학교에 가서 한국어를 배워요"
+    },
+    {
+      "chapterId": "e04",
+      "chapterTitleEn": "해요체: the polite present (verbs)",
+      "chapterTitleZh": "해요체：动词的非格式体现在时",
+      "pointTitleEn": "Vowel contraction: 보다 → 봐요, 읽다 → 읽어요",
+      "pointTitleZh": "元音缩合：보다 → 봐요，읽다 → 읽어요",
+      "anchor": "ex-e04-e04-2-2",
+      "jp": "한국어를 배워요"
+    },
+    {
+      "chapterId": "e05",
+      "chapterTitleEn": "합니다체: the formal style and questions",
+      "chapterTitleZh": "합니다체：格式体与疑问",
+      "pointTitleEn": "Questions: Verb + 합니까 / 습니까?",
+      "pointTitleZh": "疑问句：动词 + 합니까 / 습니까？",
+      "anchor": "ex-e05-e05-2-2",
+      "jp": "한국어를 배웁니까?"
+    },
+    {
+      "chapterId": "e06",
+      "chapterTitleEn": "The object particle 을/를 and SOV order",
+      "chapterTitleZh": "宾格助词 을/를 与 SOV 语序",
+      "pointTitleEn": "를 after vowel-final nouns",
+      "pointTitleZh": "元音结尾的名词后接 를",
+      "anchor": "ex-e06-e06-2-2",
+      "jp": "저는 한국어를 배워요"
+    },
+    {
+      "chapterId": "e07",
+      "chapterTitleEn": "Place particles: 에 vs 에서",
+      "chapterTitleZh": "处所助词：에 与 에서",
+      "pointTitleEn": "에서 = location of an action",
+      "pointTitleZh": "에서 表示动作发生的地点",
+      "anchor": "ex-e07-e07-3-2",
+      "jp": "학교에서 한국어를 배웁니다"
+    },
+    {
+      "chapterId": "e08",
+      "chapterTitleEn": "Past tense: 았/었어요",
+      "chapterTitleZh": "过去时：았/었어요",
+      "pointTitleEn": "Verb past tense — 해요체 (았/었어요)",
+      "pointTitleZh": "动词过去时 — 해요체（았/었어요）",
+      "anchor": "ex-e08-e08-1-2",
+      "jp": "저는 한국어를 배웠어요"
+    },
+    {
+      "chapterId": "i02",
+      "chapterTitleEn": "Desire and progressive: -고 싶다, -고 있다",
+      "chapterTitleZh": "愿望与进行：-고 싶다、-고 있다",
+      "pointTitleEn": "Richer progressives and the formal register -고 있습니다",
+      "pointTitleZh": "更丰富的进行体以及正式语体 -고 있습니다",
+      "anchor": "ex-i02-i02-4-0",
+      "jp": "저는 한국어를 배우고 있어요"
+    },
+    {
+      "chapterId": "i07",
+      "chapterTitleEn": "Irregular verbs: ㄷ, ㅂ, 으",
+      "chapterTitleZh": "不规则动词：ㄷ、ㅂ、으",
+      "pointTitleEn": "Irregular stems in longer sentences",
+      "pointTitleZh": "不规则词干在更长句子中的应用",
+      "anchor": "ex-i07-i07-4-2",
+      "jp": "한국어를 배우면 쉬워요"
+    }
+  ],
+  "보다": [
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Verb attributive -는 (present action)",
+      "pointTitleZh": "动词冠形词形 -는（现在进行/习惯动作）",
+      "anchor": "ex-a01-a01-1-1",
+      "jp": "밥을 먹는 사람을 봐요"
+    },
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Adjective attributive -(으)ㄴ (regular and 있다-type)",
+      "pointTitleZh": "形容词冠形词形 -(으)ㄴ（规则及 있다 型）",
+      "anchor": "ex-a01-a01-2-2",
+      "jp": "재미있는 영화를 봐요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-고: sequential 'and then'",
+      "pointTitleZh": "-고：顺序'然后'",
+      "anchor": "ex-a06-a06-1-1",
+      "jp": "저는 친구를 만나고 영화를 봐요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-아서/-어서: causal and sequential 'and so / and then'",
+      "pointTitleZh": "-아서/-어서：因果与紧接顺序的'因此/然后'",
+      "anchor": "ex-a06-a06-2-1",
+      "jp": "친구를 만나서 영화를 봐요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "Putting it all together: multi-clause chains",
+      "pointTitleZh": "综合：多分句连锁句",
+      "anchor": "ex-a06-a06-4-1",
+      "jp": "시간이 있으면 친구를 만나서 영화를 봐요"
+    },
+    {
+      "chapterId": "e04",
+      "chapterTitleEn": "해요체: the polite present (verbs)",
+      "chapterTitleZh": "해요체：动词的非格式体现在时",
+      "pointTitleEn": "Vowel contraction: 보다 → 봐요, 읽다 → 읽어요",
+      "pointTitleZh": "元音缩合：보다 → 봐요，읽다 → 읽어요",
+      "anchor": "ex-e04-e04-2-0",
+      "jp": "영화를 봐요"
+    },
+    {
+      "chapterId": "e06",
+      "chapterTitleEn": "The object particle 을/를 and SOV order",
+      "chapterTitleZh": "宾格助词 을/를 与 SOV 语序",
+      "pointTitleEn": "Richer SOV sentences with adverbs",
+      "pointTitleZh": "含副词的丰富 SOV 句型",
+      "anchor": "ex-e06-e06-4-0",
+      "jp": "저는 매일 영화를 봐요"
+    },
+    {
+      "chapterId": "e08",
+      "chapterTitleEn": "Past tense: 았/었어요",
+      "chapterTitleZh": "过去时：았/었어요",
+      "pointTitleEn": "Verb past tense — 합니다체 (았/었습니다)",
+      "pointTitleZh": "动词过去时 — 합니다체（았/었습니다）",
+      "anchor": "ex-e08-e08-2-0",
+      "jp": "영화를 봤습니다"
+    },
+    {
+      "chapterId": "e11",
+      "chapterTitleEn": "and / with / also / only: 와·과·하고, 도, 만",
+      "chapterTitleZh": "并列与助词：와·과·하고、도、만",
+      "pointTitleEn": "와/과/하고 — connecting nouns: \"and / with\"",
+      "pointTitleZh": "와/과/하고 — 名词连接：\"和/跟\"",
+      "anchor": "ex-e11-e11-1-2",
+      "jp": "친구하고 영화를 봐요"
+    },
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-고 with verbs: listing and sequence",
+      "pointTitleZh": "-고 接动词：并列与顺序",
+      "anchor": "ex-e12-e12-1-2",
+      "jp": "친구를 만나고 영화를 봐요"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Richer conditional sentences",
+      "pointTitleZh": "更丰富的条件句",
+      "anchor": "ex-i01-i01-4-0",
+      "jp": "시간이 있으면 같이 영화를 봐요"
+    },
+    {
+      "chapterId": "i02",
+      "chapterTitleEn": "Desire and progressive: -고 싶다, -고 있다",
+      "chapterTitleZh": "愿望与进行：-고 싶다、-고 있다",
+      "pointTitleEn": "-고 싶어요 with subjects, objects, and destinations",
+      "pointTitleZh": "-고 싶어요 与主语、宾语、目的地",
+      "anchor": "ex-i02-i02-2-1",
+      "jp": "저는 영화를 보고 싶어요"
+    },
+    {
+      "chapterId": "i03",
+      "chapterTitleEn": "Ability: -(으)ㄹ 수 있다/없다",
+      "chapterTitleZh": "能力：-(으)ㄹ 수 있다/없다",
+      "pointTitleEn": "Vowel-stem verbs: -ㄹ 수 있어요",
+      "pointTitleZh": "元音词干动词：-ㄹ 수 있어요",
+      "anchor": "ex-i03-i03-1-2",
+      "jp": "저는 영화를 볼 수 있어요"
+    },
+    {
+      "chapterId": "i04",
+      "chapterTitleEn": "Future and intention: -(으)ㄹ 거예요",
+      "chapterTitleZh": "将来与意图：-(으)ㄹ 거예요",
+      "pointTitleEn": "-ㄹ 거예요 with vowel-final stems",
+      "pointTitleZh": "元音结尾词干后接 -ㄹ 거예요",
+      "anchor": "ex-i04-i04-1-2",
+      "jp": "저는 영화를 볼 거예요"
+    },
+    {
+      "chapterId": "i06",
+      "chapterTitleEn": "Suggestions: -(으)ㄹ까요?",
+      "chapterTitleZh": "提议：-(으)ㄹ까요?",
+      "pointTitleEn": "Core pattern: -(으)ㄹ까요? with common verbs",
+      "pointTitleZh": "核心句型：常见动词 + -(으)ㄹ까요?",
+      "anchor": "ex-i06-i06-1-1",
+      "jp": "영화를 볼까요?"
+    },
+    {
+      "chapterId": "i06",
+      "chapterTitleEn": "Suggestions: -(으)ㄹ까요?",
+      "chapterTitleZh": "提议：-(으)ㄹ까요?",
+      "pointTitleEn": "Adding a subject or adverb: 우리, 같이, 내일",
+      "pointTitleZh": "添加主语或副词：우리、같이、내일",
+      "anchor": "ex-i06-i06-3-1",
+      "jp": "우리 같이 영화를 볼까요?"
+    }
+  ],
+  "비": [
+    {
+      "chapterId": "a02",
+      "chapterTitleEn": "Reasons: -아서 vs -(으)니까",
+      "chapterTitleZh": "原因：-아서 与 -(으)니까",
+      "pointTitleEn": "-아서/어서 — background cause flowing into a result",
+      "pointTitleZh": "-아서/어서：顺承背景原因",
+      "anchor": "ex-a02-a02-1-0",
+      "jp": "비가 와서 안 가요"
+    },
+    {
+      "chapterId": "a02",
+      "chapterTitleEn": "Reasons: -아서 vs -(으)니까",
+      "chapterTitleZh": "原因：-아서 与 -(으)니까",
+      "pointTitleEn": "-(으)니까 — assertive explanation and 받침 allomorphs",
+      "pointTitleZh": "-(으)니까：断言性解释与收音异形体",
+      "anchor": "ex-a02-a02-2-1",
+      "jp": "비가 오니까 집에 있어요"
+    },
+    {
+      "chapterId": "a02",
+      "chapterTitleEn": "Reasons: -아서 vs -(으)니까",
+      "chapterTitleZh": "原因：-아서 与 -(으)니까",
+      "pointTitleEn": "Side-by-side contrast and the formal 합니다체 register",
+      "pointTitleZh": "对比总结与正式语体 합니다체",
+      "anchor": "ex-a02-a02-4-0",
+      "jp": "비가 와서 안 갑니다"
+    },
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-아서/어서 with verbs: reason and close sequence",
+      "pointTitleZh": "-아서/어서 接动词：原因与紧密序列",
+      "anchor": "ex-e12-e12-3-0",
+      "jp": "비가 와서 집에 있어요"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Vowel-stem verbs: attach -면 directly",
+      "pointTitleZh": "元音词干动词：直接接 -면",
+      "anchor": "ex-i01-i01-1-0",
+      "jp": "비가 오면 집에 있어요"
+    }
+  ],
+  "비싸다": [
+    {
+      "chapterId": "a03",
+      "chapterTitleEn": "Contrast: -지만 and -는데",
+      "chapterTitleZh": "转折：-지만 与 -는데",
+      "pointTitleEn": "-ㄴ데/은데 with adjectives: the allomorph rule",
+      "pointTitleZh": "-ㄴ데/은데 接形容词：异形词规则",
+      "anchor": "ex-a03-a03-4-1",
+      "jp": "좋은데 비싸요"
+    },
+    {
+      "chapterId": "e05",
+      "chapterTitleEn": "합니다체: the formal style and questions",
+      "chapterTitleZh": "합니다체：格式体与疑问",
+      "pointTitleEn": "Formal adjectives and contrasting 해요체 vs 합니다체",
+      "pointTitleZh": "正式体形容词及해요체与합니다체的对比",
+      "anchor": "ex-e05-e05-4-1",
+      "jp": "커피가 비쌉니다"
+    },
+    {
+      "chapterId": "e10",
+      "chapterTitleEn": "Adjectives (형용사)",
+      "chapterTitleZh": "形容词",
+      "pointTitleEn": "Haeyo polite present — ConjugateAdjective<A, \"Haeyo\">",
+      "pointTitleZh": "해요체礼貌现在时 — ConjugateAdjective<A, \"Haeyo\">",
+      "anchor": "ex-e10-e10-2-2",
+      "jp": "이 옷이 비싸요"
+    },
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-고 with adjectives: listing properties",
+      "pointTitleZh": "-고 接形容词：并列描述",
+      "anchor": "ex-e12-e12-2-0",
+      "jp": "비싸고 좋아요"
+    },
+    {
+      "chapterId": "i08",
+      "chapterTitleEn": "Comparison: 보다, 처럼, 제일",
+      "chapterTitleZh": "比较：보다、처럼、제일",
+      "pointTitleEn": "보다 — 'than' (comparative particle)",
+      "pointTitleZh": "보다 — 比较助词（比……）",
+      "anchor": "ex-i08-i08-1-0",
+      "jp": "커피가 차보다 비싸요"
+    },
+    {
+      "chapterId": "i08",
+      "chapterTitleEn": "Comparison: 보다, 처럼, 제일",
+      "chapterTitleZh": "比较：보다、처럼、제일",
+      "pointTitleEn": "제일 / 가장 — superlative adverbs ('the most')",
+      "pointTitleZh": "제일 / 가장 — 最高级副词（最……）",
+      "anchor": "ex-i08-i08-3-2",
+      "jp": "가장 비싼 것을 주세요"
+    },
+    {
+      "chapterId": "i08",
+      "chapterTitleEn": "Comparison: 보다, 처럼, 제일",
+      "chapterTitleZh": "比较：보다、처럼、제일",
+      "pointTitleEn": "Combining comparison constructs",
+      "pointTitleZh": "综合运用比较句型",
+      "anchor": "ex-i08-i08-4-0",
+      "jp": "이 가방이 저 가방보다 더 비싸요"
+    }
+  ],
+  "빨리": [
+    {
+      "chapterId": "a04",
+      "chapterTitleEn": "Commands and propositives in context",
+      "chapterTitleZh": "命令与提议的实际运用",
+      "pointTitleEn": "Plain imperative -아/어라 (반말 commands)",
+      "pointTitleZh": "반말命令句 -아/어라",
+      "anchor": "ex-a04-a04-1-1",
+      "jp": "빨리 먹어라."
+    },
+    {
+      "chapterId": "a04",
+      "chapterTitleEn": "Commands and propositives in context",
+      "chapterTitleZh": "命令与提议的实际运用",
+      "pointTitleEn": "Honorific imperative -세요 (polite requests)",
+      "pointTitleZh": "尊称命令句 -세요（礼貌请求）",
+      "anchor": "ex-a04-a04-2-0",
+      "jp": "빨리 오세요."
+    }
+  ],
+  "빵": [
+    {
+      "chapterId": "e11",
+      "chapterTitleEn": "and / with / also / only: 와·과·하고, 도, 만",
+      "chapterTitleZh": "并列与助词：와·과·하고、도、만",
+      "pointTitleEn": "와/과/하고 — connecting nouns: \"and / with\"",
+      "pointTitleZh": "와/과/하고 — 名词连接：\"和/跟\"",
+      "anchor": "ex-e11-e11-1-0",
+      "jp": "빵과 우유를 샀어요"
+    },
+    {
+      "chapterId": "e11",
+      "chapterTitleEn": "and / with / also / only: 와·과·하고, 도, 만",
+      "chapterTitleZh": "并列与助词：와·과·하고、도、만",
+      "pointTitleEn": "만 — \"only\"",
+      "pointTitleZh": "만 — \"只/仅\"",
+      "anchor": "ex-e11-e11-3-2",
+      "jp": "빵만 사요"
+    },
+    {
+      "chapterId": "e11",
+      "chapterTitleEn": "and / with / also / only: 와·과·하고, 도, 만",
+      "chapterTitleZh": "并列与助词：와·과·하고、도、만",
+      "pointTitleEn": "Combining particles in richer sentences",
+      "pointTitleZh": "在更丰富的句子中组合助词",
+      "anchor": "ex-e11-e11-4-0",
+      "jp": "저도 커피하고 빵을 먹어요"
+    }
+  ],
+  "사다": [
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Irregular adjective attributives (으-irregular and ㅂ-irregular)",
+      "pointTitleZh": "不规则形容词冠形词形（으 不规则、ㅂ 不规则）",
+      "anchor": "ex-a01-a01-3-1",
+      "jp": "예쁜 꽃을 샀어요"
+    },
+    {
+      "chapterId": "a02",
+      "chapterTitleEn": "Reasons: -아서 vs -(으)니까",
+      "chapterTitleZh": "原因：-아서 与 -(으)니까",
+      "pointTitleEn": "-(으)니까 before imperatives and proposals — where -아서 is blocked",
+      "pointTitleZh": "-(으)니까 接命令句与建议句——-아서 被禁止的场合",
+      "anchor": "ex-a02-a02-3-1",
+      "jp": "좋으니까 많이 사세요"
+    },
+    {
+      "chapterId": "a03",
+      "chapterTitleEn": "Contrast: -지만 and -는데",
+      "chapterTitleZh": "转折：-지만 与 -는데",
+      "pointTitleEn": "-ㄴ데/은데 with adjectives: the allomorph rule",
+      "pointTitleZh": "-ㄴ데/은데 接形容词：异形词规则",
+      "anchor": "ex-a03-a03-4-0",
+      "jp": "비싼데 사고 싶어요"
+    },
+    {
+      "chapterId": "e11",
+      "chapterTitleEn": "and / with / also / only: 와·과·하고, 도, 만",
+      "chapterTitleZh": "并列与助词：와·과·하고、도、만",
+      "pointTitleEn": "와/과/하고 — connecting nouns: \"and / with\"",
+      "pointTitleZh": "와/과/하고 — 名词连接：\"和/跟\"",
+      "anchor": "ex-e11-e11-1-0",
+      "jp": "빵과 우유를 샀어요"
+    },
+    {
+      "chapterId": "e11",
+      "chapterTitleEn": "and / with / also / only: 와·과·하고, 도, 만",
+      "chapterTitleZh": "并列与助词：와·과·하고、도、만",
+      "pointTitleEn": "만 — \"only\"",
+      "pointTitleZh": "만 — \"只/仅\"",
+      "anchor": "ex-e11-e11-3-2",
+      "jp": "빵만 사요"
+    },
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-아서/어서 with verbs: reason and close sequence",
+      "pointTitleZh": "-아서/어서 接动词：原因与紧密序列",
+      "anchor": "ex-e12-e12-3-1",
+      "jp": "책을 사서 읽어요"
+    }
+  ],
+  "사람": [
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Verb attributive -는 (present action)",
+      "pointTitleZh": "动词冠形词形 -는（现在进行/习惯动作）",
+      "anchor": "ex-a01-a01-1-0",
+      "jp": "책을 읽는 사람이에요"
+    },
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Verb attributive -는 (present action)",
+      "pointTitleZh": "动词冠形词形 -는（现在进行/习惯动作）",
+      "anchor": "ex-a01-a01-1-1",
+      "jp": "밥을 먹는 사람을 봐요"
+    },
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Noun-modifying clauses in full sentences",
+      "pointTitleZh": "在完整句子中使用定语从句",
+      "anchor": "ex-a01-a01-4-0",
+      "jp": "책을 읽는 사람은 많아요"
+    },
+    {
+      "chapterId": "e02",
+      "chapterTitleEn": "Topic and subject: 은/는 and 이/가",
+      "chapterTitleZh": "主题与主格：은/는、이/가",
+      "pointTitleEn": "Topic vs Subject — different focus",
+      "pointTitleZh": "话题与主格的语义对比",
+      "anchor": "ex-e02-e02-3-0",
+      "jp": "저는 한국 사람이에요"
+    },
+    {
+      "chapterId": "e10",
+      "chapterTitleEn": "Adjectives (형용사)",
+      "chapterTitleZh": "形容词",
+      "pointTitleEn": "Attributive -(으)ㄴ — adjective before a noun",
+      "pointTitleZh": "定语形 -(으)ㄴ —— 形容词修饰名词",
+      "anchor": "ex-e10-e10-3-0",
+      "jp": "좋은 사람"
+    }
+  ],
+  "산": [
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-아서/어서 with adjectives: giving a reason",
+      "pointTitleZh": "-아서/어서 接形容词：表示原因",
+      "anchor": "ex-e12-e12-4-0",
+      "jp": "날씨가 좋아서 산에 가요"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Adjective conditionals",
+      "pointTitleZh": "形容词条件句",
+      "anchor": "ex-i01-i01-3-0",
+      "jp": "날씨가 좋으면 산에 가요"
+    }
+  ],
+  "서울": [
+    {
+      "chapterId": "e07",
+      "chapterTitleEn": "Place particles: 에 vs 에서",
+      "chapterTitleZh": "处所助词：에 与 에서",
+      "pointTitleEn": "에서 = from (origin or starting point)",
+      "pointTitleZh": "에서 表示出发地（来源或起点）",
+      "anchor": "ex-e07-e07-4-1",
+      "jp": "저는 서울에서 왔어요"
+    }
+  ],
+  "선물": [
+    {
+      "chapterId": "i04",
+      "chapterTitleEn": "Future and intention: -(으)ㄹ 거예요",
+      "chapterTitleZh": "将来与意图：-(으)ㄹ 거예요",
+      "pointTitleEn": "-을 거예요 with consonant-final stems (받침)",
+      "pointTitleZh": "辅音结尾词干（받침）后接 -을 거예요",
+      "anchor": "ex-i04-i04-2-2",
+      "jp": "선물을 받을 거예요"
+    }
+  ],
+  "선생님": [
+    {
+      "chapterId": "a05",
+      "chapterTitleEn": "Quotation: -라고 하다 (introduction)",
+      "chapterTitleZh": "引用：-라고 하다（入门）",
+      "pointTitleEn": "Core pattern: [clause]라고 해요",
+      "pointTitleZh": "核心句型：[小句]라고 해요",
+      "anchor": "ex-a05-a05-1-1",
+      "jp": "선생님이 \"좋아요\"라고 해요"
+    },
+    {
+      "chapterId": "a05",
+      "chapterTitleEn": "Quotation: -라고 하다 (introduction)",
+      "chapterTitleZh": "引用：-라고 하다（入门）",
+      "pointTitleEn": "Past quotation: [clause]라고 했어요",
+      "pointTitleZh": "过去式引用：[小句]라고 했어요",
+      "anchor": "ex-a05-a05-2-1",
+      "jp": "선생님이 \"어려워요\"라고 했어요"
+    },
+    {
+      "chapterId": "a05",
+      "chapterTitleEn": "Quotation: -라고 하다 (introduction)",
+      "chapterTitleZh": "引用：-라고 하다（入门）",
+      "pointTitleEn": "Formal register: -라고 합니다 / 했습니다",
+      "pointTitleZh": "正式体：-라고 합니다 / 했습니다",
+      "anchor": "ex-a05-a05-3-1",
+      "jp": "선생님이 \"갈 거예요\"라고 했습니다"
+    },
+    {
+      "chapterId": "e01",
+      "chapterTitleEn": "Noun sentences: the copula 이다",
+      "chapterTitleZh": "名词谓语句：이다",
+      "pointTitleEn": "해요체 copula after a consonant-final noun: 이에요",
+      "pointTitleZh": "해요체系动词接有收音名词：이에요",
+      "anchor": "ex-e01-e01-2-1",
+      "jp": "저는 선생님이에요"
+    },
+    {
+      "chapterId": "e07",
+      "chapterTitleEn": "Place particles: 에 vs 에서",
+      "chapterTitleZh": "处所助词：에 与 에서",
+      "pointTitleEn": "에 = static location (where something exists)",
+      "pointTitleZh": "에 表示静态位置（某物存在的地方）",
+      "anchor": "ex-e07-e07-2-2",
+      "jp": "선생님이 학교에 있습니다"
+    },
+    {
+      "chapterId": "e11",
+      "chapterTitleEn": "and / with / also / only: 와·과·하고, 도, 만",
+      "chapterTitleZh": "并列与助词：와·과·하고、도、만",
+      "pointTitleEn": "도 — \"also / too\"",
+      "pointTitleZh": "도 — \"也\"",
+      "anchor": "ex-e11-e11-2-2",
+      "jp": "선생님도 왔어요"
+    },
+    {
+      "chapterId": "i05",
+      "chapterTitleEn": "Honorific requests: -(으)세요",
+      "chapterTitleZh": "尊敬与请求：-(으)세요",
+      "pointTitleEn": "-(으)세요 as honorific present",
+      "pointTitleZh": "-(으)세요 用作尊敬现在时",
+      "anchor": "ex-i05-i05-3-0",
+      "jp": "선생님이 오세요"
+    },
+    {
+      "chapterId": "i08",
+      "chapterTitleEn": "Comparison: 보다, 처럼, 제일",
+      "chapterTitleZh": "比较：보다、처럼、제일",
+      "pointTitleEn": "처럼 — 'like / as' (resemblance particle)",
+      "pointTitleZh": "처럼 — 类比助词（像……一样）",
+      "anchor": "ex-i08-i08-2-1",
+      "jp": "선생님처럼 가르쳐요"
+    }
+  ],
+  "쉽다": [
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Richer conditional sentences",
+      "pointTitleZh": "更丰富的条件句",
+      "anchor": "ex-i01-i01-4-1",
+      "jp": "공부하면 시험이 쉬워요"
+    },
+    {
+      "chapterId": "i07",
+      "chapterTitleEn": "Irregular verbs: ㄷ, ㅂ, 으",
+      "chapterTitleZh": "不规则动词：ㄷ、ㅂ、으",
+      "pointTitleEn": "ㅂ-irregular adjectives: ㅂ → 우 before vowels",
+      "pointTitleZh": "ㅂ 不规则形容词：元音前 ㅂ → 우",
+      "anchor": "ex-i07-i07-2-2",
+      "jp": "한국어가 쉬워요"
+    },
+    {
+      "chapterId": "i07",
+      "chapterTitleEn": "Irregular verbs: ㄷ, ㅂ, 으",
+      "chapterTitleZh": "不规则动词：ㄷ、ㅂ、으",
+      "pointTitleEn": "Irregular stems in longer sentences",
+      "pointTitleZh": "不规则词干在更长句子中的应用",
+      "anchor": "ex-i07-i07-4-2",
+      "jp": "한국어를 배우면 쉬워요"
+    }
+  ],
+  "시간": [
+    {
+      "chapterId": "a02",
+      "chapterTitleEn": "Reasons: -아서 vs -(으)니까",
+      "chapterTitleZh": "原因：-아서 与 -(으)니까",
+      "pointTitleEn": "-아서/어서 — background cause flowing into a result",
+      "pointTitleZh": "-아서/어서：顺承背景原因",
+      "anchor": "ex-a02-a02-1-1",
+      "jp": "시간이 없어서 빨리 가요"
+    },
+    {
+      "chapterId": "a02",
+      "chapterTitleEn": "Reasons: -아서 vs -(으)니까",
+      "chapterTitleZh": "原因：-아서 与 -(으)니까",
+      "pointTitleEn": "-(으)니까 — assertive explanation and 받침 allomorphs",
+      "pointTitleZh": "-(으)니까：断言性解释与收音异形体",
+      "anchor": "ex-a02-a02-2-0",
+      "jp": "시간이 없으니까 빨리 가요"
+    },
+    {
+      "chapterId": "a02",
+      "chapterTitleEn": "Reasons: -아서 vs -(으)니까",
+      "chapterTitleZh": "原因：-아서 与 -(으)니까",
+      "pointTitleEn": "Side-by-side contrast and the formal 합니다체 register",
+      "pointTitleZh": "对比总结与正式语体 합니다체",
+      "anchor": "ex-a02-a02-4-1",
+      "jp": "시간이 없으니까 빨리 갑니다"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-(으)면: the conditional 'if'",
+      "pointTitleZh": "-(으)면：条件'如果'",
+      "anchor": "ex-a06-a06-3-0",
+      "jp": "시간이 있으면 공부해요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-(으)면: the conditional 'if'",
+      "pointTitleZh": "-(으)면：条件'如果'",
+      "anchor": "ex-a06-a06-3-1",
+      "jp": "시간이 있으면 친구를 만나요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "Putting it all together: multi-clause chains",
+      "pointTitleZh": "综合：多分句连锁句",
+      "anchor": "ex-a06-a06-4-1",
+      "jp": "시간이 있으면 친구를 만나서 영화를 봐요"
+    },
+    {
+      "chapterId": "e03",
+      "chapterTitleEn": "있다 / 없다 and the Location Particle 에",
+      "chapterTitleZh": "存在与处所：있다/없다、에",
+      "pointTitleEn": "있어요 — existence and possession",
+      "pointTitleZh": "있어요 — 存在与拥有",
+      "anchor": "ex-e03-e03-1-2",
+      "jp": "시간이 있어요"
+    },
+    {
+      "chapterId": "e03",
+      "chapterTitleEn": "있다 / 없다 and the Location Particle 에",
+      "chapterTitleZh": "存在与处所：있다/없다、에",
+      "pointTitleEn": "없어요 — non-existence and lack",
+      "pointTitleZh": "없어요 — 不存在与没有",
+      "anchor": "ex-e03-e03-2-0",
+      "jp": "시간이 없어요"
+    },
+    {
+      "chapterId": "e03",
+      "chapterTitleEn": "있다 / 없다 and the Location Particle 에",
+      "chapterTitleZh": "存在与处所：있다/없다、에",
+      "pointTitleEn": "합니다체 — 있습니다 / 없습니다",
+      "pointTitleZh": "합니다체 — 있습니다 / 없습니다",
+      "anchor": "ex-e03-e03-4-1",
+      "jp": "시간이 없습니다"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Consonant-stem verbs: attach -으면",
+      "pointTitleZh": "辅音词干动词：接 -으면",
+      "anchor": "ex-i01-i01-2-0",
+      "jp": "시간이 있으면 가요"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Richer conditional sentences",
+      "pointTitleZh": "更丰富的条件句",
+      "anchor": "ex-i01-i01-4-0",
+      "jp": "시간이 있으면 같이 영화를 봐요"
+    }
+  ],
+  "시작하다": [
+    {
+      "chapterId": "a04",
+      "chapterTitleEn": "Commands and propositives in context",
+      "chapterTitleZh": "命令与提议的实际运用",
+      "pointTitleEn": "Register contrast in dialogue",
+      "pointTitleZh": "对话中的语域对比",
+      "anchor": "ex-a04-a04-4-2",
+      "jp": "같이 시작할까요?"
+    }
+  ],
+  "시험": [
+    {
+      "chapterId": "a03",
+      "chapterTitleEn": "Contrast: -지만 and -는데",
+      "chapterTitleZh": "转折：-지만 与 -는데",
+      "pointTitleEn": "-지만 with verbs and richer sentences",
+      "pointTitleZh": "-지만 接动词与更丰富的句子",
+      "anchor": "ex-a03-a03-2-0",
+      "jp": "공부하지만 시험이 어려워요"
+    },
+    {
+      "chapterId": "e08",
+      "chapterTitleEn": "Past tense: 았/었어요",
+      "chapterTitleZh": "过去时：았/었어요",
+      "pointTitleEn": "Adjective past tense — 았/었어요",
+      "pointTitleZh": "形容词过去时 — 았/었어요",
+      "anchor": "ex-e08-e08-4-2",
+      "jp": "시험이 어려웠어요"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Richer conditional sentences",
+      "pointTitleZh": "更丰富的条件句",
+      "anchor": "ex-i01-i01-4-1",
+      "jp": "공부하면 시험이 쉬워요"
+    }
+  ],
+  "싸다": [
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-고 with adjectives: listing properties",
+      "pointTitleZh": "-고 接形容词：并列描述",
+      "anchor": "ex-e12-e12-2-2",
+      "jp": "커피가 싸고 맛있어요"
+    },
+    {
+      "chapterId": "i08",
+      "chapterTitleEn": "Comparison: 보다, 처럼, 제일",
+      "chapterTitleZh": "比较：보다、처럼、제일",
+      "pointTitleEn": "Combining comparison constructs",
+      "pointTitleZh": "综合运用比较句型",
+      "anchor": "ex-i08-i08-4-1",
+      "jp": "여기가 제일 좋고 가장 싸요"
+    }
+  ],
+  "쓰다": [
+    {
+      "chapterId": "i07",
+      "chapterTitleEn": "Irregular verbs: ㄷ, ㅂ, 으",
+      "chapterTitleZh": "不规则动词：ㄷ、ㅂ、으",
+      "pointTitleEn": "으-irregular verbs and adjectives: 으 drops before vowels",
+      "pointTitleZh": "으 不规则动词和形容词：元音前 으 脱落",
+      "anchor": "ex-i07-i07-3-0",
+      "jp": "편지를 써요"
+    },
+    {
+      "chapterId": "i07",
+      "chapterTitleEn": "Irregular verbs: ㄷ, ㅂ, 으",
+      "chapterTitleZh": "不规则动词：ㄷ、ㅂ、으",
+      "pointTitleEn": "으-irregular verbs and adjectives: 으 drops before vowels",
+      "pointTitleZh": "으 不规则动词和形容词：元音前 으 脱落",
+      "anchor": "ex-i07-i07-3-1",
+      "jp": "편지를 썼어요"
+    }
+  ],
+  "아버지": [
+    {
+      "chapterId": "i05",
+      "chapterTitleEn": "Honorific requests: -(으)세요",
+      "chapterTitleZh": "尊敬与请求：-(으)세요",
+      "pointTitleEn": "-(으)세요 as honorific present",
+      "pointTitleZh": "-(으)세요 用作尊敬现在时",
+      "anchor": "ex-i05-i05-3-2",
+      "jp": "아버지가 일하세요"
+    }
+  ],
+  "앉다": [
+    {
+      "chapterId": "a04",
+      "chapterTitleEn": "Commands and propositives in context",
+      "chapterTitleZh": "命令与提议的实际运用",
+      "pointTitleEn": "Plain imperative -아/어라 (반말 commands)",
+      "pointTitleZh": "반말命令句 -아/어라",
+      "anchor": "ex-a04-a04-1-0",
+      "jp": "여기 앉아라."
+    },
+    {
+      "chapterId": "a04",
+      "chapterTitleEn": "Commands and propositives in context",
+      "chapterTitleZh": "命令与提议的实际运用",
+      "pointTitleEn": "Honorific imperative -세요 (polite requests)",
+      "pointTitleZh": "尊称命令句 -세요（礼貌请求）",
+      "anchor": "ex-a04-a04-2-1",
+      "jp": "여기 앉으세요."
+    },
+    {
+      "chapterId": "i05",
+      "chapterTitleEn": "Honorific requests: -(으)세요",
+      "chapterTitleZh": "尊敬与请求：-(으)세요",
+      "pointTitleEn": "Polite requests in context",
+      "pointTitleZh": "语境中的礼貌请求",
+      "anchor": "ex-i05-i05-2-0",
+      "jp": "여기 앉으세요"
+    }
+  ],
+  "어렵다": [
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Irregular adjective attributives (으-irregular and ㅂ-irregular)",
+      "pointTitleZh": "不规则形容词冠形词形（으 不规则、ㅂ 不规则）",
+      "anchor": "ex-a01-a01-3-2",
+      "jp": "어려운 책이 많아요"
+    },
+    {
+      "chapterId": "a03",
+      "chapterTitleEn": "Contrast: -지만 and -는데",
+      "chapterTitleZh": "转折：-지만 与 -는데",
+      "pointTitleEn": "-지만 with verbs and richer sentences",
+      "pointTitleZh": "-지만 接动词与更丰富的句子",
+      "anchor": "ex-a03-a03-2-0",
+      "jp": "공부하지만 시험이 어려워요"
+    },
+    {
+      "chapterId": "a03",
+      "chapterTitleEn": "Contrast: -지만 and -는데",
+      "chapterTitleZh": "转折：-지만 与 -는데",
+      "pointTitleEn": "-지만 with verbs and richer sentences",
+      "pointTitleZh": "-지만 接动词与更丰富的句子",
+      "anchor": "ex-a03-a03-2-2",
+      "jp": "한국어를 배우지만 아직 어려워요"
+    },
+    {
+      "chapterId": "e05",
+      "chapterTitleEn": "합니다체: the formal style and questions",
+      "chapterTitleZh": "합니다체：格式体与疑问",
+      "pointTitleEn": "Formal adjectives and contrasting 해요체 vs 합니다체",
+      "pointTitleZh": "正式体形容词及해요체与합니다체的对比",
+      "anchor": "ex-e05-e05-4-2",
+      "jp": "한국어가 어렵습니다"
+    },
+    {
+      "chapterId": "e08",
+      "chapterTitleEn": "Past tense: 았/었어요",
+      "chapterTitleZh": "过去时：았/었어요",
+      "pointTitleEn": "Adjective past tense — 았/었어요",
+      "pointTitleZh": "形容词过去时 — 았/었어요",
+      "anchor": "ex-e08-e08-4-2",
+      "jp": "시험이 어려웠어요"
+    },
+    {
+      "chapterId": "e10",
+      "chapterTitleEn": "Adjectives (형용사)",
+      "chapterTitleZh": "形容词",
+      "pointTitleEn": "Hamnida formal polite — 해요체 vs 합니다체",
+      "pointTitleZh": "합니다체正式礼貌体 —— 해요체 vs 합니다체",
+      "anchor": "ex-e10-e10-4-1",
+      "jp": "한국어가 어렵습니다"
+    }
+  ],
+  "어머니": [
+    {
+      "chapterId": "a05",
+      "chapterTitleEn": "Quotation: -라고 하다 (introduction)",
+      "chapterTitleZh": "引用：-라고 하다（入门）",
+      "pointTitleEn": "Core pattern: [clause]라고 해요",
+      "pointTitleZh": "核心句型：[小句]라고 해요",
+      "anchor": "ex-a05-a05-1-2",
+      "jp": "어머니가 \"집에 있어요\"라고 해요"
+    },
+    {
+      "chapterId": "a05",
+      "chapterTitleEn": "Quotation: -라고 하다 (introduction)",
+      "chapterTitleZh": "引用：-라고 하다（入门）",
+      "pointTitleEn": "Richer inner clauses: object + verb and negative forms",
+      "pointTitleZh": "更丰富的内部小句：带宾语的动词和否定形式",
+      "anchor": "ex-a05-a05-4-2",
+      "jp": "어머니가 \"한국어가 재미있어요\"라고 하셨어요"
+    },
+    {
+      "chapterId": "i05",
+      "chapterTitleEn": "Honorific requests: -(으)세요",
+      "chapterTitleZh": "尊敬与请求：-(으)세요",
+      "pointTitleEn": "-(으)세요 as honorific present",
+      "pointTitleZh": "-(으)세요 用作尊敬现在时",
+      "anchor": "ex-i05-i05-3-1",
+      "jp": "어머니가 책을 읽으세요"
+    }
+  ],
+  "어제": [
+    {
+      "chapterId": "i08",
+      "chapterTitleEn": "Comparison: 보다, 처럼, 제일",
+      "chapterTitleZh": "比较：보다、처럼、제일",
+      "pointTitleEn": "보다 — 'than' (comparative particle)",
+      "pointTitleZh": "보다 — 比较助词（比……）",
+      "anchor": "ex-i08-i08-1-2",
+      "jp": "오늘이 어제보다 더 추워요"
+    }
+  ],
+  "언니": [
+    {
+      "chapterId": "i08",
+      "chapterTitleEn": "Comparison: 보다, 처럼, 제일",
+      "chapterTitleZh": "比较：보다、처럼、제일",
+      "pointTitleEn": "보다 — 'than' (comparative particle)",
+      "pointTitleZh": "보다 — 比较助词（比……）",
+      "anchor": "ex-i08-i08-1-1",
+      "jp": "저는 언니보다 키가 커요"
+    }
+  ],
+  "없다": [
+    {
+      "chapterId": "a02",
+      "chapterTitleEn": "Reasons: -아서 vs -(으)니까",
+      "chapterTitleZh": "原因：-아서 与 -(으)니까",
+      "pointTitleEn": "-아서/어서 — background cause flowing into a result",
+      "pointTitleZh": "-아서/어서：顺承背景原因",
+      "anchor": "ex-a02-a02-1-1",
+      "jp": "시간이 없어서 빨리 가요"
+    },
+    {
+      "chapterId": "a03",
+      "chapterTitleEn": "Contrast: -지만 and -는데",
+      "chapterTitleZh": "转折：-지만 与 -는데",
+      "pointTitleEn": "-지만 with verbs and richer sentences",
+      "pointTitleZh": "-지만 接动词与更丰富的句子",
+      "anchor": "ex-a03-a03-2-1",
+      "jp": "일하지만 돈이 없어요"
+    },
+    {
+      "chapterId": "a03",
+      "chapterTitleEn": "Contrast: -지만 and -는데",
+      "chapterTitleZh": "转折：-지만 与 -는데",
+      "pointTitleEn": "-는데 with verbs: background contrast",
+      "pointTitleZh": "-는데 接动词：背景式转折",
+      "anchor": "ex-a03-a03-3-1",
+      "jp": "집에 갔는데 친구가 없었어요"
+    },
+    {
+      "chapterId": "e03",
+      "chapterTitleEn": "있다 / 없다 and the Location Particle 에",
+      "chapterTitleZh": "存在与处所：있다/없다、에",
+      "pointTitleEn": "없어요 — non-existence and lack",
+      "pointTitleZh": "없어요 — 不存在与没有",
+      "anchor": "ex-e03-e03-2-0",
+      "jp": "시간이 없어요"
+    },
+    {
+      "chapterId": "e03",
+      "chapterTitleEn": "있다 / 없다 and the Location Particle 에",
+      "chapterTitleZh": "存在与处所：있다/없다、에",
+      "pointTitleEn": "없어요 — non-existence and lack",
+      "pointTitleZh": "없어요 — 不存在与没有",
+      "anchor": "ex-e03-e03-2-1",
+      "jp": "책이 없어요"
+    },
+    {
+      "chapterId": "e03",
+      "chapterTitleEn": "있다 / 없다 and the Location Particle 에",
+      "chapterTitleZh": "存在与处所：있다/없다、에",
+      "pointTitleEn": "없어요 — non-existence and lack",
+      "pointTitleZh": "없어요 — 不存在与没有",
+      "anchor": "ex-e03-e03-2-2",
+      "jp": "친구가 없어요"
+    },
+    {
+      "chapterId": "e03",
+      "chapterTitleEn": "있다 / 없다 and the Location Particle 에",
+      "chapterTitleZh": "存在与处所：있다/없다、에",
+      "pointTitleEn": "에 — the static location particle",
+      "pointTitleZh": "에 — 静态处所助词",
+      "anchor": "ex-e03-e03-3-2",
+      "jp": "방에 없어요"
+    },
+    {
+      "chapterId": "e03",
+      "chapterTitleEn": "있다 / 없다 and the Location Particle 에",
+      "chapterTitleZh": "存在与处所：있다/없다、에",
+      "pointTitleEn": "합니다체 — 있습니다 / 없습니다",
+      "pointTitleZh": "합니다체 — 있습니다 / 없습니다",
+      "anchor": "ex-e03-e03-4-1",
+      "jp": "시간이 없습니다"
+    }
+  ],
+  "여기": [
+    {
+      "chapterId": "a04",
+      "chapterTitleEn": "Commands and propositives in context",
+      "chapterTitleZh": "命令与提议的实际运用",
+      "pointTitleEn": "Plain imperative -아/어라 (반말 commands)",
+      "pointTitleZh": "반말命令句 -아/어라",
+      "anchor": "ex-a04-a04-1-0",
+      "jp": "여기 앉아라."
+    },
+    {
+      "chapterId": "a04",
+      "chapterTitleEn": "Commands and propositives in context",
+      "chapterTitleZh": "命令与提议的实际运用",
+      "pointTitleEn": "Honorific imperative -세요 (polite requests)",
+      "pointTitleZh": "尊称命令句 -세요（礼貌请求）",
+      "anchor": "ex-a04-a04-2-1",
+      "jp": "여기 앉으세요."
+    },
+    {
+      "chapterId": "a04",
+      "chapterTitleEn": "Commands and propositives in context",
+      "chapterTitleZh": "命令与提议的实际运用",
+      "pointTitleEn": "Propositive -(으)ㄹ까요? (shall we…?)",
+      "pointTitleZh": "提议句 -(으)ㄹ까요?（我们……好吗？）",
+      "anchor": "ex-a04-a04-3-1",
+      "jp": "여기에서 기다릴까요?"
+    }
+  ],
+  "여름": [
+    {
+      "chapterId": "i07",
+      "chapterTitleEn": "Irregular verbs: ㄷ, ㅂ, 으",
+      "chapterTitleZh": "不规则动词：ㄷ、ㅂ、으",
+      "pointTitleEn": "ㅂ-irregular adjectives: ㅂ → 우 before vowels",
+      "pointTitleZh": "ㅂ 不规则形容词：元音前 ㅂ → 우",
+      "anchor": "ex-i07-i07-2-1",
+      "jp": "여름이 더워요"
+    }
+  ],
+  "여행": [
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Richer conditional sentences",
+      "pointTitleZh": "更丰富的条件句",
+      "anchor": "ex-i01-i01-4-2",
+      "jp": "돈이 있으면 여행을 가요"
+    }
+  ],
+  "영화": [
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Adjective attributive -(으)ㄴ (regular and 있다-type)",
+      "pointTitleZh": "形容词冠形词形 -(으)ㄴ（规则及 있다 型）",
+      "anchor": "ex-a01-a01-2-2",
+      "jp": "재미있는 영화를 봐요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-고: sequential 'and then'",
+      "pointTitleZh": "-고：顺序'然后'",
+      "anchor": "ex-a06-a06-1-1",
+      "jp": "저는 친구를 만나고 영화를 봐요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-아서/-어서: causal and sequential 'and so / and then'",
+      "pointTitleZh": "-아서/-어서：因果与紧接顺序的'因此/然后'",
+      "anchor": "ex-a06-a06-2-1",
+      "jp": "친구를 만나서 영화를 봐요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "Putting it all together: multi-clause chains",
+      "pointTitleZh": "综合：多分句连锁句",
+      "anchor": "ex-a06-a06-4-1",
+      "jp": "시간이 있으면 친구를 만나서 영화를 봐요"
+    },
+    {
+      "chapterId": "e04",
+      "chapterTitleEn": "해요체: the polite present (verbs)",
+      "chapterTitleZh": "해요체：动词的非格式体现在时",
+      "pointTitleEn": "Vowel contraction: 보다 → 봐요, 읽다 → 읽어요",
+      "pointTitleZh": "元音缩合：보다 → 봐요，읽다 → 읽어요",
+      "anchor": "ex-e04-e04-2-0",
+      "jp": "영화를 봐요"
+    },
+    {
+      "chapterId": "e06",
+      "chapterTitleEn": "The object particle 을/를 and SOV order",
+      "chapterTitleZh": "宾格助词 을/를 与 SOV 语序",
+      "pointTitleEn": "Richer SOV sentences with adverbs",
+      "pointTitleZh": "含副词的丰富 SOV 句型",
+      "anchor": "ex-e06-e06-4-0",
+      "jp": "저는 매일 영화를 봐요"
+    },
+    {
+      "chapterId": "e08",
+      "chapterTitleEn": "Past tense: 았/었어요",
+      "chapterTitleZh": "过去时：았/었어요",
+      "pointTitleEn": "Verb past tense — 합니다체 (았/었습니다)",
+      "pointTitleZh": "动词过去时 — 합니다체（았/었습니다）",
+      "anchor": "ex-e08-e08-2-0",
+      "jp": "영화를 봤습니다"
+    },
+    {
+      "chapterId": "e10",
+      "chapterTitleEn": "Adjectives (형용사)",
+      "chapterTitleZh": "形容词",
+      "pointTitleEn": "Attributive -(으)ㄴ — adjective before a noun",
+      "pointTitleZh": "定语形 -(으)ㄴ —— 形容词修饰名词",
+      "anchor": "ex-e10-e10-3-2",
+      "jp": "재미있는 영화"
+    },
+    {
+      "chapterId": "e11",
+      "chapterTitleEn": "and / with / also / only: 와·과·하고, 도, 만",
+      "chapterTitleZh": "并列与助词：와·과·하고、도、만",
+      "pointTitleEn": "와/과/하고 — connecting nouns: \"and / with\"",
+      "pointTitleZh": "와/과/하고 — 名词连接：\"和/跟\"",
+      "anchor": "ex-e11-e11-1-2",
+      "jp": "친구하고 영화를 봐요"
+    },
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-고 with verbs: listing and sequence",
+      "pointTitleZh": "-고 接动词：并列与顺序",
+      "anchor": "ex-e12-e12-1-2",
+      "jp": "친구를 만나고 영화를 봐요"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Richer conditional sentences",
+      "pointTitleZh": "更丰富的条件句",
+      "anchor": "ex-i01-i01-4-0",
+      "jp": "시간이 있으면 같이 영화를 봐요"
+    },
+    {
+      "chapterId": "i02",
+      "chapterTitleEn": "Desire and progressive: -고 싶다, -고 있다",
+      "chapterTitleZh": "愿望与进行：-고 싶다、-고 있다",
+      "pointTitleEn": "-고 싶어요 with subjects, objects, and destinations",
+      "pointTitleZh": "-고 싶어요 与主语、宾语、目的地",
+      "anchor": "ex-i02-i02-2-1",
+      "jp": "저는 영화를 보고 싶어요"
+    },
+    {
+      "chapterId": "i03",
+      "chapterTitleEn": "Ability: -(으)ㄹ 수 있다/없다",
+      "chapterTitleZh": "能力：-(으)ㄹ 수 있다/없다",
+      "pointTitleEn": "Vowel-stem verbs: -ㄹ 수 있어요",
+      "pointTitleZh": "元音词干动词：-ㄹ 수 있어요",
+      "anchor": "ex-i03-i03-1-2",
+      "jp": "저는 영화를 볼 수 있어요"
+    },
+    {
+      "chapterId": "i04",
+      "chapterTitleEn": "Future and intention: -(으)ㄹ 거예요",
+      "chapterTitleZh": "将来与意图：-(으)ㄹ 거예요",
+      "pointTitleEn": "-ㄹ 거예요 with vowel-final stems",
+      "pointTitleZh": "元音结尾词干后接 -ㄹ 거예요",
+      "anchor": "ex-i04-i04-1-2",
+      "jp": "저는 영화를 볼 거예요"
+    },
+    {
+      "chapterId": "i06",
+      "chapterTitleEn": "Suggestions: -(으)ㄹ까요?",
+      "chapterTitleZh": "提议：-(으)ㄹ까요?",
+      "pointTitleEn": "Core pattern: -(으)ㄹ까요? with common verbs",
+      "pointTitleZh": "核心句型：常见动词 + -(으)ㄹ까요?",
+      "anchor": "ex-i06-i06-1-1",
+      "jp": "영화를 볼까요?"
+    },
+    {
+      "chapterId": "i06",
+      "chapterTitleEn": "Suggestions: -(으)ㄹ까요?",
+      "chapterTitleZh": "提议：-(으)ㄹ까요?",
+      "pointTitleEn": "Adding a subject or adverb: 우리, 같이, 내일",
+      "pointTitleZh": "添加主语或副词：우리、같이、내일",
+      "anchor": "ex-i06-i06-3-1",
+      "jp": "우리 같이 영화를 볼까요?"
+    }
+  ],
+  "예쁘다": [
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Irregular adjective attributives (으-irregular and ㅂ-irregular)",
+      "pointTitleZh": "不规则形容词冠形词形（으 不规则、ㅂ 不规则）",
+      "anchor": "ex-a01-a01-3-1",
+      "jp": "예쁜 꽃을 샀어요"
+    },
+    {
+      "chapterId": "a03",
+      "chapterTitleEn": "Contrast: -지만 and -는데",
+      "chapterTitleZh": "转折：-지만 与 -는데",
+      "pointTitleEn": "-지만 with adjectives: direct contrast",
+      "pointTitleZh": "-지만 接形容词：直接转折",
+      "anchor": "ex-a03-a03-1-1",
+      "jp": "작지만 예뻐요"
+    }
+  ],
+  "오늘": [
+    {
+      "chapterId": "e02",
+      "chapterTitleEn": "Topic and subject: 은/는 and 이/가",
+      "chapterTitleZh": "主题与主格：은/는、이/가",
+      "pointTitleEn": "Topic vs Subject — different focus",
+      "pointTitleZh": "话题与主格的语义对比",
+      "anchor": "ex-e02-e02-3-2",
+      "jp": "오늘은 날씨가 좋아요"
+    },
+    {
+      "chapterId": "e09",
+      "chapterTitleEn": "Negation: 안 and -지 않다",
+      "chapterTitleZh": "否定：안 与 -지 않다",
+      "pointTitleEn": "Short negation 안 with an object noun",
+      "pointTitleZh": "短否定 안 与宾语名词",
+      "anchor": "ex-e09-e09-2-2",
+      "jp": "오늘은 공부를 안 해요"
+    },
+    {
+      "chapterId": "e09",
+      "chapterTitleEn": "Negation: 안 and -지 않다",
+      "chapterTitleZh": "否定：안 与 -지 않다",
+      "pointTitleEn": "Negating adjectives with -지 않아요",
+      "pointTitleZh": "用 -지 않아요 否定形容词",
+      "anchor": "ex-e09-e09-4-1",
+      "jp": "오늘은 바쁘지 않아요"
+    },
+    {
+      "chapterId": "i08",
+      "chapterTitleEn": "Comparison: 보다, 처럼, 제일",
+      "chapterTitleZh": "比较：보다、처럼、제일",
+      "pointTitleEn": "보다 — 'than' (comparative particle)",
+      "pointTitleZh": "보다 — 比较助词（比……）",
+      "anchor": "ex-i08-i08-1-2",
+      "jp": "오늘이 어제보다 더 추워요"
+    }
+  ],
+  "오다": [
+    {
+      "chapterId": "a02",
+      "chapterTitleEn": "Reasons: -아서 vs -(으)니까",
+      "chapterTitleZh": "原因：-아서 与 -(으)니까",
+      "pointTitleEn": "-아서/어서 — background cause flowing into a result",
+      "pointTitleZh": "-아서/어서：顺承背景原因",
+      "anchor": "ex-a02-a02-1-0",
+      "jp": "비가 와서 안 가요"
+    },
+    {
+      "chapterId": "a02",
+      "chapterTitleEn": "Reasons: -아서 vs -(으)니까",
+      "chapterTitleZh": "原因：-아서 与 -(으)니까",
+      "pointTitleEn": "-아서/어서 — background cause flowing into a result",
+      "pointTitleZh": "-아서/어서：顺承背景原因",
+      "anchor": "ex-a02-a02-1-2",
+      "jp": "바빠서 못 왔어요"
+    },
+    {
+      "chapterId": "a02",
+      "chapterTitleEn": "Reasons: -아서 vs -(으)니까",
+      "chapterTitleZh": "原因：-아서 与 -(으)니까",
+      "pointTitleEn": "-(으)니까 before imperatives and proposals — where -아서 is blocked",
+      "pointTitleZh": "-(으)니까 接命令句与建议句——-아서 被禁止的场合",
+      "anchor": "ex-a02-a02-3-0",
+      "jp": "바쁘니까 빨리 오세요"
+    },
+    {
+      "chapterId": "a02",
+      "chapterTitleEn": "Reasons: -아서 vs -(으)니까",
+      "chapterTitleZh": "原因：-아서 与 -(으)니까",
+      "pointTitleEn": "Side-by-side contrast and the formal 합니다체 register",
+      "pointTitleZh": "对比总结与正式语体 합니다체",
+      "anchor": "ex-a02-a02-4-0",
+      "jp": "비가 와서 안 갑니다"
+    },
+    {
+      "chapterId": "a03",
+      "chapterTitleEn": "Contrast: -지만 and -는데",
+      "chapterTitleZh": "转折：-지만 与 -는데",
+      "pointTitleEn": "-는데 with verbs: background contrast",
+      "pointTitleZh": "-는데 接动词：背景式转折",
+      "anchor": "ex-a03-a03-3-2",
+      "jp": "지금 먹는데 전화가 왔어요"
+    },
+    {
+      "chapterId": "a04",
+      "chapterTitleEn": "Commands and propositives in context",
+      "chapterTitleZh": "命令与提议的实际运用",
+      "pointTitleEn": "Honorific imperative -세요 (polite requests)",
+      "pointTitleZh": "尊称命令句 -세요（礼貌请求）",
+      "anchor": "ex-a04-a04-2-0",
+      "jp": "빨리 오세요."
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-아서/-어서: causal and sequential 'and so / and then'",
+      "pointTitleZh": "-아서/-어서：因果与紧接顺序的'因此/然后'",
+      "anchor": "ex-a06-a06-2-2",
+      "jp": "저는 집에 와서 밥을 먹어요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "Putting it all together: multi-clause chains",
+      "pointTitleZh": "综合：多分句连锁句",
+      "anchor": "ex-a06-a06-4-0",
+      "jp": "저는 매일 학교에 가서 한국어를 공부하고 집에 와요"
+    },
+    {
+      "chapterId": "e02",
+      "chapterTitleEn": "Topic and subject: 은/는 and 이/가",
+      "chapterTitleZh": "主题与主格：은/는、이/가",
+      "pointTitleEn": "Subject marker 이/가",
+      "pointTitleZh": "主格助词 이/가",
+      "anchor": "ex-e02-e02-2-0",
+      "jp": "친구가 와요"
+    },
+    {
+      "chapterId": "e02",
+      "chapterTitleEn": "Topic and subject: 은/는 and 이/가",
+      "chapterTitleZh": "主题与主格：은/는、이/가",
+      "pointTitleEn": "Topic vs Subject — different focus",
+      "pointTitleZh": "话题与主格的语义对比",
+      "anchor": "ex-e02-e02-3-1",
+      "jp": "제가 왔어요"
+    },
+    {
+      "chapterId": "e02",
+      "chapterTitleEn": "Topic and subject: 은/는 and 이/가",
+      "chapterTitleZh": "主题与主格：은/는、이/가",
+      "pointTitleEn": "Formal polite speech: 합니다체",
+      "pointTitleZh": "正式敬语：합니다체",
+      "anchor": "ex-e02-e02-4-1",
+      "jp": "친구가 옵니다"
+    },
+    {
+      "chapterId": "e05",
+      "chapterTitleEn": "합니다체: the formal style and questions",
+      "chapterTitleZh": "합니다체：格式体与疑问",
+      "pointTitleEn": "The ㅂ니다 vs 습니다 allomorph rule",
+      "pointTitleZh": "ㅂ니다 与 습니다 的变体规则",
+      "anchor": "ex-e05-e05-3-0",
+      "jp": "친구가 옵니다"
+    },
+    {
+      "chapterId": "e07",
+      "chapterTitleEn": "Place particles: 에 vs 에서",
+      "chapterTitleZh": "处所助词：에 与 에서",
+      "pointTitleEn": "에 = destination (direction of movement)",
+      "pointTitleZh": "에 表示目的地（移动方向）",
+      "anchor": "ex-e07-e07-1-1",
+      "jp": "저는 집에 와요"
+    },
+    {
+      "chapterId": "e07",
+      "chapterTitleEn": "Place particles: 에 vs 에서",
+      "chapterTitleZh": "处所助词：에 与 에서",
+      "pointTitleEn": "에서 = from (origin or starting point)",
+      "pointTitleZh": "에서 表示出发地（来源或起点）",
+      "anchor": "ex-e07-e07-4-0",
+      "jp": "학교에서 와요"
+    },
+    {
+      "chapterId": "e07",
+      "chapterTitleEn": "Place particles: 에 vs 에서",
+      "chapterTitleZh": "处所助词：에 与 에서",
+      "pointTitleEn": "에서 = from (origin or starting point)",
+      "pointTitleZh": "에서 表示出发地（来源或起点）",
+      "anchor": "ex-e07-e07-4-1",
+      "jp": "저는 서울에서 왔어요"
+    },
+    {
+      "chapterId": "e07",
+      "chapterTitleEn": "Place particles: 에 vs 에서",
+      "chapterTitleZh": "处所助词：에 与 에서",
+      "pointTitleEn": "에서 = from (origin or starting point)",
+      "pointTitleZh": "에서 表示出发地（来源或起点）",
+      "anchor": "ex-e07-e07-4-2",
+      "jp": "친구가 미국에서 왔어요"
+    },
+    {
+      "chapterId": "e09",
+      "chapterTitleEn": "Negation: 안 and -지 않다",
+      "chapterTitleZh": "否定：안 与 -지 않다",
+      "pointTitleEn": "Short negation: 안 before a verb",
+      "pointTitleZh": "短否定：안 放在动词前",
+      "anchor": "ex-e09-e09-1-2",
+      "jp": "저도 안 와요"
+    },
+    {
+      "chapterId": "e11",
+      "chapterTitleEn": "and / with / also / only: 와·과·하고, 도, 만",
+      "chapterTitleZh": "并列与助词：와·과·하고、도、만",
+      "pointTitleEn": "도 — \"also / too\"",
+      "pointTitleZh": "도 — \"也\"",
+      "anchor": "ex-e11-e11-2-2",
+      "jp": "선생님도 왔어요"
+    },
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-아서/어서 with verbs: reason and close sequence",
+      "pointTitleZh": "-아서/어서 接动词：原因与紧密序列",
+      "anchor": "ex-e12-e12-3-0",
+      "jp": "비가 와서 집에 있어요"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Vowel-stem verbs: attach -면 directly",
+      "pointTitleZh": "元音词干动词：直接接 -면",
+      "anchor": "ex-i01-i01-1-0",
+      "jp": "비가 오면 집에 있어요"
+    },
+    {
+      "chapterId": "i04",
+      "chapterTitleEn": "Future and intention: -(으)ㄹ 거예요",
+      "chapterTitleZh": "将来与意图：-(으)ㄹ 거예요",
+      "pointTitleEn": "-ㄹ 거예요 with vowel-final stems",
+      "pointTitleZh": "元音结尾词干后接 -ㄹ 거예요",
+      "anchor": "ex-i04-i04-1-1",
+      "jp": "친구가 올 거예요"
+    },
+    {
+      "chapterId": "i05",
+      "chapterTitleEn": "Honorific requests: -(으)세요",
+      "chapterTitleZh": "尊敬与请求：-(으)세요",
+      "pointTitleEn": "-(으)세요 as honorific present",
+      "pointTitleZh": "-(으)세요 用作尊敬现在时",
+      "anchor": "ex-i05-i05-3-0",
+      "jp": "선생님이 오세요"
+    }
+  ],
+  "오빠": [
+    {
+      "chapterId": "a05",
+      "chapterTitleEn": "Quotation: -라고 하다 (introduction)",
+      "chapterTitleZh": "引用：-라고 하다（入门）",
+      "pointTitleEn": "Richer inner clauses: object + verb and negative forms",
+      "pointTitleZh": "更丰富的内部小句：带宾语的动词和否定形式",
+      "anchor": "ex-a05-a05-4-0",
+      "jp": "오빠가 \"안 먹었어요\"라고 했어요"
+    }
+  ],
+  "옷": [
+    {
+      "chapterId": "e10",
+      "chapterTitleEn": "Adjectives (형용사)",
+      "chapterTitleZh": "形容词",
+      "pointTitleEn": "Haeyo polite present — ConjugateAdjective<A, \"Haeyo\">",
+      "pointTitleZh": "해요체礼貌现在时 — ConjugateAdjective<A, \"Haeyo\">",
+      "anchor": "ex-e10-e10-2-2",
+      "jp": "이 옷이 비싸요"
+    }
+  ],
+  "우리": [
+    {
+      "chapterId": "a04",
+      "chapterTitleEn": "Commands and propositives in context",
+      "chapterTitleZh": "命令与提议的实际运用",
+      "pointTitleEn": "Propositive -(으)ㄹ까요? (shall we…?)",
+      "pointTitleZh": "提议句 -(으)ㄹ까요?（我们……好吗？）",
+      "anchor": "ex-a04-a04-3-2",
+      "jp": "우리 같이 밥을 먹을까요?"
+    },
+    {
+      "chapterId": "i06",
+      "chapterTitleEn": "Suggestions: -(으)ㄹ까요?",
+      "chapterTitleZh": "提议：-(으)ㄹ까요?",
+      "pointTitleEn": "Adding a subject or adverb: 우리, 같이, 내일",
+      "pointTitleZh": "添加主语或副词：우리、같이、내일",
+      "anchor": "ex-i06-i06-3-0",
+      "jp": "우리 내일 만날까요?"
+    },
+    {
+      "chapterId": "i06",
+      "chapterTitleEn": "Suggestions: -(으)ㄹ까요?",
+      "chapterTitleZh": "提议：-(으)ㄹ까요?",
+      "pointTitleEn": "Adding a subject or adverb: 우리, 같이, 내일",
+      "pointTitleZh": "添加主语或副词：우리、같이、내일",
+      "anchor": "ex-i06-i06-3-1",
+      "jp": "우리 같이 영화를 볼까요?"
+    },
+    {
+      "chapterId": "i06",
+      "chapterTitleEn": "Suggestions: -(으)ㄹ까요?",
+      "chapterTitleZh": "提议：-(으)ㄹ까요?",
+      "pointTitleEn": "Adding a subject or adverb: 우리, 같이, 내일",
+      "pointTitleZh": "添加主语或副词：우리、같이、내일",
+      "anchor": "ex-i06-i06-3-2",
+      "jp": "우리 내일 밥을 먹을까요?"
+    }
+  ],
+  "우유": [
+    {
+      "chapterId": "e11",
+      "chapterTitleEn": "and / with / also / only: 와·과·하고, 도, 만",
+      "chapterTitleZh": "并列与助词：와·과·하고、도、만",
+      "pointTitleEn": "와/과/하고 — connecting nouns: \"and / with\"",
+      "pointTitleZh": "와/과/하고 — 名词连接：\"和/跟\"",
+      "anchor": "ex-e11-e11-1-0",
+      "jp": "빵과 우유를 샀어요"
+    },
+    {
+      "chapterId": "e11",
+      "chapterTitleEn": "and / with / also / only: 와·과·하고, 도, 만",
+      "chapterTitleZh": "并列与助词：와·과·하고、도、만",
+      "pointTitleEn": "도 — \"also / too\"",
+      "pointTitleZh": "도 — \"也\"",
+      "anchor": "ex-e11-e11-2-1",
+      "jp": "우유도 있어요"
+    }
+  ],
+  "운전": [
+    {
+      "chapterId": "i03",
+      "chapterTitleEn": "Ability: -(으)ㄹ 수 있다/없다",
+      "chapterTitleZh": "能力：-(으)ㄹ 수 있다/없다",
+      "pointTitleEn": "Formal speech: -ㄹ/을 수 있습니다 / 없습니다",
+      "pointTitleZh": "正式体：-ㄹ/을 수 있습니다 / 없습니다",
+      "anchor": "ex-i03-i03-4-1",
+      "jp": "운전을 할 수 없습니다"
+    }
+  ],
+  "음식": [
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Adjective attributive -(으)ㄴ (regular and 있다-type)",
+      "pointTitleZh": "形容词冠形词形 -(으)ㄴ（规则及 있다 型）",
+      "anchor": "ex-a01-a01-2-1",
+      "jp": "맛있는 음식을 먹어요"
+    },
+    {
+      "chapterId": "e10",
+      "chapterTitleEn": "Adjectives (형용사)",
+      "chapterTitleZh": "形容词",
+      "pointTitleEn": "Plain present = dictionary form",
+      "pointTitleZh": "基本现在时 = 词典形",
+      "anchor": "ex-e10-e10-1-1",
+      "jp": "음식이 많다"
+    },
+    {
+      "chapterId": "e10",
+      "chapterTitleEn": "Adjectives (형용사)",
+      "chapterTitleZh": "形容词",
+      "pointTitleEn": "Haeyo polite present — ConjugateAdjective<A, \"Haeyo\">",
+      "pointTitleZh": "해요체礼貌现在时 — ConjugateAdjective<A, \"Haeyo\">",
+      "anchor": "ex-e10-e10-2-1",
+      "jp": "음식이 맛있어요"
+    },
+    {
+      "chapterId": "e10",
+      "chapterTitleEn": "Adjectives (형용사)",
+      "chapterTitleZh": "形容词",
+      "pointTitleEn": "Attributive -(으)ㄴ — adjective before a noun",
+      "pointTitleZh": "定语形 -(으)ㄴ —— 形容词修饰名词",
+      "anchor": "ex-e10-e10-3-1",
+      "jp": "맛있는 음식"
+    },
+    {
+      "chapterId": "i08",
+      "chapterTitleEn": "Comparison: 보다, 처럼, 제일",
+      "chapterTitleZh": "比较：보다、처럼、제일",
+      "pointTitleEn": "제일 / 가장 — superlative adverbs ('the most')",
+      "pointTitleZh": "제일 / 가장 — 最高级副词（最……）",
+      "anchor": "ex-i08-i08-3-1",
+      "jp": "한국 음식이 제일 맛있어요"
+    }
+  ],
+  "음악": [
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Noun-modifying clauses in full sentences",
+      "pointTitleZh": "在完整句子中使用定语从句",
+      "anchor": "ex-a01-a01-4-1",
+      "jp": "좋아하는 음악을 들어요"
+    },
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-고 with verbs: listing and sequence",
+      "pointTitleZh": "-고 接动词：并列与顺序",
+      "anchor": "ex-e12-e12-1-1",
+      "jp": "음악을 듣고 공부해요"
+    },
+    {
+      "chapterId": "i03",
+      "chapterTitleEn": "Ability: -(으)ㄹ 수 있다/없다",
+      "chapterTitleZh": "能力：-(으)ㄹ 수 있다/없다",
+      "pointTitleEn": "Consonant-stem verbs: -을 수 있어요",
+      "pointTitleZh": "辅音词干动词：-을 수 있어요",
+      "anchor": "ex-i03-i03-2-2",
+      "jp": "음악을 들을 수 있어요"
+    },
+    {
+      "chapterId": "i06",
+      "chapterTitleEn": "Suggestions: -(으)ㄹ까요?",
+      "chapterTitleZh": "提议：-(으)ㄹ까요?",
+      "pointTitleEn": "받침 allomorphs: -ㄹ까요 vs -을까요",
+      "pointTitleZh": "받침 变体：-ㄹ까요 与 -을까요",
+      "anchor": "ex-i06-i06-2-2",
+      "jp": "음악을 들을까요?"
+    },
+    {
+      "chapterId": "i07",
+      "chapterTitleEn": "Irregular verbs: ㄷ, ㅂ, 으",
+      "chapterTitleZh": "不规则动词：ㄷ、ㅂ、으",
+      "pointTitleEn": "ㄷ-irregular verbs: ㄷ → ㄹ before vowels",
+      "pointTitleZh": "ㄷ 不规则动词：元音前 ㄷ → ㄹ",
+      "anchor": "ex-i07-i07-1-0",
+      "jp": "음악을 들어요"
+    },
+    {
+      "chapterId": "i07",
+      "chapterTitleEn": "Irregular verbs: ㄷ, ㅂ, 으",
+      "chapterTitleZh": "不规则动词：ㄷ、ㅂ、으",
+      "pointTitleEn": "ㄷ-irregular verbs: ㄷ → ㄹ before vowels",
+      "pointTitleZh": "ㄷ 不规则动词：元音前 ㄷ → ㄹ",
+      "anchor": "ex-i07-i07-1-1",
+      "jp": "음악을 들었어요"
+    },
+    {
+      "chapterId": "i07",
+      "chapterTitleEn": "Irregular verbs: ㄷ, ㅂ, 으",
+      "chapterTitleZh": "不规则动词：ㄷ、ㅂ、으",
+      "pointTitleEn": "Irregular stems in longer sentences",
+      "pointTitleZh": "不规则词干在更长句子中的应用",
+      "anchor": "ex-i07-i07-4-0",
+      "jp": "음악을 들으면 기분이 좋아요"
+    }
+  ],
+  "의자": [
+    {
+      "chapterId": "e01",
+      "chapterTitleEn": "Noun sentences: the copula 이다",
+      "chapterTitleZh": "名词谓语句：이다",
+      "pointTitleEn": "해요체 copula after a vowel-final noun: 예요",
+      "pointTitleZh": "해요체系动词接无收音名词：예요",
+      "anchor": "ex-e01-e01-3-0",
+      "jp": "이것은 의자예요"
+    },
+    {
+      "chapterId": "e01",
+      "chapterTitleEn": "Noun sentences: the copula 이다",
+      "chapterTitleZh": "名词谓语句：이다",
+      "pointTitleEn": "합니다체: the formal copula 입니다",
+      "pointTitleZh": "합니다체：正式系动词 입니다",
+      "anchor": "ex-e01-e01-4-2",
+      "jp": "이것은 의자입니다"
+    }
+  ],
+  "이": [
+    {
+      "chapterId": "e10",
+      "chapterTitleEn": "Adjectives (형용사)",
+      "chapterTitleZh": "形容词",
+      "pointTitleEn": "Haeyo polite present — ConjugateAdjective<A, \"Haeyo\">",
+      "pointTitleZh": "해요체礼貌现在时 — ConjugateAdjective<A, \"Haeyo\">",
+      "anchor": "ex-e10-e10-2-2",
+      "jp": "이 옷이 비싸요"
+    }
+  ],
+  "이것": [
+    {
+      "chapterId": "e01",
+      "chapterTitleEn": "Noun sentences: the copula 이다",
+      "chapterTitleZh": "名词谓语句：이다",
+      "pointTitleEn": "The topic particle 은/는",
+      "pointTitleZh": "主题助词 은/는",
+      "anchor": "ex-e01-e01-1-1",
+      "jp": "이것은 책이에요"
+    },
+    {
+      "chapterId": "e01",
+      "chapterTitleEn": "Noun sentences: the copula 이다",
+      "chapterTitleZh": "名词谓语句：이다",
+      "pointTitleEn": "해요체 copula after a consonant-final noun: 이에요",
+      "pointTitleZh": "해요체系动词接有收音名词：이에요",
+      "anchor": "ex-e01-e01-2-2",
+      "jp": "이것은 책이에요"
+    },
+    {
+      "chapterId": "e01",
+      "chapterTitleEn": "Noun sentences: the copula 이다",
+      "chapterTitleZh": "名词谓语句：이다",
+      "pointTitleEn": "해요체 copula after a vowel-final noun: 예요",
+      "pointTitleZh": "해요체系动词接无收音名词：예요",
+      "anchor": "ex-e01-e01-3-0",
+      "jp": "이것은 의자예요"
+    },
+    {
+      "chapterId": "e01",
+      "chapterTitleEn": "Noun sentences: the copula 이다",
+      "chapterTitleZh": "名词谓语句：이다",
+      "pointTitleEn": "해요체 copula after a vowel-final noun: 예요",
+      "pointTitleZh": "해요체系动词接无收音名词：예요",
+      "anchor": "ex-e01-e01-3-2",
+      "jp": "이것은 커피예요"
+    },
+    {
+      "chapterId": "e01",
+      "chapterTitleEn": "Noun sentences: the copula 이다",
+      "chapterTitleZh": "名词谓语句：이다",
+      "pointTitleEn": "합니다체: the formal copula 입니다",
+      "pointTitleZh": "합니다체：正式系动词 입니다",
+      "anchor": "ex-e01-e01-4-2",
+      "jp": "이것은 의자입니다"
+    },
+    {
+      "chapterId": "e02",
+      "chapterTitleEn": "Topic and subject: 은/는 and 이/가",
+      "chapterTitleZh": "主题与主格：은/는、이/가",
+      "pointTitleEn": "Topic marker 은/는",
+      "pointTitleZh": "主题助词 은/는",
+      "anchor": "ex-e02-e02-1-1",
+      "jp": "이것은 책이에요"
+    }
+  ],
+  "일하다": [
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-아서/어서 with adjectives: giving a reason",
+      "pointTitleZh": "-아서/어서 接形容词：表示原因",
+      "anchor": "ex-e12-e12-4-2",
+      "jp": "바빠서 일해요"
+    },
+    {
+      "chapterId": "i02",
+      "chapterTitleEn": "Desire and progressive: -고 싶다, -고 있다",
+      "chapterTitleZh": "愿望与进行：-고 싶다、-고 있다",
+      "pointTitleEn": "Expressing an ongoing action: -고 있어요",
+      "pointTitleZh": "表达正在进行的动作：-고 있어요",
+      "anchor": "ex-i02-i02-3-2",
+      "jp": "지금 일하고 있어요"
+    },
+    {
+      "chapterId": "i04",
+      "chapterTitleEn": "Future and intention: -(으)ㄹ 거예요",
+      "chapterTitleZh": "将来与意图：-(으)ㄹ 거예요",
+      "pointTitleEn": "하다 verbs in -(으)ㄹ 거예요",
+      "pointTitleZh": "하다 动词的将来形 -(으)ㄹ 거예요",
+      "anchor": "ex-i04-i04-3-2",
+      "jp": "내일 일할 거예요"
+    },
+    {
+      "chapterId": "i05",
+      "chapterTitleEn": "Honorific requests: -(으)세요",
+      "chapterTitleZh": "尊敬与请求：-(으)세요",
+      "pointTitleEn": "-(으)세요 as honorific present",
+      "pointTitleZh": "-(으)세요 用作尊敬现在时",
+      "anchor": "ex-i05-i05-3-2",
+      "jp": "아버지가 일하세요"
+    }
+  ],
+  "읽다": [
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Verb attributive -는 (present action)",
+      "pointTitleZh": "动词冠形词形 -는（现在进行/习惯动作）",
+      "anchor": "ex-a01-a01-1-0",
+      "jp": "책을 읽는 사람이에요"
+    },
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Adjective attributive -(으)ㄴ (regular and 있다-type)",
+      "pointTitleZh": "形容词冠形词形 -(으)ㄴ（规则及 있다 型）",
+      "anchor": "ex-a01-a01-2-0",
+      "jp": "좋은 책을 읽어요"
+    },
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Noun-modifying clauses in full sentences",
+      "pointTitleZh": "在完整句子中使用定语从句",
+      "anchor": "ex-a01-a01-4-0",
+      "jp": "책을 읽는 사람은 많아요"
+    },
+    {
+      "chapterId": "a04",
+      "chapterTitleEn": "Commands and propositives in context",
+      "chapterTitleZh": "命令与提议的实际运用",
+      "pointTitleEn": "Plain imperative -아/어라 (반말 commands)",
+      "pointTitleZh": "반말命令句 -아/어라",
+      "anchor": "ex-a04-a04-1-2",
+      "jp": "책을 읽어라."
+    },
+    {
+      "chapterId": "e02",
+      "chapterTitleEn": "Topic and subject: 은/는 and 이/가",
+      "chapterTitleZh": "主题与主格：은/는、이/가",
+      "pointTitleEn": "Subject marker 이/가",
+      "pointTitleZh": "主格助词 이/가",
+      "anchor": "ex-e02-e02-2-1",
+      "jp": "학생이 책을 읽어요"
+    },
+    {
+      "chapterId": "e04",
+      "chapterTitleEn": "해요체: the polite present (verbs)",
+      "chapterTitleZh": "해요체：动词的非格式体现在时",
+      "pointTitleEn": "Vowel contraction: 보다 → 봐요, 읽다 → 읽어요",
+      "pointTitleZh": "元音缩合：보다 → 봐요，읽다 → 읽어요",
+      "anchor": "ex-e04-e04-2-1",
+      "jp": "저는 책을 읽어요"
+    },
+    {
+      "chapterId": "e05",
+      "chapterTitleEn": "합니다체: the formal style and questions",
+      "chapterTitleZh": "합니다체：格式体与疑问",
+      "pointTitleEn": "Declarative: Verb + 합니다 / 습니다",
+      "pointTitleZh": "陈述句：动词 + 합니다 / 습니다",
+      "anchor": "ex-e05-e05-1-1",
+      "jp": "책을 읽습니다"
+    },
+    {
+      "chapterId": "e06",
+      "chapterTitleEn": "The object particle 을/를 and SOV order",
+      "chapterTitleZh": "宾格助词 을/를 与 SOV 语序",
+      "pointTitleEn": "을 after consonant-final nouns",
+      "pointTitleZh": "받침结尾的名词后接 을",
+      "anchor": "ex-e06-e06-1-1",
+      "jp": "저는 책을 읽어요"
+    },
+    {
+      "chapterId": "e06",
+      "chapterTitleEn": "The object particle 을/를 and SOV order",
+      "chapterTitleZh": "宾格助词 을/를 与 SOV 语序",
+      "pointTitleEn": "Object particle in 합니다체 (formal style)",
+      "pointTitleZh": "합니다체（正式体）中的宾格助词",
+      "anchor": "ex-e06-e06-3-1",
+      "jp": "책을 읽습니다"
+    },
+    {
+      "chapterId": "e11",
+      "chapterTitleEn": "and / with / also / only: 와·과·하고, 도, 만",
+      "chapterTitleZh": "并列与助词：와·과·하고、도、만",
+      "pointTitleEn": "만 — \"only\"",
+      "pointTitleZh": "만 — \"只/仅\"",
+      "anchor": "ex-e11-e11-3-1",
+      "jp": "책만 읽어요"
+    },
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-아서/어서 with verbs: reason and close sequence",
+      "pointTitleZh": "-아서/어서 接动词：原因与紧密序列",
+      "anchor": "ex-e12-e12-3-1",
+      "jp": "책을 사서 읽어요"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Consonant-stem verbs: attach -으면",
+      "pointTitleZh": "辅音词干动词：接 -으면",
+      "anchor": "ex-i01-i01-2-2",
+      "jp": "책을 읽으면 좋아요"
+    },
+    {
+      "chapterId": "i02",
+      "chapterTitleEn": "Desire and progressive: -고 싶다, -고 있다",
+      "chapterTitleZh": "愿望与进行：-고 싶다、-고 있다",
+      "pointTitleEn": "Expressing an ongoing action: -고 있어요",
+      "pointTitleZh": "表达正在进行的动作：-고 있어요",
+      "anchor": "ex-i02-i02-3-0",
+      "jp": "책을 읽고 있어요"
+    },
+    {
+      "chapterId": "i03",
+      "chapterTitleEn": "Ability: -(으)ㄹ 수 있다/없다",
+      "chapterTitleZh": "能力：-(으)ㄹ 수 있다/없다",
+      "pointTitleEn": "Consonant-stem verbs: -을 수 있어요",
+      "pointTitleZh": "辅音词干动词：-을 수 있어요",
+      "anchor": "ex-i03-i03-2-1",
+      "jp": "책을 읽을 수 있어요"
+    },
+    {
+      "chapterId": "i04",
+      "chapterTitleEn": "Future and intention: -(으)ㄹ 거예요",
+      "chapterTitleZh": "将来与意图：-(으)ㄹ 거예요",
+      "pointTitleEn": "-을 거예요 with consonant-final stems (받침)",
+      "pointTitleZh": "辅音结尾词干（받침）后接 -을 거예요",
+      "anchor": "ex-i04-i04-2-0",
+      "jp": "책을 읽을 거예요"
+    },
+    {
+      "chapterId": "i05",
+      "chapterTitleEn": "Honorific requests: -(으)세요",
+      "chapterTitleZh": "尊敬与请求：-(으)세요",
+      "pointTitleEn": "The -(으)세요 allomorph rule",
+      "pointTitleZh": "-(으)세요 的语音变化规则",
+      "anchor": "ex-i05-i05-1-1",
+      "jp": "책을 읽으세요"
+    },
+    {
+      "chapterId": "i05",
+      "chapterTitleEn": "Honorific requests: -(으)세요",
+      "chapterTitleZh": "尊敬与请求：-(으)세요",
+      "pointTitleEn": "-(으)세요 as honorific present",
+      "pointTitleZh": "-(으)세요 用作尊敬现在时",
+      "anchor": "ex-i05-i05-3-1",
+      "jp": "어머니가 책을 읽으세요"
+    }
+  ],
+  "있다": [
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Verb attributive -는 (present action)",
+      "pointTitleZh": "动词冠形词形 -는（现在进行/习惯动作）",
+      "anchor": "ex-a01-a01-1-2",
+      "jp": "한국어를 배우는 친구가 있어요"
+    },
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Irregular adjective attributives (으-irregular and ㅂ-irregular)",
+      "pointTitleZh": "不规则形容词冠形词形（으 不规则、ㅂ 不规则）",
+      "anchor": "ex-a01-a01-3-0",
+      "jp": "큰 집에 있어요"
+    },
+    {
+      "chapterId": "a02",
+      "chapterTitleEn": "Reasons: -아서 vs -(으)니까",
+      "chapterTitleZh": "原因：-아서 与 -(으)니까",
+      "pointTitleEn": "-(으)니까 — assertive explanation and 받침 allomorphs",
+      "pointTitleZh": "-(으)니까：断言性解释与收音异形体",
+      "anchor": "ex-a02-a02-2-1",
+      "jp": "비가 오니까 집에 있어요"
+    },
+    {
+      "chapterId": "a03",
+      "chapterTitleEn": "Contrast: -지만 and -는데",
+      "chapterTitleZh": "转折：-지만 与 -는데",
+      "pointTitleEn": "-ㄴ데/은데 with adjectives: the allomorph rule",
+      "pointTitleZh": "-ㄴ데/은데 接形容词：异形词规则",
+      "anchor": "ex-a03-a03-4-2",
+      "jp": "날씨가 좋은데 집에 있어요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-(으)면: the conditional 'if'",
+      "pointTitleZh": "-(으)면：条件'如果'",
+      "anchor": "ex-a06-a06-3-0",
+      "jp": "시간이 있으면 공부해요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-(으)면: the conditional 'if'",
+      "pointTitleZh": "-(으)면：条件'如果'",
+      "anchor": "ex-a06-a06-3-1",
+      "jp": "시간이 있으면 친구를 만나요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "Putting it all together: multi-clause chains",
+      "pointTitleZh": "综合：多分句连锁句",
+      "anchor": "ex-a06-a06-4-1",
+      "jp": "시간이 있으면 친구를 만나서 영화를 봐요"
+    },
+    {
+      "chapterId": "e03",
+      "chapterTitleEn": "있다 / 없다 and the Location Particle 에",
+      "chapterTitleZh": "存在与处所：있다/없다、에",
+      "pointTitleEn": "있어요 — existence and possession",
+      "pointTitleZh": "있어요 — 存在与拥有",
+      "anchor": "ex-e03-e03-1-0",
+      "jp": "책이 있어요"
+    },
+    {
+      "chapterId": "e03",
+      "chapterTitleEn": "있다 / 없다 and the Location Particle 에",
+      "chapterTitleZh": "存在与处所：있다/없다、에",
+      "pointTitleEn": "있어요 — existence and possession",
+      "pointTitleZh": "있어요 — 存在与拥有",
+      "anchor": "ex-e03-e03-1-1",
+      "jp": "친구가 있어요"
+    },
+    {
+      "chapterId": "e03",
+      "chapterTitleEn": "있다 / 없다 and the Location Particle 에",
+      "chapterTitleZh": "存在与处所：있다/없다、에",
+      "pointTitleEn": "있어요 — existence and possession",
+      "pointTitleZh": "있어요 — 存在与拥有",
+      "anchor": "ex-e03-e03-1-2",
+      "jp": "시간이 있어요"
+    },
+    {
+      "chapterId": "e03",
+      "chapterTitleEn": "있다 / 없다 and the Location Particle 에",
+      "chapterTitleZh": "存在与处所：있다/없다、에",
+      "pointTitleEn": "에 — the static location particle",
+      "pointTitleZh": "에 — 静态处所助词",
+      "anchor": "ex-e03-e03-3-0",
+      "jp": "집에 있어요"
+    },
+    {
+      "chapterId": "e03",
+      "chapterTitleEn": "있다 / 없다 and the Location Particle 에",
+      "chapterTitleZh": "存在与处所：있다/없다、에",
+      "pointTitleEn": "에 — the static location particle",
+      "pointTitleZh": "에 — 静态处所助词",
+      "anchor": "ex-e03-e03-3-1",
+      "jp": "저는 집에 있어요"
+    },
+    {
+      "chapterId": "e03",
+      "chapterTitleEn": "있다 / 없다 and the Location Particle 에",
+      "chapterTitleZh": "存在与处所：있다/없다、에",
+      "pointTitleEn": "합니다체 — 있습니다 / 없습니다",
+      "pointTitleZh": "합니다체 — 있습니다 / 없습니다",
+      "anchor": "ex-e03-e03-4-0",
+      "jp": "책이 있습니다"
+    },
+    {
+      "chapterId": "e03",
+      "chapterTitleEn": "있다 / 없다 and the Location Particle 에",
+      "chapterTitleZh": "存在与处所：있다/없다、에",
+      "pointTitleEn": "합니다체 — 있습니다 / 없습니다",
+      "pointTitleZh": "합니다체 — 있습니다 / 없습니다",
+      "anchor": "ex-e03-e03-4-2",
+      "jp": "저는 학교에 있습니다"
+    },
+    {
+      "chapterId": "e07",
+      "chapterTitleEn": "Place particles: 에 vs 에서",
+      "chapterTitleZh": "处所助词：에 与 에서",
+      "pointTitleEn": "에 = static location (where something exists)",
+      "pointTitleZh": "에 表示静态位置（某物存在的地方）",
+      "anchor": "ex-e07-e07-2-0",
+      "jp": "친구가 집에 있어요"
+    },
+    {
+      "chapterId": "e07",
+      "chapterTitleEn": "Place particles: 에 vs 에서",
+      "chapterTitleZh": "处所助词：에 与 에서",
+      "pointTitleEn": "에 = static location (where something exists)",
+      "pointTitleZh": "에 表示静态位置（某物存在的地方）",
+      "anchor": "ex-e07-e07-2-1",
+      "jp": "책이 방에 있어요"
+    },
+    {
+      "chapterId": "e07",
+      "chapterTitleEn": "Place particles: 에 vs 에서",
+      "chapterTitleZh": "处所助词：에 与 에서",
+      "pointTitleEn": "에 = static location (where something exists)",
+      "pointTitleZh": "에 表示静态位置（某物存在的地方）",
+      "anchor": "ex-e07-e07-2-2",
+      "jp": "선생님이 학교에 있습니다"
+    },
+    {
+      "chapterId": "e11",
+      "chapterTitleEn": "and / with / also / only: 와·과·하고, 도, 만",
+      "chapterTitleZh": "并列与助词：와·과·하고、도、만",
+      "pointTitleEn": "도 — \"also / too\"",
+      "pointTitleZh": "도 — \"也\"",
+      "anchor": "ex-e11-e11-2-1",
+      "jp": "우유도 있어요"
+    },
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-아서/어서 with verbs: reason and close sequence",
+      "pointTitleZh": "-아서/어서 接动词：原因与紧密序列",
+      "anchor": "ex-e12-e12-3-0",
+      "jp": "비가 와서 집에 있어요"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Vowel-stem verbs: attach -면 directly",
+      "pointTitleZh": "元音词干动词：直接接 -면",
+      "anchor": "ex-i01-i01-1-0",
+      "jp": "비가 오면 집에 있어요"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Consonant-stem verbs: attach -으면",
+      "pointTitleZh": "辅音词干动词：接 -으면",
+      "anchor": "ex-i01-i01-2-0",
+      "jp": "시간이 있으면 가요"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Adjective conditionals",
+      "pointTitleZh": "形容词条件句",
+      "anchor": "ex-i01-i01-3-1",
+      "jp": "날씨가 추우면 집에 있어요"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Richer conditional sentences",
+      "pointTitleZh": "更丰富的条件句",
+      "anchor": "ex-i01-i01-4-0",
+      "jp": "시간이 있으면 같이 영화를 봐요"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Richer conditional sentences",
+      "pointTitleZh": "更丰富的条件句",
+      "anchor": "ex-i01-i01-4-2",
+      "jp": "돈이 있으면 여행을 가요"
+    }
+  ],
+  "자다": [
+    {
+      "chapterId": "e07",
+      "chapterTitleEn": "Place particles: 에 vs 에서",
+      "chapterTitleZh": "处所助词：에 与 에서",
+      "pointTitleEn": "에서 = location of an action",
+      "pointTitleZh": "에서 表示动作发生的地点",
+      "anchor": "ex-e07-e07-3-1",
+      "jp": "집에서 자요"
+    },
+    {
+      "chapterId": "i02",
+      "chapterTitleEn": "Desire and progressive: -고 싶다, -고 있다",
+      "chapterTitleZh": "愿望与进行：-고 싶다、-고 있다",
+      "pointTitleEn": "Wanting to do something: -고 싶어요",
+      "pointTitleZh": "想做某事：-고 싶어요",
+      "anchor": "ex-i02-i02-1-2",
+      "jp": "자고 싶어요"
+    },
+    {
+      "chapterId": "i05",
+      "chapterTitleEn": "Honorific requests: -(으)세요",
+      "chapterTitleZh": "尊敬与请求：-(으)세요",
+      "pointTitleEn": "Set phrases and 합니다체 comparison",
+      "pointTitleZh": "固定表达与합니다체对比",
+      "anchor": "ex-i05-i05-4-1",
+      "jp": "잘 자세요"
+    }
+  ],
+  "잠깐": [
+    {
+      "chapterId": "a04",
+      "chapterTitleEn": "Commands and propositives in context",
+      "chapterTitleZh": "命令与提议的实际运用",
+      "pointTitleEn": "Honorific imperative -세요 (polite requests)",
+      "pointTitleZh": "尊称命令句 -세요（礼貌请求）",
+      "anchor": "ex-a04-a04-2-2",
+      "jp": "잠깐 기다리세요."
+    }
+  ],
+  "재미있다": [
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Adjective attributive -(으)ㄴ (regular and 있다-type)",
+      "pointTitleZh": "形容词冠形词形 -(으)ㄴ（规则及 있다 型）",
+      "anchor": "ex-a01-a01-2-2",
+      "jp": "재미있는 영화를 봐요"
+    },
+    {
+      "chapterId": "a03",
+      "chapterTitleEn": "Contrast: -지만 and -는데",
+      "chapterTitleZh": "转折：-지만 与 -는데",
+      "pointTitleEn": "-지만 with adjectives: direct contrast",
+      "pointTitleZh": "-지만 接形容词：直接转折",
+      "anchor": "ex-a03-a03-1-2",
+      "jp": "어렵지만 재미있어요"
+    },
+    {
+      "chapterId": "e10",
+      "chapterTitleEn": "Adjectives (형용사)",
+      "chapterTitleZh": "形容词",
+      "pointTitleEn": "Attributive -(으)ㄴ — adjective before a noun",
+      "pointTitleZh": "定语形 -(으)ㄴ —— 形容词修饰名词",
+      "anchor": "ex-e10-e10-3-2",
+      "jp": "재미있는 영화"
+    }
+  ],
+  "저": [
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-고: sequential 'and then'",
+      "pointTitleZh": "-고：顺序'然后'",
+      "anchor": "ex-a06-a06-1-0",
+      "jp": "저는 밥을 먹고 학교에 가요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-고: sequential 'and then'",
+      "pointTitleZh": "-고：顺序'然后'",
+      "anchor": "ex-a06-a06-1-1",
+      "jp": "저는 친구를 만나고 영화를 봐요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-고: sequential 'and then'",
+      "pointTitleZh": "-고：顺序'然后'",
+      "anchor": "ex-a06-a06-1-2",
+      "jp": "저는 한국어를 공부하고 집에 가요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-아서/-어서: causal and sequential 'and so / and then'",
+      "pointTitleZh": "-아서/-어서：因果与紧接顺序的'因此/然后'",
+      "anchor": "ex-a06-a06-2-0",
+      "jp": "저는 매일 학교에 가서 한국어를 공부해요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-아서/-어서: causal and sequential 'and so / and then'",
+      "pointTitleZh": "-아서/-어서：因果与紧接顺序的'因此/然后'",
+      "anchor": "ex-a06-a06-2-2",
+      "jp": "저는 집에 와서 밥을 먹어요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "Putting it all together: multi-clause chains",
+      "pointTitleZh": "综合：多分句连锁句",
+      "anchor": "ex-a06-a06-4-0",
+      "jp": "저는 매일 학교에 가서 한국어를 공부하고 집에 와요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "Putting it all together: multi-clause chains",
+      "pointTitleZh": "综合：多分句连锁句",
+      "anchor": "ex-a06-a06-4-2",
+      "jp": "저는 매일 밥을 먹고 학교에 가서 한국어를 배워요"
+    },
+    {
+      "chapterId": "e01",
+      "chapterTitleEn": "Noun sentences: the copula 이다",
+      "chapterTitleZh": "名词谓语句：이다",
+      "pointTitleEn": "The topic particle 은/는",
+      "pointTitleZh": "主题助词 은/는",
+      "anchor": "ex-e01-e01-1-0",
+      "jp": "저는 학생이에요"
+    },
+    {
+      "chapterId": "e01",
+      "chapterTitleEn": "Noun sentences: the copula 이다",
+      "chapterTitleZh": "名词谓语句：이다",
+      "pointTitleEn": "해요체 copula after a consonant-final noun: 이에요",
+      "pointTitleZh": "해요체系动词接有收音名词：이에요",
+      "anchor": "ex-e01-e01-2-0",
+      "jp": "저는 학생이에요"
+    },
+    {
+      "chapterId": "e01",
+      "chapterTitleEn": "Noun sentences: the copula 이다",
+      "chapterTitleZh": "名词谓语句：이다",
+      "pointTitleEn": "해요체 copula after a consonant-final noun: 이에요",
+      "pointTitleZh": "해요체系动词接有收音名词：이에요",
+      "anchor": "ex-e01-e01-2-1",
+      "jp": "저는 선생님이에요"
+    },
+    {
+      "chapterId": "e01",
+      "chapterTitleEn": "Noun sentences: the copula 이다",
+      "chapterTitleZh": "名词谓语句：이다",
+      "pointTitleEn": "합니다체: the formal copula 입니다",
+      "pointTitleZh": "합니다체：正式系动词 입니다",
+      "anchor": "ex-e01-e01-4-0",
+      "jp": "저는 학생입니다"
+    },
+    {
+      "chapterId": "e02",
+      "chapterTitleEn": "Topic and subject: 은/는 and 이/가",
+      "chapterTitleZh": "主题与主格：은/는、이/가",
+      "pointTitleEn": "Topic marker 은/는",
+      "pointTitleZh": "主题助词 은/는",
+      "anchor": "ex-e02-e02-1-0",
+      "jp": "저는 학생이에요"
+    },
+    {
+      "chapterId": "e02",
+      "chapterTitleEn": "Topic and subject: 은/는 and 이/가",
+      "chapterTitleZh": "主题与主格：은/는、이/가",
+      "pointTitleEn": "Topic vs Subject — different focus",
+      "pointTitleZh": "话题与主格的语义对比",
+      "anchor": "ex-e02-e02-3-0",
+      "jp": "저는 한국 사람이에요"
+    },
+    {
+      "chapterId": "e02",
+      "chapterTitleEn": "Topic and subject: 은/는 and 이/가",
+      "chapterTitleZh": "主题与主格：은/는、이/가",
+      "pointTitleEn": "Formal polite speech: 합니다체",
+      "pointTitleZh": "正式敬语：합니다체",
+      "anchor": "ex-e02-e02-4-0",
+      "jp": "저는 학생입니다"
+    },
+    {
+      "chapterId": "e03",
+      "chapterTitleEn": "있다 / 없다 and the Location Particle 에",
+      "chapterTitleZh": "存在与处所：있다/없다、에",
+      "pointTitleEn": "에 — the static location particle",
+      "pointTitleZh": "에 — 静态处所助词",
+      "anchor": "ex-e03-e03-3-1",
+      "jp": "저는 집에 있어요"
+    },
+    {
+      "chapterId": "e03",
+      "chapterTitleEn": "있다 / 없다 and the Location Particle 에",
+      "chapterTitleZh": "存在与处所：있다/없다、에",
+      "pointTitleEn": "합니다체 — 있습니다 / 없습니다",
+      "pointTitleZh": "합니다체 — 있습니다 / 없습니다",
+      "anchor": "ex-e03-e03-4-2",
+      "jp": "저는 학교에 있습니다"
+    },
+    {
+      "chapterId": "e04",
+      "chapterTitleEn": "해요체: the polite present (verbs)",
+      "chapterTitleZh": "해요체：动词的非格式体现在时",
+      "pointTitleEn": "The 해요체 rule: inf + 요",
+      "pointTitleZh": "해요체 规则：连用形 + 요",
+      "anchor": "ex-e04-e04-1-0",
+      "jp": "저는 가요"
+    },
+    {
+      "chapterId": "e04",
+      "chapterTitleEn": "해요체: the polite present (verbs)",
+      "chapterTitleZh": "해요체：动词的非格式体现在时",
+      "pointTitleEn": "The 해요체 rule: inf + 요",
+      "pointTitleZh": "해요체 规则：连用形 + 요",
+      "anchor": "ex-e04-e04-1-1",
+      "jp": "저는 밥을 먹어요"
+    },
+    {
+      "chapterId": "e04",
+      "chapterTitleEn": "해요체: the polite present (verbs)",
+      "chapterTitleZh": "해요체：动词的非格式体现在时",
+      "pointTitleEn": "The 해요체 rule: inf + 요",
+      "pointTitleZh": "해요체 规则：连用形 + 요",
+      "anchor": "ex-e04-e04-1-2",
+      "jp": "저는 커피를 마셔요"
+    },
+    {
+      "chapterId": "e04",
+      "chapterTitleEn": "해요체: the polite present (verbs)",
+      "chapterTitleZh": "해요체：动词的非格式体现在时",
+      "pointTitleEn": "Vowel contraction: 보다 → 봐요, 읽다 → 읽어요",
+      "pointTitleZh": "元音缩合：보다 → 봐요，읽다 → 읽어요",
+      "anchor": "ex-e04-e04-2-1",
+      "jp": "저는 책을 읽어요"
+    },
+    {
+      "chapterId": "e04",
+      "chapterTitleEn": "해요체: the polite present (verbs)",
+      "chapterTitleZh": "해요체：动词的非格式体现在时",
+      "pointTitleEn": "하다 verbs: noun + 해요",
+      "pointTitleZh": "하다 动词：名词 + 해요",
+      "anchor": "ex-e04-e04-3-1",
+      "jp": "저는 매일 한국어를 공부해요"
+    },
+    {
+      "chapterId": "e05",
+      "chapterTitleEn": "합니다체: the formal style and questions",
+      "chapterTitleZh": "합니다체：格式体与疑问",
+      "pointTitleEn": "Declarative: Verb + 합니다 / 습니다",
+      "pointTitleZh": "陈述句：动词 + 합니다 / 습니다",
+      "anchor": "ex-e05-e05-1-0",
+      "jp": "저는 갑니다"
+    },
+    {
+      "chapterId": "e05",
+      "chapterTitleEn": "합니다체: the formal style and questions",
+      "chapterTitleZh": "합니다체：格式体与疑问",
+      "pointTitleEn": "Declarative: Verb + 합니다 / 습니다",
+      "pointTitleZh": "陈述句：动词 + 합니다 / 습니다",
+      "anchor": "ex-e05-e05-1-2",
+      "jp": "저는 학생입니다"
+    },
+    {
+      "chapterId": "e06",
+      "chapterTitleEn": "The object particle 을/를 and SOV order",
+      "chapterTitleZh": "宾格助词 을/를 与 SOV 语序",
+      "pointTitleEn": "을 after consonant-final nouns",
+      "pointTitleZh": "받침结尾的名词后接 을",
+      "anchor": "ex-e06-e06-1-0",
+      "jp": "저는 밥을 먹어요"
+    },
+    {
+      "chapterId": "e06",
+      "chapterTitleEn": "The object particle 을/를 and SOV order",
+      "chapterTitleZh": "宾格助词 을/를 与 SOV 语序",
+      "pointTitleEn": "을 after consonant-final nouns",
+      "pointTitleZh": "받침结尾的名词后接 을",
+      "anchor": "ex-e06-e06-1-1",
+      "jp": "저는 책을 읽어요"
+    },
+    {
+      "chapterId": "e06",
+      "chapterTitleEn": "The object particle 을/를 and SOV order",
+      "chapterTitleZh": "宾格助词 을/를 与 SOV 语序",
+      "pointTitleEn": "를 after vowel-final nouns",
+      "pointTitleZh": "元音结尾的名词后接 를",
+      "anchor": "ex-e06-e06-2-0",
+      "jp": "저는 커피를 마셔요"
+    },
+    {
+      "chapterId": "e06",
+      "chapterTitleEn": "The object particle 을/를 and SOV order",
+      "chapterTitleZh": "宾格助词 을/를 与 SOV 语序",
+      "pointTitleEn": "를 after vowel-final nouns",
+      "pointTitleZh": "元音结尾的名词后接 를",
+      "anchor": "ex-e06-e06-2-1",
+      "jp": "저는 친구를 만나요"
+    },
+    {
+      "chapterId": "e06",
+      "chapterTitleEn": "The object particle 을/를 and SOV order",
+      "chapterTitleZh": "宾格助词 을/를 与 SOV 语序",
+      "pointTitleEn": "를 after vowel-final nouns",
+      "pointTitleZh": "元音结尾的名词后接 를",
+      "anchor": "ex-e06-e06-2-2",
+      "jp": "저는 한국어를 배워요"
+    },
+    {
+      "chapterId": "e06",
+      "chapterTitleEn": "The object particle 을/를 and SOV order",
+      "chapterTitleZh": "宾格助词 을/를 与 SOV 语序",
+      "pointTitleEn": "Richer SOV sentences with adverbs",
+      "pointTitleZh": "含副词的丰富 SOV 句型",
+      "anchor": "ex-e06-e06-4-0",
+      "jp": "저는 매일 영화를 봐요"
+    },
+    {
+      "chapterId": "e06",
+      "chapterTitleEn": "The object particle 을/를 and SOV order",
+      "chapterTitleZh": "宾格助词 을/를 与 SOV 语序",
+      "pointTitleEn": "Richer SOV sentences with adverbs",
+      "pointTitleZh": "含副词的丰富 SOV 句型",
+      "anchor": "ex-e06-e06-4-1",
+      "jp": "저는 한국어를 공부해요"
+    },
+    {
+      "chapterId": "e06",
+      "chapterTitleEn": "The object particle 을/를 and SOV order",
+      "chapterTitleZh": "宾格助词 을/를 与 SOV 语序",
+      "pointTitleEn": "Richer SOV sentences with adverbs",
+      "pointTitleZh": "含副词的丰富 SOV 句型",
+      "anchor": "ex-e06-e06-4-2",
+      "jp": "저는 친구를 기다려요"
+    },
+    {
+      "chapterId": "e07",
+      "chapterTitleEn": "Place particles: 에 vs 에서",
+      "chapterTitleZh": "处所助词：에 与 에서",
+      "pointTitleEn": "에 = destination (direction of movement)",
+      "pointTitleZh": "에 表示目的地（移动方向）",
+      "anchor": "ex-e07-e07-1-1",
+      "jp": "저는 집에 와요"
+    },
+    {
+      "chapterId": "e07",
+      "chapterTitleEn": "Place particles: 에 vs 에서",
+      "chapterTitleZh": "处所助词：에 与 에서",
+      "pointTitleEn": "에서 = location of an action",
+      "pointTitleZh": "에서 表示动作发生的地点",
+      "anchor": "ex-e07-e07-3-0",
+      "jp": "저는 도서관에서 공부해요"
+    },
+    {
+      "chapterId": "e07",
+      "chapterTitleEn": "Place particles: 에 vs 에서",
+      "chapterTitleZh": "处所助词：에 与 에서",
+      "pointTitleEn": "에서 = from (origin or starting point)",
+      "pointTitleZh": "에서 表示出发地（来源或起点）",
+      "anchor": "ex-e07-e07-4-1",
+      "jp": "저는 서울에서 왔어요"
+    },
+    {
+      "chapterId": "e08",
+      "chapterTitleEn": "Past tense: 았/었어요",
+      "chapterTitleZh": "过去时：았/었어요",
+      "pointTitleEn": "Verb past tense — 해요체 (았/었어요)",
+      "pointTitleZh": "动词过去时 — 해요체（았/었어요）",
+      "anchor": "ex-e08-e08-1-2",
+      "jp": "저는 한국어를 배웠어요"
+    },
+    {
+      "chapterId": "e09",
+      "chapterTitleEn": "Negation: 안 and -지 않다",
+      "chapterTitleZh": "否定：안 与 -지 않다",
+      "pointTitleEn": "Short negation: 안 before a verb",
+      "pointTitleZh": "短否定：안 放在动词前",
+      "anchor": "ex-e09-e09-1-1",
+      "jp": "저는 학교에 안 가요"
+    },
+    {
+      "chapterId": "e09",
+      "chapterTitleEn": "Negation: 안 and -지 않다",
+      "chapterTitleZh": "否定：안 与 -지 않다",
+      "pointTitleEn": "Short negation: 안 before a verb",
+      "pointTitleZh": "短否定：안 放在动词前",
+      "anchor": "ex-e09-e09-1-2",
+      "jp": "저도 안 와요"
+    },
+    {
+      "chapterId": "e09",
+      "chapterTitleEn": "Negation: 안 and -지 않다",
+      "chapterTitleZh": "否定：안 与 -지 않다",
+      "pointTitleEn": "Long negation: -지 않아요",
+      "pointTitleZh": "长否定：-지 않아요",
+      "anchor": "ex-e09-e09-3-1",
+      "jp": "저는 학교에 가지 않아요"
+    },
+    {
+      "chapterId": "e11",
+      "chapterTitleEn": "and / with / also / only: 와·과·하고, 도, 만",
+      "chapterTitleZh": "并列与助词：와·과·하고、도、만",
+      "pointTitleEn": "도 — \"also / too\"",
+      "pointTitleZh": "도 — \"也\"",
+      "anchor": "ex-e11-e11-2-0",
+      "jp": "저도 가요"
+    },
+    {
+      "chapterId": "e11",
+      "chapterTitleEn": "and / with / also / only: 와·과·하고, 도, 만",
+      "chapterTitleZh": "并列与助词：와·과·하고、도、만",
+      "pointTitleEn": "Combining particles in richer sentences",
+      "pointTitleZh": "在更丰富的句子中组合助词",
+      "anchor": "ex-e11-e11-4-0",
+      "jp": "저도 커피하고 빵을 먹어요"
+    },
+    {
+      "chapterId": "i02",
+      "chapterTitleEn": "Desire and progressive: -고 싶다, -고 있다",
+      "chapterTitleZh": "愿望与进行：-고 싶다、-고 있다",
+      "pointTitleEn": "-고 싶어요 with subjects, objects, and destinations",
+      "pointTitleZh": "-고 싶어요 与主语、宾语、目的地",
+      "anchor": "ex-i02-i02-2-1",
+      "jp": "저는 영화를 보고 싶어요"
+    },
+    {
+      "chapterId": "i02",
+      "chapterTitleEn": "Desire and progressive: -고 싶다, -고 있다",
+      "chapterTitleZh": "愿望与进行：-고 싶다、-고 있다",
+      "pointTitleEn": "-고 싶어요 with subjects, objects, and destinations",
+      "pointTitleZh": "-고 싶어요 与主语、宾语、目的地",
+      "anchor": "ex-i02-i02-2-2",
+      "jp": "저는 친구를 만나고 싶어요"
+    },
+    {
+      "chapterId": "i02",
+      "chapterTitleEn": "Desire and progressive: -고 싶다, -고 있다",
+      "chapterTitleZh": "愿望与进行：-고 싶다、-고 있다",
+      "pointTitleEn": "Richer progressives and the formal register -고 있습니다",
+      "pointTitleZh": "更丰富的进行体以及正式语体 -고 있습니다",
+      "anchor": "ex-i02-i02-4-0",
+      "jp": "저는 한국어를 배우고 있어요"
+    },
+    {
+      "chapterId": "i03",
+      "chapterTitleEn": "Ability: -(으)ㄹ 수 있다/없다",
+      "chapterTitleZh": "能力：-(으)ㄹ 수 있다/없다",
+      "pointTitleEn": "Vowel-stem verbs: -ㄹ 수 있어요",
+      "pointTitleZh": "元音词干动词：-ㄹ 수 있어요",
+      "anchor": "ex-i03-i03-1-1",
+      "jp": "저는 한국어를 할 수 있어요"
+    },
+    {
+      "chapterId": "i03",
+      "chapterTitleEn": "Ability: -(으)ㄹ 수 있다/없다",
+      "chapterTitleZh": "能力：-(으)ㄹ 수 있다/없다",
+      "pointTitleEn": "Vowel-stem verbs: -ㄹ 수 있어요",
+      "pointTitleZh": "元音词干动词：-ㄹ 수 있어요",
+      "anchor": "ex-i03-i03-1-2",
+      "jp": "저는 영화를 볼 수 있어요"
+    },
+    {
+      "chapterId": "i03",
+      "chapterTitleEn": "Ability: -(으)ㄹ 수 있다/없다",
+      "chapterTitleZh": "能力：-(으)ㄹ 수 있다/없다",
+      "pointTitleEn": "Negation: -(으)ㄹ 수 없어요",
+      "pointTitleZh": "否定：-(으)ㄹ 수 없어요",
+      "anchor": "ex-i03-i03-3-1",
+      "jp": "저는 고기를 먹을 수 없어요"
+    },
+    {
+      "chapterId": "i03",
+      "chapterTitleEn": "Ability: -(으)ㄹ 수 있다/없다",
+      "chapterTitleZh": "能力：-(으)ㄹ 수 있다/없다",
+      "pointTitleEn": "Negation: -(으)ㄹ 수 없어요",
+      "pointTitleZh": "否定：-(으)ㄹ 수 없어요",
+      "anchor": "ex-i03-i03-3-2",
+      "jp": "저는 한국어를 말할 수 없어요"
+    },
+    {
+      "chapterId": "i03",
+      "chapterTitleEn": "Ability: -(으)ㄹ 수 있다/없다",
+      "chapterTitleZh": "能力：-(으)ㄹ 수 있다/없다",
+      "pointTitleEn": "Formal speech: -ㄹ/을 수 있습니다 / 없습니다",
+      "pointTitleZh": "正式体：-ㄹ/을 수 있습니다 / 없습니다",
+      "anchor": "ex-i03-i03-4-2",
+      "jp": "저는 차를 운전할 수 있습니다"
+    },
+    {
+      "chapterId": "i04",
+      "chapterTitleEn": "Future and intention: -(으)ㄹ 거예요",
+      "chapterTitleZh": "将来与意图：-(으)ㄹ 거예요",
+      "pointTitleEn": "-ㄹ 거예요 with vowel-final stems",
+      "pointTitleZh": "元音结尾词干后接 -ㄹ 거예요",
+      "anchor": "ex-i04-i04-1-2",
+      "jp": "저는 영화를 볼 거예요"
+    },
+    {
+      "chapterId": "i04",
+      "chapterTitleEn": "Future and intention: -(으)ㄹ 거예요",
+      "chapterTitleZh": "将来与意图：-(으)ㄹ 거예요",
+      "pointTitleEn": "-을 거예요 with consonant-final stems (받침)",
+      "pointTitleZh": "辅音结尾词干（받침）后接 -을 거예요",
+      "anchor": "ex-i04-i04-2-1",
+      "jp": "저는 밥을 먹을 거예요"
+    },
+    {
+      "chapterId": "i04",
+      "chapterTitleEn": "Future and intention: -(으)ㄹ 거예요",
+      "chapterTitleZh": "将来与意图：-(으)ㄹ 거예요",
+      "pointTitleEn": "하다 verbs in -(으)ㄹ 거예요",
+      "pointTitleZh": "하다 动词的将来形 -(으)ㄹ 거예요",
+      "anchor": "ex-i04-i04-3-0",
+      "jp": "저는 공부할 거예요"
+    },
+    {
+      "chapterId": "i04",
+      "chapterTitleEn": "Future and intention: -(으)ㄹ 거예요",
+      "chapterTitleZh": "将来与意图：-(으)ㄹ 거예요",
+      "pointTitleEn": "하다 verbs in -(으)ㄹ 거예요",
+      "pointTitleZh": "하다 动词的将来形 -(으)ㄹ 거예요",
+      "anchor": "ex-i04-i04-3-1",
+      "jp": "저는 한국어를 공부할 거예요"
+    },
+    {
+      "chapterId": "i08",
+      "chapterTitleEn": "Comparison: 보다, 처럼, 제일",
+      "chapterTitleZh": "比较：보다、처럼、제일",
+      "pointTitleEn": "보다 — 'than' (comparative particle)",
+      "pointTitleZh": "보다 — 比较助词（比……）",
+      "anchor": "ex-i08-i08-1-1",
+      "jp": "저는 언니보다 키가 커요"
+    }
+  ],
+  "전화": [
+    {
+      "chapterId": "a03",
+      "chapterTitleEn": "Contrast: -지만 and -는데",
+      "chapterTitleZh": "转折：-지만 与 -는데",
+      "pointTitleEn": "-는데 with verbs: background contrast",
+      "pointTitleZh": "-는데 接动词：背景式转折",
+      "anchor": "ex-a03-a03-3-2",
+      "jp": "지금 먹는데 전화가 왔어요"
+    }
+  ],
+  "제": [
+    {
+      "chapterId": "e02",
+      "chapterTitleEn": "Topic and subject: 은/는 and 이/가",
+      "chapterTitleZh": "主题与主格：은/는、이/가",
+      "pointTitleEn": "Topic vs Subject — different focus",
+      "pointTitleZh": "话题与主格的语义对比",
+      "anchor": "ex-e02-e02-3-1",
+      "jp": "제가 왔어요"
+    }
+  ],
+  "조용히": [
+    {
+      "chapterId": "a04",
+      "chapterTitleEn": "Commands and propositives in context",
+      "chapterTitleZh": "命令与提议的实际运用",
+      "pointTitleEn": "Register contrast in dialogue",
+      "pointTitleZh": "对话中的语域对比",
+      "anchor": "ex-a04-a04-4-0",
+      "jp": "조용히 해라."
+    },
+    {
+      "chapterId": "a04",
+      "chapterTitleEn": "Commands and propositives in context",
+      "chapterTitleZh": "命令与提议的实际运用",
+      "pointTitleEn": "Register contrast in dialogue",
+      "pointTitleZh": "对话中的语域对比",
+      "anchor": "ex-a04-a04-4-1",
+      "jp": "조용히 하세요."
+    }
+  ],
+  "좋다": [
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Adjective attributive -(으)ㄴ (regular and 있다-type)",
+      "pointTitleZh": "形容词冠形词形 -(으)ㄴ（规则及 있다 型）",
+      "anchor": "ex-a01-a01-2-0",
+      "jp": "좋은 책을 읽어요"
+    },
+    {
+      "chapterId": "a03",
+      "chapterTitleEn": "Contrast: -지만 and -는데",
+      "chapterTitleZh": "转折：-지만 与 -는데",
+      "pointTitleEn": "-지만 with adjectives: direct contrast",
+      "pointTitleZh": "-지만 接形容词：直接转折",
+      "anchor": "ex-a03-a03-1-0",
+      "jp": "비싸지만 좋아요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-(으)면: the conditional 'if'",
+      "pointTitleZh": "-(으)면：条件'如果'",
+      "anchor": "ex-a06-a06-3-2",
+      "jp": "날씨가 좋으면 학교에 가요"
+    },
+    {
+      "chapterId": "e02",
+      "chapterTitleEn": "Topic and subject: 은/는 and 이/가",
+      "chapterTitleZh": "主题与主格：은/는、이/가",
+      "pointTitleEn": "Topic vs Subject — different focus",
+      "pointTitleZh": "话题与主格的语义对比",
+      "anchor": "ex-e02-e02-3-2",
+      "jp": "오늘은 날씨가 좋아요"
+    },
+    {
+      "chapterId": "e05",
+      "chapterTitleEn": "합니다체: the formal style and questions",
+      "chapterTitleZh": "합니다체：格式体与疑问",
+      "pointTitleEn": "Formal adjectives and contrasting 해요체 vs 합니다체",
+      "pointTitleZh": "正式体形容词及해요체与합니다체的对比",
+      "anchor": "ex-e05-e05-4-0",
+      "jp": "날씨가 좋습니다"
+    },
+    {
+      "chapterId": "e08",
+      "chapterTitleEn": "Past tense: 았/었어요",
+      "chapterTitleZh": "过去时：았/었어요",
+      "pointTitleEn": "Adjective past tense — 았/었어요",
+      "pointTitleZh": "形容词过去时 — 았/었어요",
+      "anchor": "ex-e08-e08-4-0",
+      "jp": "날씨가 좋았어요"
+    },
+    {
+      "chapterId": "e09",
+      "chapterTitleEn": "Negation: 안 and -지 않다",
+      "chapterTitleZh": "否定：안 与 -지 않다",
+      "pointTitleEn": "Negating adjectives with -지 않아요",
+      "pointTitleZh": "用 -지 않아요 否定形容词",
+      "anchor": "ex-e09-e09-4-0",
+      "jp": "좋지 않아요"
+    },
+    {
+      "chapterId": "e10",
+      "chapterTitleEn": "Adjectives (형용사)",
+      "chapterTitleZh": "形容词",
+      "pointTitleEn": "Plain present = dictionary form",
+      "pointTitleZh": "基本现在时 = 词典形",
+      "anchor": "ex-e10-e10-1-0",
+      "jp": "날씨가 좋다"
+    },
+    {
+      "chapterId": "e10",
+      "chapterTitleEn": "Adjectives (형용사)",
+      "chapterTitleZh": "形容词",
+      "pointTitleEn": "Haeyo polite present — ConjugateAdjective<A, \"Haeyo\">",
+      "pointTitleZh": "해요체礼貌现在时 — ConjugateAdjective<A, \"Haeyo\">",
+      "anchor": "ex-e10-e10-2-0",
+      "jp": "날씨가 좋아요"
+    },
+    {
+      "chapterId": "e10",
+      "chapterTitleEn": "Adjectives (형용사)",
+      "chapterTitleZh": "形容词",
+      "pointTitleEn": "Attributive -(으)ㄴ — adjective before a noun",
+      "pointTitleZh": "定语形 -(으)ㄴ —— 形容词修饰名词",
+      "anchor": "ex-e10-e10-3-0",
+      "jp": "좋은 사람"
+    },
+    {
+      "chapterId": "e10",
+      "chapterTitleEn": "Adjectives (형용사)",
+      "chapterTitleZh": "形容词",
+      "pointTitleEn": "Hamnida formal polite — 해요체 vs 합니다체",
+      "pointTitleZh": "합니다체正式礼貌体 —— 해요체 vs 합니다체",
+      "anchor": "ex-e10-e10-4-0",
+      "jp": "날씨가 좋습니다"
+    },
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-고 with adjectives: listing properties",
+      "pointTitleZh": "-고 接形容词：并列描述",
+      "anchor": "ex-e12-e12-2-0",
+      "jp": "비싸고 좋아요"
+    },
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-고 with adjectives: listing properties",
+      "pointTitleZh": "-고 接形容词：并列描述",
+      "anchor": "ex-e12-e12-2-1",
+      "jp": "방이 크고 좋아요"
+    },
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-아서/어서 with adjectives: giving a reason",
+      "pointTitleZh": "-아서/어서 接形容词：表示原因",
+      "anchor": "ex-e12-e12-4-0",
+      "jp": "날씨가 좋아서 산에 가요"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Consonant-stem verbs: attach -으면",
+      "pointTitleZh": "辅音词干动词：接 -으면",
+      "anchor": "ex-i01-i01-2-1",
+      "jp": "밥을 먹으면 기분이 좋아요"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Consonant-stem verbs: attach -으면",
+      "pointTitleZh": "辅音词干动词：接 -으면",
+      "anchor": "ex-i01-i01-2-2",
+      "jp": "책을 읽으면 좋아요"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Adjective conditionals",
+      "pointTitleZh": "形容词条件句",
+      "anchor": "ex-i01-i01-3-0",
+      "jp": "날씨가 좋으면 산에 가요"
+    },
+    {
+      "chapterId": "i07",
+      "chapterTitleEn": "Irregular verbs: ㄷ, ㅂ, 으",
+      "chapterTitleZh": "不规则动词：ㄷ、ㅂ、으",
+      "pointTitleEn": "Irregular stems in longer sentences",
+      "pointTitleZh": "不规则词干在更长句子中的应用",
+      "anchor": "ex-i07-i07-4-0",
+      "jp": "음악을 들으면 기분이 좋아요"
+    },
+    {
+      "chapterId": "i08",
+      "chapterTitleEn": "Comparison: 보다, 처럼, 제일",
+      "chapterTitleZh": "比较：보다、처럼、제일",
+      "pointTitleEn": "제일 / 가장 — superlative adverbs ('the most')",
+      "pointTitleZh": "제일 / 가장 — 最高级副词（最……）",
+      "anchor": "ex-i08-i08-3-0",
+      "jp": "이게 제일 좋아요"
+    },
+    {
+      "chapterId": "i08",
+      "chapterTitleEn": "Comparison: 보다, 처럼, 제일",
+      "chapterTitleZh": "比较：보다、처럼、제일",
+      "pointTitleEn": "Combining comparison constructs",
+      "pointTitleZh": "综合运用比较句型",
+      "anchor": "ex-i08-i08-4-1",
+      "jp": "여기가 제일 좋고 가장 싸요"
+    }
+  ],
+  "좋아하다": [
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Noun-modifying clauses in full sentences",
+      "pointTitleZh": "在完整句子中使用定语从句",
+      "anchor": "ex-a01-a01-4-1",
+      "jp": "좋아하는 음악을 들어요"
+    }
+  ],
+  "주다": [
+    {
+      "chapterId": "i08",
+      "chapterTitleEn": "Comparison: 보다, 처럼, 제일",
+      "chapterTitleZh": "比较：보다、처럼、제일",
+      "pointTitleEn": "제일 / 가장 — superlative adverbs ('the most')",
+      "pointTitleZh": "제일 / 가장 — 最高级副词（最……）",
+      "anchor": "ex-i08-i08-3-2",
+      "jp": "가장 비싼 것을 주세요"
+    }
+  ],
+  "집": [
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Irregular adjective attributives (으-irregular and ㅂ-irregular)",
+      "pointTitleZh": "不规则形容词冠形词形（으 不规则、ㅂ 不规则）",
+      "anchor": "ex-a01-a01-3-0",
+      "jp": "큰 집에 있어요"
+    },
+    {
+      "chapterId": "a02",
+      "chapterTitleEn": "Reasons: -아서 vs -(으)니까",
+      "chapterTitleZh": "原因：-아서 与 -(으)니까",
+      "pointTitleEn": "-(으)니까 — assertive explanation and 받침 allomorphs",
+      "pointTitleZh": "-(으)니까：断言性解释与收音异形体",
+      "anchor": "ex-a02-a02-2-1",
+      "jp": "비가 오니까 집에 있어요"
+    },
+    {
+      "chapterId": "a03",
+      "chapterTitleEn": "Contrast: -지만 and -는데",
+      "chapterTitleZh": "转折：-지만 与 -는데",
+      "pointTitleEn": "-는데 with verbs: background contrast",
+      "pointTitleZh": "-는데 接动词：背景式转折",
+      "anchor": "ex-a03-a03-3-1",
+      "jp": "집에 갔는데 친구가 없었어요"
+    },
+    {
+      "chapterId": "a03",
+      "chapterTitleEn": "Contrast: -지만 and -는데",
+      "chapterTitleZh": "转折：-지만 与 -는데",
+      "pointTitleEn": "-ㄴ데/은데 with adjectives: the allomorph rule",
+      "pointTitleZh": "-ㄴ데/은데 接形容词：异形词规则",
+      "anchor": "ex-a03-a03-4-2",
+      "jp": "날씨가 좋은데 집에 있어요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-고: sequential 'and then'",
+      "pointTitleZh": "-고：顺序'然后'",
+      "anchor": "ex-a06-a06-1-2",
+      "jp": "저는 한국어를 공부하고 집에 가요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-아서/-어서: causal and sequential 'and so / and then'",
+      "pointTitleZh": "-아서/-어서：因果与紧接顺序的'因此/然后'",
+      "anchor": "ex-a06-a06-2-2",
+      "jp": "저는 집에 와서 밥을 먹어요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "Putting it all together: multi-clause chains",
+      "pointTitleZh": "综合：多分句连锁句",
+      "anchor": "ex-a06-a06-4-0",
+      "jp": "저는 매일 학교에 가서 한국어를 공부하고 집에 와요"
+    },
+    {
+      "chapterId": "e03",
+      "chapterTitleEn": "있다 / 없다 and the Location Particle 에",
+      "chapterTitleZh": "存在与处所：있다/없다、에",
+      "pointTitleEn": "에 — the static location particle",
+      "pointTitleZh": "에 — 静态处所助词",
+      "anchor": "ex-e03-e03-3-0",
+      "jp": "집에 있어요"
+    },
+    {
+      "chapterId": "e03",
+      "chapterTitleEn": "있다 / 없다 and the Location Particle 에",
+      "chapterTitleZh": "存在与处所：있다/없다、에",
+      "pointTitleEn": "에 — the static location particle",
+      "pointTitleZh": "에 — 静态处所助词",
+      "anchor": "ex-e03-e03-3-1",
+      "jp": "저는 집에 있어요"
+    },
+    {
+      "chapterId": "e07",
+      "chapterTitleEn": "Place particles: 에 vs 에서",
+      "chapterTitleZh": "处所助词：에 与 에서",
+      "pointTitleEn": "에 = destination (direction of movement)",
+      "pointTitleZh": "에 表示目的地（移动方向）",
+      "anchor": "ex-e07-e07-1-1",
+      "jp": "저는 집에 와요"
+    },
+    {
+      "chapterId": "e07",
+      "chapterTitleEn": "Place particles: 에 vs 에서",
+      "chapterTitleZh": "处所助词：에 与 에서",
+      "pointTitleEn": "에 = static location (where something exists)",
+      "pointTitleZh": "에 表示静态位置（某物存在的地方）",
+      "anchor": "ex-e07-e07-2-0",
+      "jp": "친구가 집에 있어요"
+    },
+    {
+      "chapterId": "e07",
+      "chapterTitleEn": "Place particles: 에 vs 에서",
+      "chapterTitleZh": "处所助词：에 与 에서",
+      "pointTitleEn": "에서 = location of an action",
+      "pointTitleZh": "에서 表示动作发生的地点",
+      "anchor": "ex-e07-e07-3-1",
+      "jp": "집에서 자요"
+    },
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-아서/어서 with verbs: reason and close sequence",
+      "pointTitleZh": "-아서/어서 接动词：原因与紧密序列",
+      "anchor": "ex-e12-e12-3-0",
+      "jp": "비가 와서 집에 있어요"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Vowel-stem verbs: attach -면 directly",
+      "pointTitleZh": "元音词干动词：直接接 -면",
+      "anchor": "ex-i01-i01-1-0",
+      "jp": "비가 오면 집에 있어요"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Adjective conditionals",
+      "pointTitleZh": "形容词条件句",
+      "anchor": "ex-i01-i01-3-1",
+      "jp": "날씨가 추우면 집에 있어요"
+    },
+    {
+      "chapterId": "i06",
+      "chapterTitleEn": "Suggestions: -(으)ㄹ까요?",
+      "chapterTitleZh": "提议：-(으)ㄹ까요?",
+      "pointTitleEn": "Propositive with place: 에서 + -(으)ㄹ까요?",
+      "pointTitleZh": "加地点的提议句：에서 + -(으)ㄹ까요?",
+      "anchor": "ex-i06-i06-4-2",
+      "jp": "집에서 같이 밥을 먹을까요?"
+    }
+  ],
+  "차": [
+    {
+      "chapterId": "e11",
+      "chapterTitleEn": "and / with / also / only: 와·과·하고, 도, 만",
+      "chapterTitleZh": "并列与助词：와·과·하고、도、만",
+      "pointTitleEn": "와/과/하고 — connecting nouns: \"and / with\"",
+      "pointTitleZh": "와/과/하고 — 名词连接：\"和/跟\"",
+      "anchor": "ex-e11-e11-1-1",
+      "jp": "커피와 차를 마셔요"
+    },
+    {
+      "chapterId": "i03",
+      "chapterTitleEn": "Ability: -(으)ㄹ 수 있다/없다",
+      "chapterTitleZh": "能力：-(으)ㄹ 수 있다/없다",
+      "pointTitleEn": "Formal speech: -ㄹ/을 수 있습니다 / 없습니다",
+      "pointTitleZh": "正式体：-ㄹ/을 수 있습니다 / 없습니다",
+      "anchor": "ex-i03-i03-4-2",
+      "jp": "저는 차를 운전할 수 있습니다"
+    },
+    {
+      "chapterId": "i08",
+      "chapterTitleEn": "Comparison: 보다, 처럼, 제일",
+      "chapterTitleZh": "比较：보다、처럼、제일",
+      "pointTitleEn": "보다 — 'than' (comparative particle)",
+      "pointTitleZh": "보다 — 比较助词（比……）",
+      "anchor": "ex-i08-i08-1-0",
+      "jp": "커피가 차보다 비싸요"
+    }
+  ],
+  "책": [
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Verb attributive -는 (present action)",
+      "pointTitleZh": "动词冠形词形 -는（现在进行/习惯动作）",
+      "anchor": "ex-a01-a01-1-0",
+      "jp": "책을 읽는 사람이에요"
+    },
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Adjective attributive -(으)ㄴ (regular and 있다-type)",
+      "pointTitleZh": "形容词冠形词形 -(으)ㄴ（规则及 있다 型）",
+      "anchor": "ex-a01-a01-2-0",
+      "jp": "좋은 책을 읽어요"
+    },
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Irregular adjective attributives (으-irregular and ㅂ-irregular)",
+      "pointTitleZh": "不规则形容词冠形词形（으 不规则、ㅂ 不规则）",
+      "anchor": "ex-a01-a01-3-2",
+      "jp": "어려운 책이 많아요"
+    },
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Noun-modifying clauses in full sentences",
+      "pointTitleZh": "在完整句子中使用定语从句",
+      "anchor": "ex-a01-a01-4-0",
+      "jp": "책을 읽는 사람은 많아요"
+    },
+    {
+      "chapterId": "a04",
+      "chapterTitleEn": "Commands and propositives in context",
+      "chapterTitleZh": "命令与提议的实际运用",
+      "pointTitleEn": "Plain imperative -아/어라 (반말 commands)",
+      "pointTitleZh": "반말命令句 -아/어라",
+      "anchor": "ex-a04-a04-1-2",
+      "jp": "책을 읽어라."
+    },
+    {
+      "chapterId": "e01",
+      "chapterTitleEn": "Noun sentences: the copula 이다",
+      "chapterTitleZh": "名词谓语句：이다",
+      "pointTitleEn": "The topic particle 은/는",
+      "pointTitleZh": "主题助词 은/는",
+      "anchor": "ex-e01-e01-1-1",
+      "jp": "이것은 책이에요"
+    },
+    {
+      "chapterId": "e01",
+      "chapterTitleEn": "Noun sentences: the copula 이다",
+      "chapterTitleZh": "名词谓语句：이다",
+      "pointTitleEn": "해요체 copula after a consonant-final noun: 이에요",
+      "pointTitleZh": "해요체系动词接有收音名词：이에요",
+      "anchor": "ex-e01-e01-2-2",
+      "jp": "이것은 책이에요"
+    },
+    {
+      "chapterId": "e02",
+      "chapterTitleEn": "Topic and subject: 은/는 and 이/가",
+      "chapterTitleZh": "主题与主格：은/는、이/가",
+      "pointTitleEn": "Topic marker 은/는",
+      "pointTitleZh": "主题助词 은/는",
+      "anchor": "ex-e02-e02-1-1",
+      "jp": "이것은 책이에요"
+    },
+    {
+      "chapterId": "e02",
+      "chapterTitleEn": "Topic and subject: 은/는 and 이/가",
+      "chapterTitleZh": "主题与主格：은/는、이/가",
+      "pointTitleEn": "Subject marker 이/가",
+      "pointTitleZh": "主格助词 이/가",
+      "anchor": "ex-e02-e02-2-1",
+      "jp": "학생이 책을 읽어요"
+    },
+    {
+      "chapterId": "e03",
+      "chapterTitleEn": "있다 / 없다 and the Location Particle 에",
+      "chapterTitleZh": "存在与处所：있다/없다、에",
+      "pointTitleEn": "있어요 — existence and possession",
+      "pointTitleZh": "있어요 — 存在与拥有",
+      "anchor": "ex-e03-e03-1-0",
+      "jp": "책이 있어요"
+    },
+    {
+      "chapterId": "e03",
+      "chapterTitleEn": "있다 / 없다 and the Location Particle 에",
+      "chapterTitleZh": "存在与处所：있다/없다、에",
+      "pointTitleEn": "없어요 — non-existence and lack",
+      "pointTitleZh": "없어요 — 不存在与没有",
+      "anchor": "ex-e03-e03-2-1",
+      "jp": "책이 없어요"
+    },
+    {
+      "chapterId": "e03",
+      "chapterTitleEn": "있다 / 없다 and the Location Particle 에",
+      "chapterTitleZh": "存在与处所：있다/없다、에",
+      "pointTitleEn": "합니다체 — 있습니다 / 없습니다",
+      "pointTitleZh": "합니다체 — 있습니다 / 없습니다",
+      "anchor": "ex-e03-e03-4-0",
+      "jp": "책이 있습니다"
+    },
+    {
+      "chapterId": "e04",
+      "chapterTitleEn": "해요체: the polite present (verbs)",
+      "chapterTitleZh": "해요체：动词的非格式体现在时",
+      "pointTitleEn": "Vowel contraction: 보다 → 봐요, 읽다 → 읽어요",
+      "pointTitleZh": "元音缩合：보다 → 봐요，읽다 → 읽어요",
+      "anchor": "ex-e04-e04-2-1",
+      "jp": "저는 책을 읽어요"
+    },
+    {
+      "chapterId": "e05",
+      "chapterTitleEn": "합니다체: the formal style and questions",
+      "chapterTitleZh": "합니다체：格式体与疑问",
+      "pointTitleEn": "Declarative: Verb + 합니다 / 습니다",
+      "pointTitleZh": "陈述句：动词 + 합니다 / 습니다",
+      "anchor": "ex-e05-e05-1-1",
+      "jp": "책을 읽습니다"
+    },
+    {
+      "chapterId": "e06",
+      "chapterTitleEn": "The object particle 을/를 and SOV order",
+      "chapterTitleZh": "宾格助词 을/를 与 SOV 语序",
+      "pointTitleEn": "을 after consonant-final nouns",
+      "pointTitleZh": "받침结尾的名词后接 을",
+      "anchor": "ex-e06-e06-1-1",
+      "jp": "저는 책을 읽어요"
+    },
+    {
+      "chapterId": "e06",
+      "chapterTitleEn": "The object particle 을/를 and SOV order",
+      "chapterTitleZh": "宾格助词 을/를 与 SOV 语序",
+      "pointTitleEn": "Object particle in 합니다체 (formal style)",
+      "pointTitleZh": "합니다체（正式体）中的宾格助词",
+      "anchor": "ex-e06-e06-3-1",
+      "jp": "책을 읽습니다"
+    },
+    {
+      "chapterId": "e07",
+      "chapterTitleEn": "Place particles: 에 vs 에서",
+      "chapterTitleZh": "处所助词：에 与 에서",
+      "pointTitleEn": "에 = static location (where something exists)",
+      "pointTitleZh": "에 表示静态位置（某物存在的地方）",
+      "anchor": "ex-e07-e07-2-1",
+      "jp": "책이 방에 있어요"
+    },
+    {
+      "chapterId": "e08",
+      "chapterTitleEn": "Past tense: 았/었어요",
+      "chapterTitleZh": "过去时：았/었어요",
+      "pointTitleEn": "Vowel harmony is already baked in",
+      "pointTitleZh": "元音和谐已内嵌于词基",
+      "anchor": "ex-e08-e08-3-1",
+      "jp": "책을 받았어요"
+    },
+    {
+      "chapterId": "e11",
+      "chapterTitleEn": "and / with / also / only: 와·과·하고, 도, 만",
+      "chapterTitleZh": "并列与助词：와·과·하고、도、만",
+      "pointTitleEn": "만 — \"only\"",
+      "pointTitleZh": "만 — \"只/仅\"",
+      "anchor": "ex-e11-e11-3-1",
+      "jp": "책만 읽어요"
+    },
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-아서/어서 with verbs: reason and close sequence",
+      "pointTitleZh": "-아서/어서 接动词：原因与紧密序列",
+      "anchor": "ex-e12-e12-3-1",
+      "jp": "책을 사서 읽어요"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Consonant-stem verbs: attach -으면",
+      "pointTitleZh": "辅音词干动词：接 -으면",
+      "anchor": "ex-i01-i01-2-2",
+      "jp": "책을 읽으면 좋아요"
+    },
+    {
+      "chapterId": "i02",
+      "chapterTitleEn": "Desire and progressive: -고 싶다, -고 있다",
+      "chapterTitleZh": "愿望与进行：-고 싶다、-고 있다",
+      "pointTitleEn": "Expressing an ongoing action: -고 있어요",
+      "pointTitleZh": "表达正在进行的动作：-고 있어요",
+      "anchor": "ex-i02-i02-3-0",
+      "jp": "책을 읽고 있어요"
+    },
+    {
+      "chapterId": "i03",
+      "chapterTitleEn": "Ability: -(으)ㄹ 수 있다/없다",
+      "chapterTitleZh": "能力：-(으)ㄹ 수 있다/없다",
+      "pointTitleEn": "Consonant-stem verbs: -을 수 있어요",
+      "pointTitleZh": "辅音词干动词：-을 수 있어요",
+      "anchor": "ex-i03-i03-2-1",
+      "jp": "책을 읽을 수 있어요"
+    },
+    {
+      "chapterId": "i04",
+      "chapterTitleEn": "Future and intention: -(으)ㄹ 거예요",
+      "chapterTitleZh": "将来与意图：-(으)ㄹ 거예요",
+      "pointTitleEn": "-을 거예요 with consonant-final stems (받침)",
+      "pointTitleZh": "辅音结尾词干（받침）后接 -을 거예요",
+      "anchor": "ex-i04-i04-2-0",
+      "jp": "책을 읽을 거예요"
+    },
+    {
+      "chapterId": "i05",
+      "chapterTitleEn": "Honorific requests: -(으)세요",
+      "chapterTitleZh": "尊敬与请求：-(으)세요",
+      "pointTitleEn": "The -(으)세요 allomorph rule",
+      "pointTitleZh": "-(으)세요 的语音变化规则",
+      "anchor": "ex-i05-i05-1-1",
+      "jp": "책을 읽으세요"
+    },
+    {
+      "chapterId": "i05",
+      "chapterTitleEn": "Honorific requests: -(으)세요",
+      "chapterTitleZh": "尊敬与请求：-(으)세요",
+      "pointTitleEn": "-(으)세요 as honorific present",
+      "pointTitleZh": "-(으)세요 用作尊敬现在时",
+      "anchor": "ex-i05-i05-3-1",
+      "jp": "어머니가 책을 읽으세요"
+    }
+  ],
+  "춥다": [
+    {
+      "chapterId": "e09",
+      "chapterTitleEn": "Negation: 안 and -지 않다",
+      "chapterTitleZh": "否定：안 与 -지 않다",
+      "pointTitleEn": "Negating adjectives with -지 않아요",
+      "pointTitleZh": "用 -지 않아요 否定形容词",
+      "anchor": "ex-e09-e09-4-2",
+      "jp": "날씨가 춥지 않습니다"
+    },
+    {
+      "chapterId": "e10",
+      "chapterTitleEn": "Adjectives (형용사)",
+      "chapterTitleZh": "形容词",
+      "pointTitleEn": "Hamnida formal polite — 해요체 vs 합니다체",
+      "pointTitleZh": "합니다체正式礼貌体 —— 해요체 vs 합니다체",
+      "anchor": "ex-e10-e10-4-2",
+      "jp": "날씨가 춥습니다"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Adjective conditionals",
+      "pointTitleZh": "形容词条件句",
+      "anchor": "ex-i01-i01-3-1",
+      "jp": "날씨가 추우면 집에 있어요"
+    },
+    {
+      "chapterId": "i07",
+      "chapterTitleEn": "Irregular verbs: ㄷ, ㅂ, 으",
+      "chapterTitleZh": "不规则动词：ㄷ、ㅂ、으",
+      "pointTitleEn": "ㅂ-irregular adjectives: ㅂ → 우 before vowels",
+      "pointTitleZh": "ㅂ 不规则形容词：元音前 ㅂ → 우",
+      "anchor": "ex-i07-i07-2-0",
+      "jp": "날씨가 추워요"
+    },
+    {
+      "chapterId": "i07",
+      "chapterTitleEn": "Irregular verbs: ㄷ, ㅂ, 으",
+      "chapterTitleZh": "不规则动词：ㄷ、ㅂ、으",
+      "pointTitleEn": "Irregular stems in longer sentences",
+      "pointTitleZh": "不规则词干在更长句子中的应用",
+      "anchor": "ex-i07-i07-4-1",
+      "jp": "어제 날씨가 추웠어요"
+    },
+    {
+      "chapterId": "i08",
+      "chapterTitleEn": "Comparison: 보다, 처럼, 제일",
+      "chapterTitleZh": "比较：보다、처럼、제일",
+      "pointTitleEn": "보다 — 'than' (comparative particle)",
+      "pointTitleZh": "보다 — 比较助词（比……）",
+      "anchor": "ex-i08-i08-1-2",
+      "jp": "오늘이 어제보다 더 추워요"
+    }
+  ],
+  "친구": [
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Verb attributive -는 (present action)",
+      "pointTitleZh": "动词冠形词形 -는（现在进行/习惯动作）",
+      "anchor": "ex-a01-a01-1-2",
+      "jp": "한국어를 배우는 친구가 있어요"
+    },
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Noun-modifying clauses in full sentences",
+      "pointTitleZh": "在完整句子中使用定语从句",
+      "anchor": "ex-a01-a01-4-2",
+      "jp": "바쁜 친구를 만나요"
+    },
+    {
+      "chapterId": "a02",
+      "chapterTitleEn": "Reasons: -아서 vs -(으)니까",
+      "chapterTitleZh": "原因：-아서 与 -(으)니까",
+      "pointTitleEn": "-(으)니까 before imperatives and proposals — where -아서 is blocked",
+      "pointTitleZh": "-(으)니까 接命令句与建议句——-아서 被禁止的场合",
+      "anchor": "ex-a02-a02-3-2",
+      "jp": "친구가 오니까 같이 먹어요"
+    },
+    {
+      "chapterId": "a03",
+      "chapterTitleEn": "Contrast: -지만 and -는데",
+      "chapterTitleZh": "转折：-지만 与 -는데",
+      "pointTitleEn": "-는데 with verbs: background contrast",
+      "pointTitleZh": "-는데 接动词：背景式转折",
+      "anchor": "ex-a03-a03-3-1",
+      "jp": "집에 갔는데 친구가 없었어요"
+    },
+    {
+      "chapterId": "a05",
+      "chapterTitleEn": "Quotation: -라고 하다 (introduction)",
+      "chapterTitleZh": "引用：-라고 하다（入门）",
+      "pointTitleEn": "Core pattern: [clause]라고 해요",
+      "pointTitleZh": "核心句型：[小句]라고 해요",
+      "anchor": "ex-a05-a05-1-0",
+      "jp": "친구가 \"바빠요\"라고 해요"
+    },
+    {
+      "chapterId": "a05",
+      "chapterTitleEn": "Quotation: -라고 하다 (introduction)",
+      "chapterTitleZh": "引用：-라고 하다（入门）",
+      "pointTitleEn": "Past quotation: [clause]라고 했어요",
+      "pointTitleZh": "过去式引用：[小句]라고 했어요",
+      "anchor": "ex-a05-a05-2-0",
+      "jp": "친구가 \"갈 거예요\"라고 했어요"
+    },
+    {
+      "chapterId": "a05",
+      "chapterTitleEn": "Quotation: -라고 하다 (introduction)",
+      "chapterTitleZh": "引用：-라고 하다（入门）",
+      "pointTitleEn": "Past quotation: [clause]라고 했어요",
+      "pointTitleZh": "过去式引用：[小句]라고 했어요",
+      "anchor": "ex-a05-a05-2-2",
+      "jp": "친구가 \"밥을 먹었어요\"라고 했어요"
+    },
+    {
+      "chapterId": "a05",
+      "chapterTitleEn": "Quotation: -라고 하다 (introduction)",
+      "chapterTitleZh": "引用：-라고 하다（入门）",
+      "pointTitleEn": "Formal register: -라고 합니다 / 했습니다",
+      "pointTitleZh": "正式体：-라고 합니다 / 했습니다",
+      "anchor": "ex-a05-a05-3-0",
+      "jp": "친구가 \"바빠요\"라고 합니다"
+    },
+    {
+      "chapterId": "a05",
+      "chapterTitleEn": "Quotation: -라고 하다 (introduction)",
+      "chapterTitleZh": "引用：-라고 하다（入门）",
+      "pointTitleEn": "Richer inner clauses: object + verb and negative forms",
+      "pointTitleZh": "更丰富的内部小句：带宾语的动词和否定形式",
+      "anchor": "ex-a05-a05-4-1",
+      "jp": "친구가 \"책을 읽을 거예요\"라고 했어요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-고: sequential 'and then'",
+      "pointTitleZh": "-고：顺序'然后'",
+      "anchor": "ex-a06-a06-1-1",
+      "jp": "저는 친구를 만나고 영화를 봐요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-아서/-어서: causal and sequential 'and so / and then'",
+      "pointTitleZh": "-아서/-어서：因果与紧接顺序的'因此/然后'",
+      "anchor": "ex-a06-a06-2-1",
+      "jp": "친구를 만나서 영화를 봐요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-(으)면: the conditional 'if'",
+      "pointTitleZh": "-(으)면：条件'如果'",
+      "anchor": "ex-a06-a06-3-1",
+      "jp": "시간이 있으면 친구를 만나요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "Putting it all together: multi-clause chains",
+      "pointTitleZh": "综合：多分句连锁句",
+      "anchor": "ex-a06-a06-4-1",
+      "jp": "시간이 있으면 친구를 만나서 영화를 봐요"
+    },
+    {
+      "chapterId": "e01",
+      "chapterTitleEn": "Noun sentences: the copula 이다",
+      "chapterTitleZh": "名词谓语句：이다",
+      "pointTitleEn": "The topic particle 은/는",
+      "pointTitleZh": "主题助词 은/는",
+      "anchor": "ex-e01-e01-1-2",
+      "jp": "그는 친구예요"
+    },
+    {
+      "chapterId": "e02",
+      "chapterTitleEn": "Topic and subject: 은/는 and 이/가",
+      "chapterTitleZh": "主题与主格：은/는、이/가",
+      "pointTitleEn": "Subject marker 이/가",
+      "pointTitleZh": "主格助词 이/가",
+      "anchor": "ex-e02-e02-2-0",
+      "jp": "친구가 와요"
+    },
+    {
+      "chapterId": "e02",
+      "chapterTitleEn": "Topic and subject: 은/는 and 이/가",
+      "chapterTitleZh": "主题与主格：은/는、이/가",
+      "pointTitleEn": "Formal polite speech: 합니다체",
+      "pointTitleZh": "正式敬语：합니다체",
+      "anchor": "ex-e02-e02-4-1",
+      "jp": "친구가 옵니다"
+    },
+    {
+      "chapterId": "e03",
+      "chapterTitleEn": "있다 / 없다 and the Location Particle 에",
+      "chapterTitleZh": "存在与处所：있다/없다、에",
+      "pointTitleEn": "있어요 — existence and possession",
+      "pointTitleZh": "있어요 — 存在与拥有",
+      "anchor": "ex-e03-e03-1-1",
+      "jp": "친구가 있어요"
+    },
+    {
+      "chapterId": "e03",
+      "chapterTitleEn": "있다 / 없다 and the Location Particle 에",
+      "chapterTitleZh": "存在与处所：있다/없다、에",
+      "pointTitleEn": "없어요 — non-existence and lack",
+      "pointTitleZh": "없어요 — 不存在与没有",
+      "anchor": "ex-e03-e03-2-2",
+      "jp": "친구가 없어요"
+    },
+    {
+      "chapterId": "e05",
+      "chapterTitleEn": "합니다체: the formal style and questions",
+      "chapterTitleZh": "합니다체：格式体与疑问",
+      "pointTitleEn": "The ㅂ니다 vs 습니다 allomorph rule",
+      "pointTitleZh": "ㅂ니다 与 습니다 的变体规则",
+      "anchor": "ex-e05-e05-3-0",
+      "jp": "친구가 옵니다"
+    },
+    {
+      "chapterId": "e06",
+      "chapterTitleEn": "The object particle 을/를 and SOV order",
+      "chapterTitleZh": "宾格助词 을/를 与 SOV 语序",
+      "pointTitleEn": "를 after vowel-final nouns",
+      "pointTitleZh": "元音结尾的名词后接 를",
+      "anchor": "ex-e06-e06-2-1",
+      "jp": "저는 친구를 만나요"
+    },
+    {
+      "chapterId": "e06",
+      "chapterTitleEn": "The object particle 을/를 and SOV order",
+      "chapterTitleZh": "宾格助词 을/를 与 SOV 语序",
+      "pointTitleEn": "Richer SOV sentences with adverbs",
+      "pointTitleZh": "含副词的丰富 SOV 句型",
+      "anchor": "ex-e06-e06-4-2",
+      "jp": "저는 친구를 기다려요"
+    },
+    {
+      "chapterId": "e07",
+      "chapterTitleEn": "Place particles: 에 vs 에서",
+      "chapterTitleZh": "处所助词：에 与 에서",
+      "pointTitleEn": "에 = static location (where something exists)",
+      "pointTitleZh": "에 表示静态位置（某物存在的地方）",
+      "anchor": "ex-e07-e07-2-0",
+      "jp": "친구가 집에 있어요"
+    },
+    {
+      "chapterId": "e07",
+      "chapterTitleEn": "Place particles: 에 vs 에서",
+      "chapterTitleZh": "处所助词：에 与 에서",
+      "pointTitleEn": "에서 = from (origin or starting point)",
+      "pointTitleZh": "에서 表示出发地（来源或起点）",
+      "anchor": "ex-e07-e07-4-2",
+      "jp": "친구가 미국에서 왔어요"
+    },
+    {
+      "chapterId": "e08",
+      "chapterTitleEn": "Past tense: 았/었어요",
+      "chapterTitleZh": "过去时：았/었어요",
+      "pointTitleEn": "Verb past tense — 합니다체 (았/었습니다)",
+      "pointTitleZh": "动词过去时 — 합니다체（았/었습니다）",
+      "anchor": "ex-e08-e08-2-2",
+      "jp": "친구를 만났습니다"
+    },
+    {
+      "chapterId": "e11",
+      "chapterTitleEn": "and / with / also / only: 와·과·하고, 도, 만",
+      "chapterTitleZh": "并列与助词：와·과·하고、도、만",
+      "pointTitleEn": "와/과/하고 — connecting nouns: \"and / with\"",
+      "pointTitleZh": "와/과/하고 — 名词连接：\"和/跟\"",
+      "anchor": "ex-e11-e11-1-2",
+      "jp": "친구하고 영화를 봐요"
+    },
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-고 with verbs: listing and sequence",
+      "pointTitleZh": "-고 接动词：并列与顺序",
+      "anchor": "ex-e12-e12-1-2",
+      "jp": "친구를 만나고 영화를 봐요"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Vowel-stem verbs: attach -면 directly",
+      "pointTitleZh": "元音词干动词：直接接 -면",
+      "anchor": "ex-i01-i01-1-1",
+      "jp": "가면 친구를 만나요"
+    },
+    {
+      "chapterId": "i02",
+      "chapterTitleEn": "Desire and progressive: -고 싶다, -고 있다",
+      "chapterTitleZh": "愿望与进行：-고 싶다、-고 있다",
+      "pointTitleEn": "-고 싶어요 with subjects, objects, and destinations",
+      "pointTitleZh": "-고 싶어요 与主语、宾语、目的地",
+      "anchor": "ex-i02-i02-2-2",
+      "jp": "저는 친구를 만나고 싶어요"
+    },
+    {
+      "chapterId": "i02",
+      "chapterTitleEn": "Desire and progressive: -고 싶다, -고 있다",
+      "chapterTitleZh": "愿望与进行：-고 싶다、-고 있다",
+      "pointTitleEn": "Richer progressives and the formal register -고 있습니다",
+      "pointTitleZh": "更丰富的进行体以及正式语体 -고 있습니다",
+      "anchor": "ex-i02-i02-4-1",
+      "jp": "친구를 기다리고 있어요"
+    },
+    {
+      "chapterId": "i04",
+      "chapterTitleEn": "Future and intention: -(으)ㄹ 거예요",
+      "chapterTitleZh": "将来与意图：-(으)ㄹ 거예요",
+      "pointTitleEn": "-ㄹ 거예요 with vowel-final stems",
+      "pointTitleZh": "元音结尾词干后接 -ㄹ 거예요",
+      "anchor": "ex-i04-i04-1-1",
+      "jp": "친구가 올 거예요"
+    },
+    {
+      "chapterId": "i08",
+      "chapterTitleEn": "Comparison: 보다, 처럼, 제일",
+      "chapterTitleZh": "比较：보다、처럼、제일",
+      "pointTitleEn": "처럼 — 'like / as' (resemblance particle)",
+      "pointTitleZh": "처럼 — 类比助词（像……一样）",
+      "anchor": "ex-i08-i08-2-2",
+      "jp": "친구처럼 말해요"
+    }
+  ],
+  "카페": [
+    {
+      "chapterId": "i06",
+      "chapterTitleEn": "Suggestions: -(으)ㄹ까요?",
+      "chapterTitleZh": "提议：-(으)ㄹ까요?",
+      "pointTitleEn": "Propositive with place: 에서 + -(으)ㄹ까요?",
+      "pointTitleZh": "加地点的提议句：에서 + -(으)ㄹ까요?",
+      "anchor": "ex-i06-i06-4-0",
+      "jp": "카페에서 커피를 마실까요?"
+    }
+  ],
+  "커피": [
+    {
+      "chapterId": "e01",
+      "chapterTitleEn": "Noun sentences: the copula 이다",
+      "chapterTitleZh": "名词谓语句：이다",
+      "pointTitleEn": "해요체 copula after a vowel-final noun: 예요",
+      "pointTitleZh": "해요체系动词接无收音名词：예요",
+      "anchor": "ex-e01-e01-3-2",
+      "jp": "이것은 커피예요"
+    },
+    {
+      "chapterId": "e02",
+      "chapterTitleEn": "Topic and subject: 은/는 and 이/가",
+      "chapterTitleZh": "主题与主格：은/는、이/가",
+      "pointTitleEn": "Topic marker 은/는",
+      "pointTitleZh": "主题助词 은/는",
+      "anchor": "ex-e02-e02-1-2",
+      "jp": "커피는 맛있어요"
+    },
+    {
+      "chapterId": "e04",
+      "chapterTitleEn": "해요체: the polite present (verbs)",
+      "chapterTitleZh": "해요체：动词的非格式体现在时",
+      "pointTitleEn": "The 해요체 rule: inf + 요",
+      "pointTitleZh": "해요체 规则：连用形 + 요",
+      "anchor": "ex-e04-e04-1-2",
+      "jp": "저는 커피를 마셔요"
+    },
+    {
+      "chapterId": "e05",
+      "chapterTitleEn": "합니다체: the formal style and questions",
+      "chapterTitleZh": "합니다체：格式体与疑问",
+      "pointTitleEn": "Formal adjectives and contrasting 해요체 vs 합니다체",
+      "pointTitleZh": "正式体形容词及해요체与합니다체的对比",
+      "anchor": "ex-e05-e05-4-1",
+      "jp": "커피가 비쌉니다"
+    },
+    {
+      "chapterId": "e06",
+      "chapterTitleEn": "The object particle 을/를 and SOV order",
+      "chapterTitleZh": "宾格助词 을/를 与 SOV 语序",
+      "pointTitleEn": "를 after vowel-final nouns",
+      "pointTitleZh": "元音结尾的名词后接 를",
+      "anchor": "ex-e06-e06-2-0",
+      "jp": "저는 커피를 마셔요"
+    },
+    {
+      "chapterId": "e08",
+      "chapterTitleEn": "Past tense: 았/었어요",
+      "chapterTitleZh": "过去时：았/었어요",
+      "pointTitleEn": "Vowel harmony is already baked in",
+      "pointTitleZh": "元音和谐已内嵌于词基",
+      "anchor": "ex-e08-e08-3-0",
+      "jp": "커피를 마셨어요"
+    },
+    {
+      "chapterId": "e09",
+      "chapterTitleEn": "Negation: 안 and -지 않다",
+      "chapterTitleZh": "否定：안 与 -지 않다",
+      "pointTitleEn": "Short negation 안 with an object noun",
+      "pointTitleZh": "短否定 안 与宾语名词",
+      "anchor": "ex-e09-e09-2-1",
+      "jp": "커피를 안 마셔요"
+    },
+    {
+      "chapterId": "e11",
+      "chapterTitleEn": "and / with / also / only: 와·과·하고, 도, 만",
+      "chapterTitleZh": "并列与助词：와·과·하고、도、만",
+      "pointTitleEn": "와/과/하고 — connecting nouns: \"and / with\"",
+      "pointTitleZh": "와/과/하고 — 名词连接：\"和/跟\"",
+      "anchor": "ex-e11-e11-1-1",
+      "jp": "커피와 차를 마셔요"
+    },
+    {
+      "chapterId": "e11",
+      "chapterTitleEn": "and / with / also / only: 와·과·하고, 도, 만",
+      "chapterTitleZh": "并列与助词：와·과·하고、도、만",
+      "pointTitleEn": "Combining particles in richer sentences",
+      "pointTitleZh": "在更丰富的句子中组合助词",
+      "anchor": "ex-e11-e11-4-0",
+      "jp": "저도 커피하고 빵을 먹어요"
+    },
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-고 with adjectives: listing properties",
+      "pointTitleZh": "-고 接形容词：并列描述",
+      "anchor": "ex-e12-e12-2-2",
+      "jp": "커피가 싸고 맛있어요"
+    },
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-아서/어서 with adjectives: giving a reason",
+      "pointTitleZh": "-아서/어서 接形容词：表示原因",
+      "anchor": "ex-e12-e12-4-1",
+      "jp": "커피가 맛있어서 마셔요"
+    },
+    {
+      "chapterId": "i06",
+      "chapterTitleEn": "Suggestions: -(으)ㄹ까요?",
+      "chapterTitleZh": "提议：-(으)ㄹ까요?",
+      "pointTitleEn": "받침 allomorphs: -ㄹ까요 vs -을까요",
+      "pointTitleZh": "받침 变体：-ㄹ까요 与 -을까요",
+      "anchor": "ex-i06-i06-2-0",
+      "jp": "커피를 마실까요?"
+    },
+    {
+      "chapterId": "i06",
+      "chapterTitleEn": "Suggestions: -(으)ㄹ까요?",
+      "chapterTitleZh": "提议：-(으)ㄹ까요?",
+      "pointTitleEn": "Propositive with place: 에서 + -(으)ㄹ까요?",
+      "pointTitleZh": "加地点的提议句：에서 + -(으)ㄹ까요?",
+      "anchor": "ex-i06-i06-4-0",
+      "jp": "카페에서 커피를 마실까요?"
+    },
+    {
+      "chapterId": "i08",
+      "chapterTitleEn": "Comparison: 보다, 처럼, 제일",
+      "chapterTitleZh": "比较：보다、처럼、제일",
+      "pointTitleEn": "보다 — 'than' (comparative particle)",
+      "pointTitleZh": "보다 — 比较助词（比……）",
+      "anchor": "ex-i08-i08-1-0",
+      "jp": "커피가 차보다 비싸요"
+    }
+  ],
+  "크다": [
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Irregular adjective attributives (으-irregular and ㅂ-irregular)",
+      "pointTitleZh": "不规则形容词冠形词形（으 不规则、ㅂ 不规则）",
+      "anchor": "ex-a01-a01-3-0",
+      "jp": "큰 집에 있어요"
+    },
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-고 with adjectives: listing properties",
+      "pointTitleZh": "-고 接形容词：并列描述",
+      "anchor": "ex-e12-e12-2-1",
+      "jp": "방이 크고 좋아요"
+    },
+    {
+      "chapterId": "i07",
+      "chapterTitleEn": "Irregular verbs: ㄷ, ㅂ, 으",
+      "chapterTitleZh": "不规则动词：ㄷ、ㅂ、으",
+      "pointTitleEn": "으-irregular verbs and adjectives: 으 drops before vowels",
+      "pointTitleZh": "으 不规则动词和形容词：元音前 으 脱落",
+      "anchor": "ex-i07-i07-3-2",
+      "jp": "방이 커요"
+    },
+    {
+      "chapterId": "i08",
+      "chapterTitleEn": "Comparison: 보다, 처럼, 제일",
+      "chapterTitleZh": "比较：보다、처럼、제일",
+      "pointTitleEn": "보다 — 'than' (comparative particle)",
+      "pointTitleZh": "보다 — 比较助词（比……）",
+      "anchor": "ex-i08-i08-1-1",
+      "jp": "저는 언니보다 키가 커요"
+    }
+  ],
+  "키": [
+    {
+      "chapterId": "i08",
+      "chapterTitleEn": "Comparison: 보다, 처럼, 제일",
+      "chapterTitleZh": "比较：보다、처럼、제일",
+      "pointTitleEn": "보다 — 'than' (comparative particle)",
+      "pointTitleZh": "보다 — 比较助词（比……）",
+      "anchor": "ex-i08-i08-1-1",
+      "jp": "저는 언니보다 키가 커요"
+    }
+  ],
+  "편지": [
+    {
+      "chapterId": "i07",
+      "chapterTitleEn": "Irregular verbs: ㄷ, ㅂ, 으",
+      "chapterTitleZh": "不规则动词：ㄷ、ㅂ、으",
+      "pointTitleEn": "으-irregular verbs and adjectives: 으 drops before vowels",
+      "pointTitleZh": "으 不规则动词和形容词：元音前 으 脱落",
+      "anchor": "ex-i07-i07-3-0",
+      "jp": "편지를 써요"
+    },
+    {
+      "chapterId": "i07",
+      "chapterTitleEn": "Irregular verbs: ㄷ, ㅂ, 으",
+      "chapterTitleZh": "不规则动词：ㄷ、ㅂ、으",
+      "pointTitleEn": "으-irregular verbs and adjectives: 으 drops before vowels",
+      "pointTitleZh": "으 不规则动词和形容词：元音前 으 脱落",
+      "anchor": "ex-i07-i07-3-1",
+      "jp": "편지를 썼어요"
+    }
+  ],
+  "하다": [
+    {
+      "chapterId": "a04",
+      "chapterTitleEn": "Commands and propositives in context",
+      "chapterTitleZh": "命令与提议的实际运用",
+      "pointTitleEn": "Register contrast in dialogue",
+      "pointTitleZh": "对话中的语域对比",
+      "anchor": "ex-a04-a04-4-0",
+      "jp": "조용히 해라."
+    },
+    {
+      "chapterId": "a04",
+      "chapterTitleEn": "Commands and propositives in context",
+      "chapterTitleZh": "命令与提议的实际运用",
+      "pointTitleEn": "Register contrast in dialogue",
+      "pointTitleZh": "对话中的语域对比",
+      "anchor": "ex-a04-a04-4-1",
+      "jp": "조용히 하세요."
+    },
+    {
+      "chapterId": "a05",
+      "chapterTitleEn": "Quotation: -라고 하다 (introduction)",
+      "chapterTitleZh": "引用：-라고 하다（入门）",
+      "pointTitleEn": "Core pattern: [clause]라고 해요",
+      "pointTitleZh": "核心句型：[小句]라고 해요",
+      "anchor": "ex-a05-a05-1-0",
+      "jp": "친구가 \"바빠요\"라고 해요"
+    },
+    {
+      "chapterId": "a05",
+      "chapterTitleEn": "Quotation: -라고 하다 (introduction)",
+      "chapterTitleZh": "引用：-라고 하다（入门）",
+      "pointTitleEn": "Core pattern: [clause]라고 해요",
+      "pointTitleZh": "核心句型：[小句]라고 해요",
+      "anchor": "ex-a05-a05-1-1",
+      "jp": "선생님이 \"좋아요\"라고 해요"
+    },
+    {
+      "chapterId": "a05",
+      "chapterTitleEn": "Quotation: -라고 하다 (introduction)",
+      "chapterTitleZh": "引用：-라고 하다（入门）",
+      "pointTitleEn": "Core pattern: [clause]라고 해요",
+      "pointTitleZh": "核心句型：[小句]라고 해요",
+      "anchor": "ex-a05-a05-1-2",
+      "jp": "어머니가 \"집에 있어요\"라고 해요"
+    },
+    {
+      "chapterId": "a05",
+      "chapterTitleEn": "Quotation: -라고 하다 (introduction)",
+      "chapterTitleZh": "引用：-라고 하다（入门）",
+      "pointTitleEn": "Past quotation: [clause]라고 했어요",
+      "pointTitleZh": "过去式引用：[小句]라고 했어요",
+      "anchor": "ex-a05-a05-2-0",
+      "jp": "친구가 \"갈 거예요\"라고 했어요"
+    },
+    {
+      "chapterId": "a05",
+      "chapterTitleEn": "Quotation: -라고 하다 (introduction)",
+      "chapterTitleZh": "引用：-라고 하다（入门）",
+      "pointTitleEn": "Past quotation: [clause]라고 했어요",
+      "pointTitleZh": "过去式引用：[小句]라고 했어요",
+      "anchor": "ex-a05-a05-2-1",
+      "jp": "선생님이 \"어려워요\"라고 했어요"
+    },
+    {
+      "chapterId": "a05",
+      "chapterTitleEn": "Quotation: -라고 하다 (introduction)",
+      "chapterTitleZh": "引用：-라고 하다（入门）",
+      "pointTitleEn": "Past quotation: [clause]라고 했어요",
+      "pointTitleZh": "过去式引用：[小句]라고 했어요",
+      "anchor": "ex-a05-a05-2-2",
+      "jp": "친구가 \"밥을 먹었어요\"라고 했어요"
+    },
+    {
+      "chapterId": "a05",
+      "chapterTitleEn": "Quotation: -라고 하다 (introduction)",
+      "chapterTitleZh": "引用：-라고 하다（入门）",
+      "pointTitleEn": "Formal register: -라고 합니다 / 했습니다",
+      "pointTitleZh": "正式体：-라고 합니다 / 했습니다",
+      "anchor": "ex-a05-a05-3-0",
+      "jp": "친구가 \"바빠요\"라고 합니다"
+    },
+    {
+      "chapterId": "a05",
+      "chapterTitleEn": "Quotation: -라고 하다 (introduction)",
+      "chapterTitleZh": "引用：-라고 하다（入门）",
+      "pointTitleEn": "Formal register: -라고 합니다 / 했습니다",
+      "pointTitleZh": "正式体：-라고 합니다 / 했습니다",
+      "anchor": "ex-a05-a05-3-1",
+      "jp": "선생님이 \"갈 거예요\"라고 했습니다"
+    },
+    {
+      "chapterId": "a05",
+      "chapterTitleEn": "Quotation: -라고 하다 (introduction)",
+      "chapterTitleZh": "引用：-라고 하다（入门）",
+      "pointTitleEn": "Richer inner clauses: object + verb and negative forms",
+      "pointTitleZh": "更丰富的内部小句：带宾语的动词和否定形式",
+      "anchor": "ex-a05-a05-4-0",
+      "jp": "오빠가 \"안 먹었어요\"라고 했어요"
+    },
+    {
+      "chapterId": "a05",
+      "chapterTitleEn": "Quotation: -라고 하다 (introduction)",
+      "chapterTitleZh": "引用：-라고 하다（入门）",
+      "pointTitleEn": "Richer inner clauses: object + verb and negative forms",
+      "pointTitleZh": "更丰富的内部小句：带宾语的动词和否定形式",
+      "anchor": "ex-a05-a05-4-1",
+      "jp": "친구가 \"책을 읽을 거예요\"라고 했어요"
+    },
+    {
+      "chapterId": "e05",
+      "chapterTitleEn": "합니다체: the formal style and questions",
+      "chapterTitleZh": "합니다체：格式体与疑问",
+      "pointTitleEn": "Questions: Verb + 합니까 / 습니까?",
+      "pointTitleZh": "疑问句：动词 + 합니까 / 습니까？",
+      "anchor": "ex-e05-e05-2-0",
+      "jp": "무엇을 합니까?"
+    },
+    {
+      "chapterId": "e09",
+      "chapterTitleEn": "Negation: 안 and -지 않다",
+      "chapterTitleZh": "否定：안 与 -지 않다",
+      "pointTitleEn": "Short negation 안 with an object noun",
+      "pointTitleZh": "短否定 안 与宾语名词",
+      "anchor": "ex-e09-e09-2-2",
+      "jp": "오늘은 공부를 안 해요"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Adjective conditionals",
+      "pointTitleZh": "形容词条件句",
+      "anchor": "ex-i01-i01-3-2",
+      "jp": "바쁘면 나중에 해요"
+    },
+    {
+      "chapterId": "i03",
+      "chapterTitleEn": "Ability: -(으)ㄹ 수 있다/없다",
+      "chapterTitleZh": "能力：-(으)ㄹ 수 있다/없다",
+      "pointTitleEn": "Vowel-stem verbs: -ㄹ 수 있어요",
+      "pointTitleZh": "元音词干动词：-ㄹ 수 있어요",
+      "anchor": "ex-i03-i03-1-1",
+      "jp": "저는 한국어를 할 수 있어요"
+    }
+  ],
+  "학교": [
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-고: sequential 'and then'",
+      "pointTitleZh": "-고：顺序'然后'",
+      "anchor": "ex-a06-a06-1-0",
+      "jp": "저는 밥을 먹고 학교에 가요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-아서/-어서: causal and sequential 'and so / and then'",
+      "pointTitleZh": "-아서/-어서：因果与紧接顺序的'因此/然后'",
+      "anchor": "ex-a06-a06-2-0",
+      "jp": "저는 매일 학교에 가서 한국어를 공부해요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-(으)면: the conditional 'if'",
+      "pointTitleZh": "-(으)면：条件'如果'",
+      "anchor": "ex-a06-a06-3-2",
+      "jp": "날씨가 좋으면 학교에 가요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "Putting it all together: multi-clause chains",
+      "pointTitleZh": "综合：多分句连锁句",
+      "anchor": "ex-a06-a06-4-0",
+      "jp": "저는 매일 학교에 가서 한국어를 공부하고 집에 와요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "Putting it all together: multi-clause chains",
+      "pointTitleZh": "综合：多分句连锁句",
+      "anchor": "ex-a06-a06-4-2",
+      "jp": "저는 매일 밥을 먹고 학교에 가서 한국어를 배워요"
+    },
+    {
+      "chapterId": "e03",
+      "chapterTitleEn": "있다 / 없다 and the Location Particle 에",
+      "chapterTitleZh": "存在与处所：있다/없다、에",
+      "pointTitleEn": "합니다체 — 있습니다 / 없습니다",
+      "pointTitleZh": "합니다체 — 있습니다 / 없습니다",
+      "anchor": "ex-e03-e03-4-2",
+      "jp": "저는 학교에 있습니다"
+    },
+    {
+      "chapterId": "e07",
+      "chapterTitleEn": "Place particles: 에 vs 에서",
+      "chapterTitleZh": "处所助词：에 与 에서",
+      "pointTitleEn": "에 = destination (direction of movement)",
+      "pointTitleZh": "에 表示目的地（移动方向）",
+      "anchor": "ex-e07-e07-1-0",
+      "jp": "학교에 가요"
+    },
+    {
+      "chapterId": "e07",
+      "chapterTitleEn": "Place particles: 에 vs 에서",
+      "chapterTitleZh": "处所助词：에 与 에서",
+      "pointTitleEn": "에 = static location (where something exists)",
+      "pointTitleZh": "에 表示静态位置（某物存在的地方）",
+      "anchor": "ex-e07-e07-2-2",
+      "jp": "선생님이 학교에 있습니다"
+    },
+    {
+      "chapterId": "e07",
+      "chapterTitleEn": "Place particles: 에 vs 에서",
+      "chapterTitleZh": "处所助词：에 与 에서",
+      "pointTitleEn": "에서 = location of an action",
+      "pointTitleZh": "에서 表示动作发生的地点",
+      "anchor": "ex-e07-e07-3-2",
+      "jp": "학교에서 한국어를 배웁니다"
+    },
+    {
+      "chapterId": "e07",
+      "chapterTitleEn": "Place particles: 에 vs 에서",
+      "chapterTitleZh": "处所助词：에 与 에서",
+      "pointTitleEn": "에서 = from (origin or starting point)",
+      "pointTitleZh": "에서 表示出发地（来源或起点）",
+      "anchor": "ex-e07-e07-4-0",
+      "jp": "학교에서 와요"
+    },
+    {
+      "chapterId": "e09",
+      "chapterTitleEn": "Negation: 안 and -지 않다",
+      "chapterTitleZh": "否定：안 与 -지 않다",
+      "pointTitleEn": "Short negation: 안 before a verb",
+      "pointTitleZh": "短否定：안 放在动词前",
+      "anchor": "ex-e09-e09-1-1",
+      "jp": "저는 학교에 안 가요"
+    },
+    {
+      "chapterId": "e09",
+      "chapterTitleEn": "Negation: 안 and -지 않다",
+      "chapterTitleZh": "否定：안 与 -지 않다",
+      "pointTitleEn": "Long negation: -지 않아요",
+      "pointTitleZh": "长否定：-지 않아요",
+      "anchor": "ex-e09-e09-3-1",
+      "jp": "저는 학교에 가지 않아요"
+    },
+    {
+      "chapterId": "e12",
+      "chapterTitleEn": "Connectives: -고 and -아서/어서",
+      "chapterTitleZh": "连接词尾：-고 与 -아서/어서",
+      "pointTitleEn": "-아서/어서 with verbs: reason and close sequence",
+      "pointTitleZh": "-아서/어서 接动词：原因与紧密序列",
+      "anchor": "ex-e12-e12-3-2",
+      "jp": "학교에 가서 공부해요"
+    },
+    {
+      "chapterId": "i01",
+      "chapterTitleEn": "Conditional: -(으)면",
+      "chapterTitleZh": "条件：-(으)면",
+      "pointTitleEn": "Vowel-stem verbs: attach -면 directly",
+      "pointTitleZh": "元音词干动词：直接接 -면",
+      "anchor": "ex-i01-i01-1-2",
+      "jp": "학교에 가면 공부해요"
+    }
+  ],
+  "학생": [
+    {
+      "chapterId": "e01",
+      "chapterTitleEn": "Noun sentences: the copula 이다",
+      "chapterTitleZh": "名词谓语句：이다",
+      "pointTitleEn": "The topic particle 은/는",
+      "pointTitleZh": "主题助词 은/는",
+      "anchor": "ex-e01-e01-1-0",
+      "jp": "저는 학생이에요"
+    },
+    {
+      "chapterId": "e01",
+      "chapterTitleEn": "Noun sentences: the copula 이다",
+      "chapterTitleZh": "名词谓语句：이다",
+      "pointTitleEn": "해요체 copula after a consonant-final noun: 이에요",
+      "pointTitleZh": "해요체系动词接有收音名词：이에요",
+      "anchor": "ex-e01-e01-2-0",
+      "jp": "저는 학생이에요"
+    },
+    {
+      "chapterId": "e01",
+      "chapterTitleEn": "Noun sentences: the copula 이다",
+      "chapterTitleZh": "名词谓语句：이다",
+      "pointTitleEn": "합니다체: the formal copula 입니다",
+      "pointTitleZh": "합니다체：正式系动词 입니다",
+      "anchor": "ex-e01-e01-4-0",
+      "jp": "저는 학생입니다"
+    },
+    {
+      "chapterId": "e02",
+      "chapterTitleEn": "Topic and subject: 은/는 and 이/가",
+      "chapterTitleZh": "主题与主格：은/는、이/가",
+      "pointTitleEn": "Topic marker 은/는",
+      "pointTitleZh": "主题助词 은/는",
+      "anchor": "ex-e02-e02-1-0",
+      "jp": "저는 학생이에요"
+    },
+    {
+      "chapterId": "e02",
+      "chapterTitleEn": "Topic and subject: 은/는 and 이/가",
+      "chapterTitleZh": "主题与主格：은/는、이/가",
+      "pointTitleEn": "Subject marker 이/가",
+      "pointTitleZh": "主格助词 이/가",
+      "anchor": "ex-e02-e02-2-1",
+      "jp": "학생이 책을 읽어요"
+    },
+    {
+      "chapterId": "e02",
+      "chapterTitleEn": "Topic and subject: 은/는 and 이/가",
+      "chapterTitleZh": "主题与主格：은/는、이/가",
+      "pointTitleEn": "Formal polite speech: 합니다체",
+      "pointTitleZh": "正式敬语：합니다체",
+      "anchor": "ex-e02-e02-4-0",
+      "jp": "저는 학생입니다"
+    },
+    {
+      "chapterId": "e05",
+      "chapterTitleEn": "합니다체: the formal style and questions",
+      "chapterTitleZh": "합니다체：格式体与疑问",
+      "pointTitleEn": "Declarative: Verb + 합니다 / 습니다",
+      "pointTitleZh": "陈述句：动词 + 합니다 / 습니다",
+      "anchor": "ex-e05-e05-1-2",
+      "jp": "저는 학생입니다"
+    }
+  ],
+  "한국": [
+    {
+      "chapterId": "e02",
+      "chapterTitleEn": "Topic and subject: 은/는 and 이/가",
+      "chapterTitleZh": "主题与主格：은/는、이/가",
+      "pointTitleEn": "Topic vs Subject — different focus",
+      "pointTitleZh": "话题与主格的语义对比",
+      "anchor": "ex-e02-e02-3-0",
+      "jp": "저는 한국 사람이에요"
+    },
+    {
+      "chapterId": "i02",
+      "chapterTitleEn": "Desire and progressive: -고 싶다, -고 있다",
+      "chapterTitleZh": "愿望与进行：-고 싶다、-고 있다",
+      "pointTitleEn": "-고 싶어요 with subjects, objects, and destinations",
+      "pointTitleZh": "-고 싶어요 与主语、宾语、目的地",
+      "anchor": "ex-i02-i02-2-0",
+      "jp": "한국에 가고 싶어요"
+    },
+    {
+      "chapterId": "i08",
+      "chapterTitleEn": "Comparison: 보다, 처럼, 제일",
+      "chapterTitleZh": "比较：보다、처럼、제일",
+      "pointTitleEn": "제일 / 가장 — superlative adverbs ('the most')",
+      "pointTitleZh": "제일 / 가장 — 最高级副词（最……）",
+      "anchor": "ex-i08-i08-3-1",
+      "jp": "한국 음식이 제일 맛있어요"
+    }
+  ],
+  "한국어": [
+    {
+      "chapterId": "a01",
+      "chapterTitleEn": "Noun-modifying clauses (관형사형)",
+      "chapterTitleZh": "定语从句（冠形词形）",
+      "pointTitleEn": "Verb attributive -는 (present action)",
+      "pointTitleZh": "动词冠形词形 -는（现在进行/习惯动作）",
+      "anchor": "ex-a01-a01-1-2",
+      "jp": "한국어를 배우는 친구가 있어요"
+    },
+    {
+      "chapterId": "a02",
+      "chapterTitleEn": "Reasons: -아서 vs -(으)니까",
+      "chapterTitleZh": "原因：-아서 与 -(으)니까",
+      "pointTitleEn": "-(으)니까 — assertive explanation and 받침 allomorphs",
+      "pointTitleZh": "-(으)니까：断言性解释与收音异形体",
+      "anchor": "ex-a02-a02-2-2",
+      "jp": "한국어가 어려우니까 많이 공부해요"
+    },
+    {
+      "chapterId": "a03",
+      "chapterTitleEn": "Contrast: -지만 and -는데",
+      "chapterTitleZh": "转折：-지만 与 -는데",
+      "pointTitleEn": "-지만 with verbs and richer sentences",
+      "pointTitleZh": "-지만 接动词与更丰富的句子",
+      "anchor": "ex-a03-a03-2-2",
+      "jp": "한국어를 배우지만 아직 어려워요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-고: sequential 'and then'",
+      "pointTitleZh": "-고：顺序'然后'",
+      "anchor": "ex-a06-a06-1-2",
+      "jp": "저는 한국어를 공부하고 집에 가요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "-아서/-어서: causal and sequential 'and so / and then'",
+      "pointTitleZh": "-아서/-어서：因果与紧接顺序的'因此/然后'",
+      "anchor": "ex-a06-a06-2-0",
+      "jp": "저는 매일 학교에 가서 한국어를 공부해요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "Putting it all together: multi-clause chains",
+      "pointTitleZh": "综合：多分句连锁句",
+      "anchor": "ex-a06-a06-4-0",
+      "jp": "저는 매일 학교에 가서 한국어를 공부하고 집에 와요"
+    },
+    {
+      "chapterId": "a06",
+      "chapterTitleEn": "Putting it together: longer sentences",
+      "chapterTitleZh": "综合：更长的句子",
+      "pointTitleEn": "Putting it all together: multi-clause chains",
+      "pointTitleZh": "综合：多分句连锁句",
+      "anchor": "ex-a06-a06-4-2",
+      "jp": "저는 매일 밥을 먹고 학교에 가서 한국어를 배워요"
+    },
+    {
+      "chapterId": "e04",
+      "chapterTitleEn": "해요체: the polite present (verbs)",
+      "chapterTitleZh": "해요체：动词的非格式体现在时",
+      "pointTitleEn": "Vowel contraction: 보다 → 봐요, 읽다 → 읽어요",
+      "pointTitleZh": "元音缩合：보다 → 봐요，읽다 → 읽어요",
+      "anchor": "ex-e04-e04-2-2",
+      "jp": "한국어를 배워요"
+    },
+    {
+      "chapterId": "e04",
+      "chapterTitleEn": "해요체: the polite present (verbs)",
+      "chapterTitleZh": "해요체：动词的非格式体现在时",
+      "pointTitleEn": "하다 verbs: noun + 해요",
+      "pointTitleZh": "하다 动词：名词 + 해요",
+      "anchor": "ex-e04-e04-3-1",
+      "jp": "저는 매일 한국어를 공부해요"
+    },
+    {
+      "chapterId": "e06",
+      "chapterTitleEn": "The object particle 을/를 and SOV order",
+      "chapterTitleZh": "宾格助词 을/를 与 SOV 语序",
+      "pointTitleEn": "를 after vowel-final nouns",
+      "pointTitleZh": "元音结尾的名词后接 를",
+      "anchor": "ex-e06-e06-2-2",
+      "jp": "저는 한국어를 배워요"
+    },
+    {
+      "chapterId": "e06",
+      "chapterTitleEn": "The object particle 을/를 and SOV order",
+      "chapterTitleZh": "宾格助词 을/를 与 SOV 语序",
+      "pointTitleEn": "Richer SOV sentences with adverbs",
+      "pointTitleZh": "含副词的丰富 SOV 句型",
+      "anchor": "ex-e06-e06-4-1",
+      "jp": "저는 한국어를 공부해요"
+    },
+    {
+      "chapterId": "e07",
+      "chapterTitleEn": "Place particles: 에 vs 에서",
+      "chapterTitleZh": "处所助词：에 与 에서",
+      "pointTitleEn": "에서 = location of an action",
+      "pointTitleZh": "에서 表示动作发生的地点",
+      "anchor": "ex-e07-e07-3-2",
+      "jp": "학교에서 한국어를 배웁니다"
+    },
+    {
+      "chapterId": "e08",
+      "chapterTitleEn": "Past tense: 았/었어요",
+      "chapterTitleZh": "过去时：았/었어요",
+      "pointTitleEn": "Verb past tense — 해요체 (았/었어요)",
+      "pointTitleZh": "动词过去时 — 해요체（았/었어요）",
+      "anchor": "ex-e08-e08-1-2",
+      "jp": "저는 한국어를 배웠어요"
+    },
+    {
+      "chapterId": "e10",
+      "chapterTitleEn": "Adjectives (형용사)",
+      "chapterTitleZh": "形容词",
+      "pointTitleEn": "Hamnida formal polite — 해요체 vs 합니다체",
+      "pointTitleZh": "합니다체正式礼貌体 —— 해요체 vs 합니다체",
+      "anchor": "ex-e10-e10-4-1",
+      "jp": "한국어가 어렵습니다"
+    },
+    {
+      "chapterId": "i02",
+      "chapterTitleEn": "Desire and progressive: -고 싶다, -고 있다",
+      "chapterTitleZh": "愿望与进行：-고 싶다、-고 있다",
+      "pointTitleEn": "Richer progressives and the formal register -고 있습니다",
+      "pointTitleZh": "更丰富的进行体以及正式语体 -고 있습니다",
+      "anchor": "ex-i02-i02-4-0",
+      "jp": "저는 한국어를 배우고 있어요"
+    },
+    {
+      "chapterId": "i03",
+      "chapterTitleEn": "Ability: -(으)ㄹ 수 있다/없다",
+      "chapterTitleZh": "能力：-(으)ㄹ 수 있다/없다",
+      "pointTitleEn": "Vowel-stem verbs: -ㄹ 수 있어요",
+      "pointTitleZh": "元音词干动词：-ㄹ 수 있어요",
+      "anchor": "ex-i03-i03-1-1",
+      "jp": "저는 한국어를 할 수 있어요"
+    },
+    {
+      "chapterId": "i03",
+      "chapterTitleEn": "Ability: -(으)ㄹ 수 있다/없다",
+      "chapterTitleZh": "能力：-(으)ㄹ 수 있다/없다",
+      "pointTitleEn": "Negation: -(으)ㄹ 수 없어요",
+      "pointTitleZh": "否定：-(으)ㄹ 수 없어요",
+      "anchor": "ex-i03-i03-3-2",
+      "jp": "저는 한국어를 말할 수 없어요"
+    },
+    {
+      "chapterId": "i04",
+      "chapterTitleEn": "Future and intention: -(으)ㄹ 거예요",
+      "chapterTitleZh": "将来与意图：-(으)ㄹ 거예요",
+      "pointTitleEn": "하다 verbs in -(으)ㄹ 거예요",
+      "pointTitleZh": "하다 动词的将来形 -(으)ㄹ 거예요",
+      "anchor": "ex-i04-i04-3-1",
+      "jp": "저는 한국어를 공부할 거예요"
+    },
+    {
+      "chapterId": "i07",
+      "chapterTitleEn": "Irregular verbs: ㄷ, ㅂ, 으",
+      "chapterTitleZh": "不规则动词：ㄷ、ㅂ、으",
+      "pointTitleEn": "ㅂ-irregular adjectives: ㅂ → 우 before vowels",
+      "pointTitleZh": "ㅂ 不规则形容词：元音前 ㅂ → 우",
+      "anchor": "ex-i07-i07-2-2",
+      "jp": "한국어가 쉬워요"
+    },
+    {
+      "chapterId": "i07",
+      "chapterTitleEn": "Irregular verbs: ㄷ, ㅂ, 으",
+      "chapterTitleZh": "不规则动词：ㄷ、ㅂ、으",
+      "pointTitleEn": "Irregular stems in longer sentences",
+      "pointTitleZh": "不规则词干在更长句子中的应用",
+      "anchor": "ex-i07-i07-4-2",
+      "jp": "한국어를 배우면 쉬워요"
+    }
+  ]
+};

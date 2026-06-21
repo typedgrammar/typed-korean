@@ -2,15 +2,15 @@
  * Worked sentence examples — both composition styles, with 띄어쓰기 spacing.
  */
 import type {
-  Sentence,
-  PronounPart,
+  AdverbPart,
+  ConjugateCopula,
+  CopulaPart,
   NounPart,
   ParticlePart,
-  VerbPart,
-  CopulaPart,
-  AdverbPart,
   PhraseWithParticle,
-  ConjugateCopula,
+  PronounPart,
+  Sentence,
+  VerbPart,
 } from "../index";
 import type { Verb } from "../verb-types";
 

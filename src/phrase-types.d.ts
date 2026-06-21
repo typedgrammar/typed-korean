@@ -11,9 +11,9 @@
  *      picks the right one (that is exactly the rule the course teaches).
  */
 
-import type { Verb, VerbForm, ConjugateVerb } from "./verb-types";
 import type { Adjective, AdjectiveForm, ConjugateAdjective } from "./adjective-types";
-import type { CopulaForm, ConjugateCopula } from "./copula-types";
+import type { ConjugateCopula, CopulaForm } from "./copula-types";
+import type { ConjugateVerb, Verb, VerbForm } from "./verb-types";
 import type { InterrogativeAdverb } from "./adverb-types";
 
 /* --- particles (조사) ------------------------------------------------------ */
@@ -147,7 +147,9 @@ export type LiteralPart<S extends string = string> = { type: "literal"; value: S
 export type PhrasePart =
   | VerbPart
   | AdjectivePart
-  | CopulaPart
+  // widen Batchim to boolean here so copula parts of EITHER 받침 allomorph
+  // satisfy the union, while the user-facing CopulaPart default stays `true`.
+  | CopulaPart<string, CopulaForm, boolean>
   | NounPart
   | PronounPart
   | ProperNounPart

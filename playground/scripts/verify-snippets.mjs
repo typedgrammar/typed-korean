@@ -91,6 +91,11 @@ const options = {
   target: ts.ScriptTarget.ES2020,
   module: ts.ModuleKind.ESNext,
   moduleResolution: ts.ModuleResolutionKind.Bundler,
+  // Treat every snippet file as its own module so same-named aliases (e.g. a
+  // final `type S`) in different snippets don't collide in a shared global
+  // scope. A snippet that genuinely forgets its `import` will still fail with
+  // "Cannot find name …", which is what we want to catch.
+  moduleDetection: ts.ModuleDetectionKind.Force,
   strict: true,
   skipLibCheck: true,
   noEmit: true,
@@ -134,7 +139,10 @@ function resolvedString(ex) {
     const type = checker.getTypeFromTypeNode(last.type);
     const str = checker.typeToString(type, undefined, ts.TypeFormatFlags.NoTruncation);
     const m = str.match(/^"([\s\S]*)"$/);
-    return m ? m[1] : str;
+    // typeToString renders a string-literal type with the inner " and \ escaped;
+    // unescape them to recover the real sentence (so quotes inside a sentence,
+    // e.g. quotation with 라고, compare equal to example.jp).
+    return m ? m[1].replace(/\\(["\\])/g, "$1") : str;
   } catch {
     return null;
   }

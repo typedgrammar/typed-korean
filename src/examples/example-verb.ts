@@ -3,7 +3,7 @@
  * Each `const _check: Form = "surface"` asserts the type resolves to exactly
  * that Korean string; a wrong string is a type error.
  */
-import type { Verb, ConjugateVerb } from "../verb-types";
+import type { ConjugateVerb, Verb } from "../verb-types";
 
 // 먹다 — regular, consonant-final stem (받침 ㄱ)
 type 먹다 = Verb & {

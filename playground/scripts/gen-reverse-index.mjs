@@ -40,7 +40,10 @@ const { extractWords } = evalModule(path.join(SRC, "vocab/extract.ts"));
 // (particles, です…) aren't extracted, so they're expected to have no links.
 const contentWords = new Set();
 const entriesDir = path.join(SRC, "vocab/entries");
-for (const f of fs.readdirSync(entriesDir).filter((f) => f.endsWith(".ts"))) {
+const entryFiles = fs.existsSync(entriesDir)
+  ? fs.readdirSync(entriesDir).filter((f) => f.endsWith(".ts"))
+  : [];
+for (const f of entryFiles) {
   const mod = evalModule(path.join(entriesDir, f));
   for (const e of mod.default || mod.entries || []) if (e?.word) contentWords.add(e.word);
 }
