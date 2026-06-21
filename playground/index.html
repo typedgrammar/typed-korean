@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><circle cx=%2250%22 cy=%2250%22 r=%2248%22 fill=%22%232f6f9f%22/><path d=%22M50 2 A48 48 0 0 1 50 98 A24 24 0 0 1 50 50 A24 24 0 0 0 50 2 Z%22 fill=%22%23c8443c%22/><circle cx=%2250%22 cy=%2226%22 r=%2210%22 fill=%22%23c8443c%22/><circle cx=%2250%22 cy=%2274%22 r=%2210%22 fill=%22%232f6f9f%22/></svg>" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="color-scheme" content="light dark" />
+    <title>Typed Korean Playground</title>
+    <!--app-head-->
+    <!-- Tutorial type: textbook feel in a Korean serif (Gowun Batang / Nanum
+         Myeongjo) for Korean, with LXGW WenKai Screen (霞鹜文楷, 楷体) carrying
+         the Chinese UI. Noto Serif KR/SC are the fallbacks. The webfont is
+         unicode-range split, so only the glyphs on screen get downloaded. -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&family=Nanum+Myeongjo:wght@400;700;800&family=Noto+Serif+KR:wght@400;600;700&family=Noto+Serif+SC:wght@400;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-screen-webfont/style.css"
+    />
+    <script>
+      // Resolve the theme before first paint so there is no light-mode flash.
+      // Order: explicit stored choice, then OS preference.
+      (function () {
+        try {
+          var stored = localStorage.getItem("tk-theme");
+          var theme =
+            stored === "light" || stored === "dark"
+              ? stored
+              : window.matchMedia &&
+                window.matchMedia("(prefers-color-scheme: dark)").matches
+              ? "dark"
+              : "light";
+          document.documentElement.dataset.theme = theme;
+        } catch (e) {
+          document.documentElement.dataset.theme = "light";
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"><!--app-html--></div>
+    <script type="module" src="/src/entry-client.tsx"></script>
+  </body>
+</html>
